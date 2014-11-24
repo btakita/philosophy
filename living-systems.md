@@ -1,8 +1,6 @@
 [Living Systems](https://en.wikipedia.org/wiki/Living_systems)
 
-```
-Living systems according to Parent (1996) are by definition "open self-organizing systems that have the special characteristics of life and interact with their environment. This takes place by means of information and material-energy exchanges. Living systems can be as simple as a single cell or as complex as a supranational organization such as the European Union. Regardless of their complexity, they each depend upon the same essential twenty subsystems (or processes) in order to survive and to continue the propagation of their species or types beyond a single generation".
-```
+> Living systems according to Parent (1996) are by definition "open self-organizing systems that have the special characteristics of life and interact with their environment. This takes place by means of information and material-energy exchanges. Living systems can be as simple as a single cell or as complex as a supranational organization such as the European Union. Regardless of their complexity, they each depend upon the same essential twenty subsystems (or processes) in order to survive and to continue the propagation of their species or types beyond a single generation".
 
 This paper indicates organisms living in physical space. These organisms consists of cells, animals, plants, societies, oceans, Earth, etc. Over time the actual physical space occupied by a living system may change considerably.
 
