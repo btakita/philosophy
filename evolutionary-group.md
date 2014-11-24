@@ -1,4 +1,4 @@
-An Evolutionary Group
+# An Evolutionary Group
 
 An Evolutionary Group is comprised of beings who facilitate the evolution of the group & it's members with the intent of expanding consciousness. Other people can also help one see beyond oneself, thus expanding perspective & consciousness.
 

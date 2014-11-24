@@ -1,8 +1,8 @@
-Expanding Consciousness
+# Expanding Consciousness
 
 Expanding Consciousness is our survival & thrival strategy.
 
-Consciousness (https://en.wikipedia.org/wiki/Consciousness) is the Perspective on Existence (https://en.wikipedia.org/wiki/Existence). Reality is the experience of consciousness, or the experience of a being perceiving existence.
+[Consciousness](https://en.wikipedia.org/wiki/Consciousness) is the [Perspective on Existence] (https://en.wikipedia.org/wiki/Existence). Reality is the experience of consciousness, or the experience of a being perceiving existence.
 
 Expanding Consciousness is the expanding perspective of a being. A being can be a person, object, animal, collective group of people, a planet, a universe, existence itself.
 

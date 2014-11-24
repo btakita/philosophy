@@ -1,4 +1,0 @@
-http://microjs.com
-
-http://exosjs.com/ - Exoskeleton (Backbone.js without dependencies)
-https://github.com/es-shims/es5-shim
