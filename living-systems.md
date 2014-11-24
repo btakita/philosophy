@@ -10,11 +10,11 @@ This paper indicates organisms living in physical space. These organisms consist
 
 My central thesis is that systems at all levels are open systems composed of subsystems which process inputs, throughputs, and outputs of various forms of matter, energy, and information.
 
-# Matter-energy
+## Matter-energy
 
 "Matter is anything which has mass and occupies physical space. Energy as defined by physics is the ability to do work"
 
-# Information
+## Information
 "the degree of freedom that exist in a given situation to choose among signals, symbols, messages, or patterns to be transmitted"
 
 ## Subsystems which process both matter-energy and information:
