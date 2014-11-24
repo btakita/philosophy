@@ -42,6 +42,8 @@ My central thesis is that systems at all levels are open systems composed of sub
 * Encoder
 * Output transducer
 
+[Transcendental Creative Systems](http://www.vantagequest.org/trees/livingsystems1.htm)
+
 [Complex Systems](https://en.wikipedia.org/wiki/Complex_systems)
 
 [Is Nature a Low Complexity Sampler](http://emanueleviola.wordpress.com/2014/11/09/is-nature-a-low-complexity-sampler/)
