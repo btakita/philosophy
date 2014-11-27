@@ -1,13 +1,13 @@
 philosophy
 ==========
 
-A [Perspective](./perspective.md) on [Existence](./existence.md) or [God](./god.md).
+A [Perspective](./src/perspective.md) on [Existence](./src/existence.md) or [God](./src/god.md).
 
 ## Goals
 
-This philosophy seeks to define words as [abstractions](./abstraction.md). These [scope](./scope.md) of these abstractions are broadened to apply, with proper [context](./context.md), to any [entity](./entity.md) in existence.
+This philosophy seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
 
-## [Scope](./scope.md) & [Resolution](./resolution.md)
+## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
 Since scope of this Philosophy is Existence/God, the resolution tends to be low. More detail can be referenced with outbound links.
 
