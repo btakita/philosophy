@@ -13,7 +13,7 @@ Since scope of this Philosophy is Existence/God, the resolution tends to be low.
 
 This philosophy defines abstractions in relation to Existence. It is meant to be used to provide awareness & degrees of freedom to create systems using various scopes.
 
-## Navigating on Github
+## Navigating on github.com
 
 Press "t", then type in the word you want to navigate to.
 
