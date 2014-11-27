@@ -2,6 +2,6 @@
 
 > A system is a set of interacting or interdependent components forming an integrated whole.
 
-[Physical System](http://en.wikipedia.org/wiki/Physical_system)
+[Physical System](./physical-system.md)
 
-[Conceptual System](http://en.wikipedia.org/wiki/Conceptual_system)
+[Conceptual System](./conceptual-system.md)
