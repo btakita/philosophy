@@ -5,13 +5,17 @@ A [Perspective](./src/perspective.md) on [Existence](./src/existence.md) or [God
 
 ## Goals
 
-This philosophy seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
+This [philosophy](./src/philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
 Since scope of this Philosophy is Existence/God, the resolution tends to be low. More detail can be referenced with outbound links.
 
-This philosophy defines abstractions in relation to Existence. It is meant to be used to provide awareness & degrees of freedom to create systems using various scopes.
+This philosophy defines abstractions in relation to Existence. It is a [tool](./src/tool.md) that provides awareness & degrees of freedom to create systems with various scopes.
+
+[Human](./src/human.md) [Beings](./src/being.md) can [focus](./src/focus.md) on a finite amount of complexity which is much less than the scope of Existence. This means humans must utilize abstractions to create systems that can be focused upon, lest the human becomes overwhelmed and not effective.
+
+You can zoom in & out of the [system](./system.md) to observe details & [patterns](./src/pattern.md).
 
 ## Navigating on github.com
 

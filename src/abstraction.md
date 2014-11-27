@@ -16,3 +16,5 @@ Abstraction is:
 * to keep only relevant aspects
 * a kind of reformulation or approximation
 * a to change levels of detail
+
+Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity.
