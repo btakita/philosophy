@@ -4,6 +4,8 @@
 
 [History - Wikipedia](https://en.wikipedia.org/wiki/History)
 
+Stories hold [state](./src/state.md) that can be used for [context](./context.md).
+
 Note that history is a masculine term. Herstory is a feminine term. Ourstory is gender-neutral & inclusive.
 
 ## Recounting of a sequence of events/Narrative
