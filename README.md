@@ -1,7 +1,7 @@
 philosophy
 ==========
 
-A [Perspective](./src/perspective.md) on [Existence](./src/existence.md) or [God](./src/god.md).
+A [tool](./src/tool.md) to explore [perspective](./src/perspective.md) [realities](./src/reality.md) of [Existence](./src/existence.md) or [God](./src/god.md).
 
 ## Goals
 
