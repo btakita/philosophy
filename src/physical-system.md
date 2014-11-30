@@ -4,4 +4,4 @@
 
 > the portion of the physical universe chosen for analysis
 
-A [physical system](./physical-system.md) is often represented by a model, which is a conceptual system.
+A physical system is often represented by a [model](./model.md), which is a [conceptual system](./conceptual-system.md).

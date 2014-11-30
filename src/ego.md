@@ -16,6 +16,6 @@ However, the ego is not always considered undesireable. The ego can be a defensi
 
 # References
 * <a href="http://thespiritscience.net/2014/11/22/the-ego-is-a-pdf-file/" target="_blank">The Ego is a PDF File</a>
-* <a href="http://www.beliefnet.com/columnists/areasontosmile/2012/03/qa-is-the-ego-a-bad-thing.html" target="_blank">&A: Is the Ego a bad thing?</a>
+* <a href="http://www.beliefnet.com/columnists/areasontosmile/2012/03/qa-is-the-ego-a-bad-thing.html" target="_blank">Q&A: Is the Ego a bad thing?</a>
 * <a href="http://www.entrepreneur.com/article/234496" target="_blank">Why a Big Ego Isn't Always Bad</a>
 * <a href="http://www.mindbodygreen.com/0-5680/A-Powerful-New-Way-to-Understand-Your-Ego.html" target="_blank">A Powerful New Way to Understand Your Ego</a>

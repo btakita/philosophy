@@ -10,3 +10,4 @@ Here is [this philosophy's](./this-philosophy.md) To Do List.
 * feminine
 * Iterate on living-systems
 * Iterate on expanding-consciousness
+* violence

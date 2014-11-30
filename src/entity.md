@@ -4,7 +4,7 @@
 
 An entity can be a concept, person, object, animal, collective group of people, a planet, a universe, existence (or [God](./god.md)) itself.
 
-## [being](./being)
+## [Being](./being)
 
 <a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being - Wikipedia</a>
 
@@ -22,7 +22,7 @@ A system is another way of looking at a being, from an internalized [perspective
 
 A Soul is an entity's meta entity.
 
-## Information
+## [Information](./information.md)
 
 <a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information - Wikipedia</a>
 
