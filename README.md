@@ -1,7 +1,7 @@
 philosophy
 ==========
 
-A [tool](./src/tool.md) that utilizes [redefinition](./src/redefinition.md) to explore [perspective](./src/perspective.md) [realities](./src/reality.md) of [Existence](./src/existence.md) or [God](./src/god.md).
+A [tool](./src/tool.md) that [defines](./src/redefinition.md) words to explore [perspective](./src/perspective.md) [realities](./src/reality.md) of [Existence](./src/existence.md) or [God](./src/god.md).
 
 ## Goals
 
