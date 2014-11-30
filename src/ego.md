@@ -1,10 +1,18 @@
-The ego is the being's definition of self. The notion of self from the perspective of the being.
+# Ego
+
+[Ego - Wikipedia](https://en.wikipedia.org/wiki/Ego)
+
+[Ego (Freudian) - Wikipedia](https://en.wikipedia.org/wiki/Ego_(Freudian))
+
+[Ego (Religion) - Wikipedia](https://en.wikipedia.org/wiki/Ego_(religion))
+
+The ego is the [being's](./being.md) definition of self. The notion of self from the [perspective](./perspective.md) of the being.
 
 It is also the cause to impose one's reality onto another being.
 
-If the ego is given too much energy and used to commit violence (physical, spiritual, emotional, etc), then it can be a bad thing. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
+If the ego is given too much [energy](./energy.md) and used to commit violence (physical, spiritual, emotional, etc), then it can be considered undesirable. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
 
-However, the ego is not always bad. The ego can be a defensive measure to protect the being against another being imposing an illusion (via brainwashing or other coercive techniques).
+However, the ego is not always considered undesireable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other coercive techniques).
 
 # References
 * [The Ego is a PDF File](http://thespiritscience.net/2014/11/22/the-ego-is-a-pdf-file/)

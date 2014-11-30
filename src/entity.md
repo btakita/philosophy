@@ -6,7 +6,7 @@
 
 [Being - Wikipedia](https://en.wikipedia.org/wiki/Being)
 
-A being is an anthropomorphized(./anthropomorphism.md) entity.
+A being is an [anthropomorphized](./anthropomorphism.md) entity.
 
 ## [System](./system.md)
 

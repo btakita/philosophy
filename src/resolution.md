@@ -12,7 +12,7 @@ One can focus perspective to gain a higher resolution.
 
 You can zoom in & out of the [system](./system.md) to observe details & patterns.
 
-## Resolution applied to a Fractal
+## Resolution applied to a [Fractal](./fractal.md)
 
 Resolution is increased when zooming into a Fractal. Resolution is decreased when zooming out of a Fractal.
 
@@ -28,4 +28,4 @@ A Resolution that consists of multiple Resolutions. Often not distinguished by a
 
 A skewed projection of an Object/Concept in a different Resolution based on the current Resolution.
 
-[http://stevenpoole.net/articles/scale-confusion/](http://stevenpoole.net/articles/scale-confusion/)
+[Scale Concept - stevenpoole.net](http://stevenpoole.net/articles/scale-confusion/)

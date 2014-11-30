@@ -20,4 +20,4 @@
 
 [Evolutionary Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 
-In modern culture, Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).
+In modern [culture](./culture.md), Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).

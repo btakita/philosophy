@@ -2,11 +2,11 @@
 
 [Soul - Wikipedia](https://en.wikipedia.org/wiki/Soul)
 
-A Soul is an [entity's](./entity.md) meta entity. It is the system that determines how an entity acts, thinks, feels, etc. Related to [Intelligence](./intelligence.md).
+A Soul is an [entity's](./entity.md) meta entity. It is the [system](./system.md) that determines how an entity acts, thinks, feels, etc. Related to [Intelligence](./intelligence.md).
 
-There is also a notion of timelessness or dimensionality beyond three dimensional space. Similar to an entity's spiritual journey through time.
+There is also a notion of timelessness or dimensionality beyond three dimensional space. Similar to an entity's [spiritual](./spirituality.md) journey through time.
 
-When souls connect, there's a notion of co-[evolution](./evolution.md) between the souls.
+When [souls](./soul.md) connect, there's a notion of co-[evolution](./evolution.md) between the souls.
 
 ## [Animism](./animism.md)
 

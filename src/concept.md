@@ -2,4 +2,4 @@
 
 [Concept - Wikipedia](https://en.wikipedia.org/wiki/Concept)
 
-Related to [abstraction](./abstraction.md).
+Related to [abstraction](./abstraction.md) and [Conceptual System](./conceptual-system.md).

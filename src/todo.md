@@ -8,3 +8,4 @@ Here is [this philosophy's](./this-philosophy.md) To Do List.
 * Disagreements rooted in differing definitions of abstractions between entities
 * masculine
 * feminine
+* Iterate on living-systems
