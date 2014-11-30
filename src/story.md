@@ -1,8 +1,8 @@
 # Story
 
-[Story - Wikipedia](https://en.wikipedia.org/wiki/Story)
+<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story - Wikipedia</a>
 
-[History - Wikipedia](https://en.wikipedia.org/wiki/History)
+<a href="https://en.wikipedia.org/wiki/History" target="_blank">History - Wikipedia</a>
 
 Stories hold [state](./src/state.md) that can be used for [context](./context.md).
 

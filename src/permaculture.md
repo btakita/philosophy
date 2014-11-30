@@ -1,17 +1,17 @@
 # Permaculture
 
-[Permaculture - Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
+<a href="https://en.wikipedia.org/wiki/Permaculture" target="_blank">Permaculture - Wikipedia</a>
 
-[Geoff Lawton](http://www.geofflawton.com/)
+<a href="http://www.geofflawton.com/" target="_blank">geofflawton.com</a>
 
-[permaculturenews.org](http://permaculturenews.org)
+<a href="http://permaculturenews.org" target="_blank">permaculturenews.org</a>
 
-[Green Gold - Documentary by John D. Liu](https://www.youtube.com/watch?v=YBLZmwlPa8A)
+<a href="https://www.youtube.com/watch?v=YBLZmwlPa8A" target="_blank">Green Gold - Documentary by John D. Liu - youtube.com</a>
 
-[#1 What if we change - Hope in a Changing Climate by John D. Liu](https://www.youtube.com/watch?v=6iJKiFSQLn4)
+<a href="https://www.youtube.com/watch?v=6iJKiFSQLn4" target="_blank">#1 What if we change - Hope in a Changing Climate by John D. Liu - youtube.com</a>
 
 ## Water Harvesting Earthworks
 
-[Tiger Hill Water Harvesting Earthworks](http://permaculturenews.org/2014/10/17/tiger-hill-permaculture-phase-1-water-harvesting-earthworks/)
+<a href="http://permaculturenews.org/2014/10/17/tiger-hill-permaculture-phase-1-water-harvesting-earthworks/" target="_blank">Tiger Hill Water Harvesting Earthworks - permaculturenews.org</a>
 
-[Property Purchase Check List](http://www.geofflawton.com/fe/33811-property-purchase-check-list)
+<a href="http://www.geofflawton.com/fe/33811-property-purchase-check-list" target="_blank">Property Purchase Check List - geofflawton.com</a>

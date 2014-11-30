@@ -1,14 +1,20 @@
 # Expanding Consciousness
 
-Expanding Consciousness is our survival & thrival strategy.
+<a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) - Wikepedia</a>
 
-[Consciousness](https://en.wikipedia.org/wiki/Consciousness) is the [Perspective on Existence] (https://en.wikipedia.org/wiki/Existence). [Reality](./reality.md) is the experience of consciousness, or the experience of a being perceiving [existence](./existence.md).
+<a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness - Wikepedia</a>
 
-Expanding Consciousness is the expanding [perspective](./perspective.md) of a [being](./being.md). A being can be a person, object, animal, collective group of people, a planet, a universe, existence (or [God](./god.md)) itself.
+Expanding Consciousness is the expansion of the [consciousness](./consciousness.md) or [perspective](./perspective.md) of an [entity](./entity.md).
+
+## Learning & Forgetting
+
+An entity expands it's consciousness when it accumulates knowledge & experience by the process of learning. The entity contracts it's consciousness by the process of forgetting how to achieve a certain state.
 
 Mastery of a craft often leads to a [spiritual experience](./spirituality.md) because one is in a [state](./state.md) of [coherence](./coherence.md) while performing the craft. With coherence, one is more likely to create something [novel](./novelty.md), thus expanding consciousness.
 
 "Fresh eyes" also expand consciousness by incorporating a novel perspective into the [collective](./collective.md). While masters have proficiency evolving down certain paths, a fresh perspective exposes new paths.
+
+## Evolution
 
 Biological life, and [humans](./human.md), rely on [evolution](./evolution.md) to create novel solutions to transcend the situation.
 
@@ -16,4 +22,4 @@ Humanity is perpetually working to survive and/or thrive. At times the dominant 
 
 ## Spirituality & Spiritual Work
 
-Spirituality is the desire to expand consciousness. [Spiritual work](./spiritual-work.md) expands consciousness in both the act of doing and with the end result. Spiritual work is the process of transcendence, which allows us to to survive & thrive in our personal & collective situations.
+Spirituality is the desire to expand consciousness. [Spiritual work](./spiritual-work.md) expands consciousness in both the act of doing and with the end result. Spiritual work is the process of transcendence, which allows us to to survive & thrive in our personal & [collective](./collective.md) situations.

@@ -4,4 +4,4 @@ There are many synonyms to a Being. The reason for this split in language relate
 
 A being is an [anthropomorphized](./anthropomorphism.md) [entity](./entity.md).
 
-[Anthropomorphism - Wikipedia](https://en.wikipedia.org/wiki/Anthropomorphism)
+<a href="https://en.wikipedia.org/wiki/Anthropomorphism" target="_blank">Anthropomorphism - Wikipedia</a>

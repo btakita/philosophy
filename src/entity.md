@@ -1,29 +1,31 @@
 # Entity
 
-[Entity - Wikipedia](https://en.wikipedia.org/wiki/Entity)
+<a href="https://en.wikipedia.org/wiki/Entity" target="_blank">Entity - Wikipedia</a>
+
+An entity can be a concept, person, object, animal, collective group of people, a planet, a universe, existence (or [God](./god.md)) itself.
 
 ## [being](./being)
 
-[Being - Wikipedia](https://en.wikipedia.org/wiki/Being)
+<a href="https://en.wikipedia.org/wiki/Being" target="_blank">Being - Wikipedia</a>
 
 A being is an [anthropomorphized](./anthropomorphism.md) entity.
 
 ## [System](./system.md)
 
-[System - Wikipedia](https://en.wikipedia.org/wiki/System)
+<a href="https://en.wikipedia.org/wiki/System" target="_blank">System - Wikipedia</a>
 
 A system is another way of looking at a being, from an internalized [perspective](./perspective.md).
 
 ## [Soul](./soul.md)
 
-[Soul - Wikipedia](https://en.wikipedia.org/wiki/Soul)
+<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul - Wikipedia</a>
 
 A Soul is an entity's meta entity.
 
 ## Information
 
-[Information - Wikipedia](https://en.wikipedia.org/wiki/Information)
+<a href="https://en.wikipedia.org/wiki/Information" target="_blank">Information - Wikipedia</a>
 
-[Physical Information - Wikipedia](https://en.wikipedia.org/wiki/Physical_information)
+<a href="https://en.wikipedia.org/wiki/Physical_information" target="_blank">Physical Information - Wikipedia</a>
 
 That which can distinguish one thing from another.

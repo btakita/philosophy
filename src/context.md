@@ -1,5 +1,5 @@
 # Context
 
-[Context (Language Use) - Wikipedia](https://en.wikipedia.org/wiki/Context_(language_use))
+<a href="https://en.wikipedia.org/wiki/Context_(language_use)" target="_blank">Context (Language Use) - Wikipedia</a>
 
-[Context (Computing) - Wikipedia](https://en.wikipedia.org/wiki/Context_(computing))
+<a href="https://en.wikipedia.org/wiki/Context_(computing)" target="_blank">Context (Computing) - Wikipedia</a>

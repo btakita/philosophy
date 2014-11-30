@@ -1,5 +1,5 @@
 # Activism
 
-[Activism - Wikipedia](https://en.wikipedia.org/wiki/Activism)
+<a href="https://en.wikipedia.org/wiki/Activism" target="_blank">Activism - Wikipedia</a>
 
-[Anonymous- The Story of the Hacktivists (Full Documentary)](https://www.youtube.com/watch?v=i7tQ1VtLMyk)
+<a href="Anonymous- The Story of the Hacktivists (Full Documentary)" target="_blank">Anonymous- The Story of the Hacktivists (Full Documentary)</a>

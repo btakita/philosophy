@@ -1,8 +1,8 @@
 # Control System
 
-[Control System - Wikipedia](https://en.wikipedia.org/wiki/Control_system)
+<a href="https://en.wikipedia.org/wiki/Control_system" target="_blank">[Control System - Wikipedia</a>
 
-[Control System (disambiguation) - Wikipedia](https://en.wikipedia.org/wiki/Control_system_(disambiguation))
+<a href="https://en.wikipedia.org/wiki/Control_system_(disambiguation)" target="_blank">Control System (disambiguation) - Wikipedia</a>
 
 A [system](./system.md) to manage, command, direct or regulate the behavior of other systems.
 

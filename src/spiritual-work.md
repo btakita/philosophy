@@ -1,6 +1,6 @@
 # Spirituality through Work
 
-[Spirituality - Wikipedia](https://en.wikipedia.org/wiki/Spirituality)
+<a href="https://en.wikipedia.org/wiki/Spirituality" target="_blank">Spirituality - Wikipedia</a>
 
 A [spiritual](./spirituality.md) experience can be triggered by work. Work is the activity that adults spend most of their conscious time performing.
 

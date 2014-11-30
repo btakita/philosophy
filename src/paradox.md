@@ -1,6 +1,6 @@
 # Paradox
 
-[Paradox - Wikipedia](https://en.wikipedia.org/wiki/Paradox)
+<a href="https://en.wikipedia.org/wiki/Paradox" target="_blank">Paradox - Wikipedia</a>
 
 > A paradox is a statement that apparently contradicts itself and yet might be true. Most logical paradoxes are known to be invalid arguments but are still valuable in promoting critical thinking.
 

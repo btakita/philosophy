@@ -1,6 +1,6 @@
 # Truth
 
-[Truth - Wikipedia](https://en.wikipedia.org/wiki/Truth)
+<a href="https://en.wikipedia.org/wiki/Truth" target="_blank">Truth - Wikipedia</a>
 
 > being in accord with fact or reality, or fidelity to an original or to a standard or ideal
 

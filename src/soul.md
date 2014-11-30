@@ -1,6 +1,6 @@
 # Soul
 
-[Soul - Wikipedia](https://en.wikipedia.org/wiki/Soul)
+<a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul - Wikipedia</a>
 
 A Soul is an [entity's](./entity.md) meta entity. It is the [system](./system.md) that determines how an entity acts, thinks, feels, etc. Related to [Intelligence](./intelligence.md).
 

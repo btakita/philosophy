@@ -1,6 +1,6 @@
 # Intelligence
 
-[Intelligence - Wikipedia](https://en.wikipedia.org/wiki/Intelligence)
+<a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank">Intelligence - Wikipedia</a>
 
 [This philosophy](./this-philosophy.md) expands the traditional scope of Intelligence to mean the [control system](./control-system.md) of an [entity](./entity.md). Since entity's include inanimate objects (i.e. rocks) or [concepts](./concept.md), inanimate objects and concepts have intelligence. Related to [soul](./soul.md).
 

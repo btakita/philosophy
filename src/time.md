@@ -1,5 +1,5 @@
 # Time
 
-[Time - Wikipedia](https://en.wikipedia.org/wiki/Time)
+<a href="https://en.wikipedia.org/wiki/Time" target="_blank">Time - Wikipedia</a>
 
-[10 Dimensions Explained](https://www.youtube.com/watch?v=p4Gotl9vRGs)
+<a href="https://www.youtube.com/watch?v=p4Gotl9vRGs" target="_blank">10 Dimensions Explained - youtube.com</a>

@@ -1,6 +1,6 @@
 # Emotion
 
-[Emotion - Wikipedia](https://en.wikipedia.org/wiki/Emotion)
+<a href="https://en.wikipedia.org/wiki/Emotion" target="_blank">Emotion - Wikipedia</a>
 
 > emotion is a subjective, conscious experience characterized primarily by psychophysiological expressions, biological reactions, and mental states. Emotion is often associated and considered reciprocally influential with mood, temperament, personality, disposition, and motivation. It also is influenced by hormones and neurotransmitters such as dopamine, noradrenaline, serotonin, oxytocin, cortisol and GABA. Emotion is often the driving force behind motivation, positive or negative. An alternative definition of emotion is a "positive or negative experience that is associated with a particular pattern of physiological activity."
 

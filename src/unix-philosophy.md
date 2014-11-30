@@ -1,3 +1,3 @@
 # UNIX Philosophy
 
-[UNIX Philosophy - Wikipedia-Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+<a href="https://en.wikipedia.org/wiki/Unix_philosophy" target="_blank">UNIX Philosophy - Wikipedia</a>

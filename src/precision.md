@@ -2,7 +2,7 @@
 
 Relates to [accuracy](./accuracy.md).
 
-[Accuracy and Precision - Wikipedia](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">Accuracy and Precision - Wikipedia</a>
 
 > precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results
 

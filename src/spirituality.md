@@ -1,8 +1,8 @@
 # Spirituality
 
-[Spirituality - Wikipedia](https://en.wikipedia.org/wiki/Spirituality)
+<a href="https://en.wikipedia.org/wiki/Spirituality" target="_blank">Spirituality - Wikipedia</a>
 
-[Spirit - Wikipedia](https://en.wikipedia.org/wiki/Spirit)
+<a href="https://en.wikipedia.org/wiki/Spirit" target="_blank">Spirit - Wikipedia</a>
 
 Spirituality is the way of [expanding consciousness](./expanding-consciousness.md), or taking the perspective of [God](./god.md). It is the [evolution](./evolution.md) of a [being](./being.md) to expanded consciousness.
 

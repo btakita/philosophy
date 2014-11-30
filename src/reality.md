@@ -1,6 +1,6 @@
 # Reality
 
-[Reality - Wikipedia](https://en.wikipedia.org/wiki/Reality)
+<a href="https://en.wikipedia.org/wiki/Reality" target="_blank">Reality - Wikipedia</a>
 
 The interpretation of [Existence](./existence.md) from a [soul's](./soul.md) [perspective](./perspective.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 

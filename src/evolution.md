@@ -1,23 +1,23 @@
 # Evolution
 
-[Evolution - Etymology](http://www.etymonline.com/index.php?term=evolution)
+<a href="http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution - etymonline.com</a>
 
-[Evolution - Wikipedia](https://en.wikipedia.org/wiki/Evolution_(disambiguation))
+<a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution - Wikipedia</a>
 
 > In biology, evolution is change in traits of a population of organisms over time (due to a number of mechanisms and processes).
 
-[Introduction to Evolution - Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_evolution)
+<a href="https://en.wikipedia.org/wiki/Introduction_to_evolution" target="_blank">Introduction to Evolution - Wikipedia</a>
 
-[Biological Evolution - Wikipedia](https://en.wikipedia.org/wiki/Evolution)
+<a href="https://en.wikipedia.org/wiki/Evolution" target="_blank">Biological Evolution - Wikipedia</a>
 
-[Spiritual Evolution - Wikipedia](https://en.wikipedia.org/wiki/Spiritual_evolution)
+<a href="https://en.wikipedia.org/wiki/Spiritual_evolution" target="_blank">Spiritual Evolution - Wikipedia</a>
 
-[Universal Evolution - Wikipedia](https://en.wikipedia.org/wiki/Universal_evolution)
+<a href="https://en.wikipedia.org/wiki/Universal_evolution" target="_blank">Universal Evolution - Wikipedia</a>
 
-[Time Evolution - Wikipedia](https://en.wikipedia.org/wiki/Time_evolution)
+<a href="https://en.wikipedia.org/wiki/Time_evolution" target="_blank">Time Evolution - Wikipedia</a>
 
-[Technological Evolution - Wikipedia](https://en.wikipedia.org/wiki/Technological_evolution)
+<a href="https://en.wikipedia.org/wiki/Technological_evolution" target="_blank">Technological Evolution - Wikipedia</a>
 
-[Evolutionary Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
+<a href="https://en.wikipedia.org/wiki/Evolutionary_algorithm" target="_blank">Evolutionary Algorithm - Wikipedia</a>
 
 In modern [culture](./culture.md), Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).

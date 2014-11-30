@@ -1,10 +1,10 @@
 # Ego
 
-[Ego - Wikipedia](https://en.wikipedia.org/wiki/Ego)
+<a href="https://en.wikipedia.org/wiki/Ego" target="_blank">Ego - Wikipedia</a>
 
-[Ego (Freudian) - Wikipedia](https://en.wikipedia.org/wiki/Ego_(Freudian))
+<a href="https://en.wikipedia.org/wiki/Ego_(Freudian)" target="_blank">Ego (Freudian) - Wikipedia</a>
 
-[Ego (Religion) - Wikipedia](https://en.wikipedia.org/wiki/Ego_(religion))
+<a href="https://en.wikipedia.org/wiki/Ego_(religion)" target="_blank">Ego (Religion) - Wikipedia</a>
 
 The ego is the [being's](./being.md) definition of self. The notion of self from the [perspective](./perspective.md) of the being.
 
@@ -15,7 +15,7 @@ If the ego is given too much [energy](./energy.md) and used to commit violence (
 However, the ego is not always considered undesireable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other coercive techniques).
 
 # References
-* [The Ego is a PDF File](http://thespiritscience.net/2014/11/22/the-ego-is-a-pdf-file/)
-* [Q&A: Is the Ego a bad thing?](http://www.beliefnet.com/columnists/areasontosmile/2012/03/qa-is-the-ego-a-bad-thing.html)
-* [Why a Big Ego Isn't Always Bad](http://www.entrepreneur.com/article/234496)
-* [A Powerful New Way to Understand Your Ego](http://www.mindbodygreen.com/0-5680/A-Powerful-New-Way-to-Understand-Your-Ego.html)
+* <a href="http://thespiritscience.net/2014/11/22/the-ego-is-a-pdf-file/" target="_blank">The Ego is a PDF File</a>
+* <a href="http://www.beliefnet.com/columnists/areasontosmile/2012/03/qa-is-the-ego-a-bad-thing.html" target="_blank">&A: Is the Ego a bad thing?</a>
+* <a href="http://www.entrepreneur.com/article/234496" target="_blank">Why a Big Ego Isn't Always Bad</a>
+* <a href="http://www.mindbodygreen.com/0-5680/A-Powerful-New-Way-to-Understand-Your-Ego.html" target="_blank">A Powerful New Way to Understand Your Ego</a>

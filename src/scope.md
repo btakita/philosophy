@@ -1,4 +1,3 @@
 # Scope
 
-[Scope - Etymology](http://www.etymonline.com/index.php?term=scope)
-
+<a href="http://www.etymonline.com/index.php?term=scope" target="_blank">Scope - etymonline.com</a>

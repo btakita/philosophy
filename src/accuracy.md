@@ -2,7 +2,7 @@
 
 Relates to [precision](./precision.md).
 
-[Accuracy and Precision - Wikipedia](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">Accuracy and Precision - Wikipedia</a>
 
 > accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's actual (true) value
 

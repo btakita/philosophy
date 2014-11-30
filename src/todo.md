@@ -1,6 +1,6 @@
 # TODO
 
-[To-do list - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:To-do_list)
+<a href="https://en.wikipedia.org/wiki/Wikipedia:To-do_list" target="_blank">To-do list - Wikipedia</a>
 
 Here is [this philosophy's](./this-philosophy.md) To Do List.
 
@@ -9,3 +9,4 @@ Here is [this philosophy's](./this-philosophy.md) To Do List.
 * masculine
 * feminine
 * Iterate on living-systems
+* Iterate on expanding-consciousness

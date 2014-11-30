@@ -1,6 +1,6 @@
 # Redefinition
 
-[Redefinition - thefreedictionary.com](http://www.thefreedictionary.com/redefinition)
+<a href="http://www.thefreedictionary.com/redefinition" target="_blank">Redefinition - thefreedictionary.com</a>
 
 > the act of giving a new definition; "words like `conservative' require periodic redefinition"; "she provided a redefinition of his duties"
 
@@ -20,7 +20,7 @@ Here are some arguments against redefinitions.
 
 There may be confusion caused from redefinition. This philosophy seeks to make these redefinitions explicit & make the audience aware of these redefinitions. Inspiring thought of the implications of these redefinitions help the audience think of Existence with a new perspective.
 
-[http://juneroca.com/words/redefining-words/](http://juneroca.com/words/redefining-words/)
+<a href="http://juneroca.com/words/redefining-words/" target="_blank">Redefining Words - juneroca.com</a>
 
 ## Scope & Precision
 

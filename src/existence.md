@@ -1,6 +1,6 @@
 # Existence
 
-[Existence - Wikipedia](https://en.wikipedia.org/wiki/Existence)
+<a href="https://en.wikipedia.org/wiki/Existence" target="_blank">Existence - Wikipedia</a>
 
 > Everything that 'is', or more simply, everything
 
