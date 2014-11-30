@@ -23,7 +23,7 @@ You can zoom in & out of the [system](./system.md) to observe details & [pattern
 
 Stories are the proverbial "double-edged sword". Stories can illuminate [truth](./src/truth.md) & expand consciousness of an abstraction. Stories can also restrict the scope of an abstraction.
 
-Since stories can set context and contexts set scope, a story may change the scope of focus of a being.
+Since stories can set context and contexts set scope, a story may change the scope of focus of an entity.
 
 This philosophy makes judicious use of story in the pursuit of expanding consciousness.
 

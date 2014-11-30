@@ -1,5 +1,13 @@
 # This Philosophy
 
-This [philosophy](./philosophy.md) is a [definition based philosophy](definition-based-philosophy.md). The root premise is [God](./god.md) is [Existence](existence.md). This enables the re-merging of [spirituality](./spirituality.md) and [science](./science.md) in a modern [context](./context.md). This enables spiritual works to be evaluated from the perspective of the author(s) and reinterpreted in a universal way. [Awareness](./awareness.md) of spirituality, science, [culture](./culture.md), [art](./art.md), [technology](./technology.md), and any other [entity](entity.md) ([physical](./physical-system.md) or [conceptual](conceptual-system.md)) contribute to [expanding consciousness](./expanding-consciousness.md).
+This [philosophy](./philosophy.md) takes an approach focusing on the [definitions of words](definition-based-philosophy.md) (aka [abstractions](./abstraction.md)) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md). This philosophy also [heuristically](./heuristic.md) unifies all [scopes](./scope.md) in Existence by allowing context to be applied to each abstraction.
 
-[This philosophy](./this-philosophy.md) does not explicitly follow any existing philosophical [tradition](./tradition.md). While there are influences from other philosophical traditions, this philosophy is not constrained by those traditions.
+## The [Story](./story.md) of this philosophy
+
+The root premise came from God is Existence and Existence is God. This enables the re-merging of [spirituality](./spirituality.md) and [science](./science.md) in the current [cultural](./culture.md) [context](./context.md). This enables spiritual works to be evaluated from the perspective of the author(s) and reinterpreted in a universal way. [Awareness](./awareness.md) of spirituality, science, culture, [art](./art.md), [technology](./technology.md), and any other [entity](entity.md) ([physical](./physical-system.md) or [conceptual](conceptual-system.md)) contribute to [expanding consciousness](./expanding-consciousness.md).
+
+## This philosophy & the Tradition Story
+
+This philosophy does not explicitly follow any existing philosophical [tradition](./tradition.md). While there are influences from other philosophical traditions, this philosophy is not constrained by those traditions.
+
+This philosophy seeks to be a model which is not limited in the context of Existence. All words represent all contextual meanings within existence or there is another word that represents a better or more correct abstraction. This philosophy also exposes redundancy with some words as the words evolve from different philosophical or cultural traditions.
