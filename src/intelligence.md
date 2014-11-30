@@ -2,7 +2,7 @@
 
 [Intelligence - Wikipedia](https://en.wikipedia.org/wiki/Intelligence)
 
-This philosophy expands the traditional scope of Intelligence to mean the [control system](./control-system.md) of an [entity](./entity.md). Since entity's include inanimate objects (i.e. rocks) or concepts, inanimate objects and concepts have intelligence. Related to [soul](./soul.md).
+[This philosophy](./this-philosophy.md) expands the traditional scope of Intelligence to mean the [control system](./control-system.md) of an [entity](./entity.md). Since entity's include inanimate objects (i.e. rocks) or concepts, inanimate objects and concepts have intelligence. Related to [soul](./soul.md).
 
 ## Human Intelligence
 

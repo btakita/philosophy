@@ -5,9 +5,9 @@ A [Perspective](./src/perspective.md) on [Existence](./src/existence.md) or [God
 
 ## Goals
 
-This [philosophy](./src/philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
+[This philosophy](./src/this-philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
 
-This philosophy is a [tool](./src/tool.md) to [expand consciousness](./src/expanding-consciousness.md).
+This [philosophy](./src/philosophy.md) is a [tool](./src/tool.md) to [expand consciousness](./src/expanding-consciousness.md).
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 

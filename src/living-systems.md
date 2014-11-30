@@ -1,4 +1,4 @@
-In this philosophy, all systems are considered "living". See [life](./life.md). The common cultural usage of living system is qualified as a biological living system.
+In [this philosophy](./this-philosophy.md), all systems are considered "living". See [life](./life.md). The common cultural usage of living system is qualified as a biological living system.
 
 [Living Systems Theory - Wikipedia](https://en.wikipedia.org/wiki/Living_systems) describes life on the physical realm that has the ability to reproduce.
 

@@ -4,4 +4,4 @@
 
 > Everything that 'is', or more simply, everything
 
-In this philosophy, Existence is [God](./god.md).
+In [this philosophy](./this-philosophy.md), Existence is [God](./god.md).

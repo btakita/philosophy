@@ -6,7 +6,7 @@
 
 A system to manage, command, direct or regulate the behavior of other systems.
 
-This philosophy binds control systems to inanimate objects (i.e. rocks) and abstract concepts.
+[This philosophy](./this-philosophy.md) binds control systems to inanimate objects (i.e. rocks) and abstract concepts.
 
 ## Inanimate Object Control System
 

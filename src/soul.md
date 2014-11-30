@@ -6,4 +6,4 @@ A Soul is an entity's meta entity. It is the system that determines how an entit
 
 [Animism](http://en.wikipedia.org/wiki/Animism)
 
-This philosophy utilizes Animism's definition of Soul.
+[This philosophy](./this-philosophy.md) utilizes Animism's definition of Soul.
