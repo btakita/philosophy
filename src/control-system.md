@@ -10,7 +10,7 @@ A [system](./system.md) to manage, command, direct or regulate the behavior of o
 
 ## Inanimate Object Control System
 
-An Inanimate Object's behavior is controlled by it's physical composition & inherent nature.
+An Inanimate Object's behavior is controlled by it's physical composition & inherent [nature](./nature.md).
 
 ### The Control System of a Rock
 

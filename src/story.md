@@ -8,7 +8,7 @@
 
 Stories hold [state](./state.md) that can be used for [context](./context.md).
 
-Note that history is a masculine [anthropomorphized](./anthropomorphism.md) term. Herstory is a feminine anthropomorphized term. Ourstory is gender-neutral & inclusive anthropomorphized. Story (the story, this story) does not have the bias of anthropomorphism.
+Note that history is a masculine [anthropomorphized](./anthropomorphism.md) term. Herstory is a feminine anthropomorphized term. Ourstory is a gender-neutral anthropomorphized term. Story (the story, this story) does not have the bias of anthropomorphism.
 
 ## Recounting of a sequence of events/Narrative
 
