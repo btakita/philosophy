@@ -6,4 +6,4 @@
 
 [This philosophy](./this-philosophy.md) defines violence as physical and/or [coercion](./coercion.md) action of one [entity](./entity.md) against another entity. Violence implies a [disagreement](./disagree.md) between two or more entities.
 
-Violence can judged as harmful or helpful. Every change, including [transcendence](./transcendence.md) involves violence.
+Violence can [judged](./judgement.md) as harmful or helpful. Every change, including [transcendence](./transcendence.md) involves violence.
