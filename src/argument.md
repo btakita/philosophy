@@ -6,7 +6,4 @@
 
 ## [Story](./story.md)
 
-Disagreements between
-
-Many entities disagree with each other
-Many arguments sterm from and perpetuate
+[Entities](./entity.md) may [agree](./agree.md) on a [concept](./concept.md), yet have a [disagreement](./disagreement.md) rooted in each entity having different [definitions](./definition-based-philosophy.md) in the language they use. When the definitions are different, the entities are talking about different things. Apples to Oranges.
