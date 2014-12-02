@@ -31,20 +31,24 @@ This philosophy makes judicious use of story in the pursuit of expanding conscio
 
 Press "t", then type in the word you want to navigate to.
 
+## Blog Posts
+
+<a href="http://briantakita.com/posts/philosophy-existence-is-god/" target="_blank">Philosophy - Existence is God - briantakita.com</a>
+
 ## Other Philosophies on Github
 
-[gwern.net](http://www.gwern.net/) - [gwern/gwern.net](https://github.com/gwern/gwern.net)
+<a href="http://www.gwern.net/" target="_blank">gwern.net</a> - <a href="https://github.com/gwern/gwern.net" target="_blank">gwern/gwern.net</a>
 
-[davekinkead/philosophy](https://github.com/davekinkead/philosophy)
+<a href="https://github.com/davekinkead/philosophy" target="_blank">davekinkead/philosophy</a>
 
-[russfam/philosophy](https://github.com/russfam/philosophy)
+<a href="https://github.com/russfam/philosophy" target="_blank">russfam/philosophy</a>
 
-[ilsken/philosophy-notes](https://github.com/ilsken/philosophy-notes)
+<a href="https://github.com/ilsken/philosophy-notes" target="_blank">ilsken/philosophy-notes</a>
 
-[Brendan-Clarke/Philosophy-of-Medicine](https://github.com/Brendan-Clarke/Philosophy-of-Medicine)
+<a href="https://github.com/Brendan-Clarke/Philosophy-of-Medicine" target="_blank">Brendan-Clarke/Philosophy-of-Medicine</a>
 
-[gitenberg.github.io](https://gitenberg.github.io/)
+<a href="https://gitenberg.github.io/" target="_blank">gitenberg.github.io</a>
 
-[evilseanbot/philosophy](https://github.com/evilseanbot/philosophy)
+<a href="https://github.com/evilseanbot/philosophy" target="_blank">evilseanbot/philosophy</a>
 
-[hemanth/philosophy](https://github.com/hemanth/philosophy)
+<a href="https://github.com/hemanth/philosophy" target="_blank">hemanth/philosophy</a>
