@@ -2,7 +2,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Entity" target="_blank">Entity - Wikipedia</a>
 
-An entity can be a concept, person, object, animal, collective group of people, a planet, a universe, existence (or [God](./god.md)) itself.
+An entity can be a [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, [Existence](./existence.md) (or [God](./god.md)) itself.
 
 ## [Being](./being)
 

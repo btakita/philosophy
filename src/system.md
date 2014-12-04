@@ -7,3 +7,5 @@
 [Physical System](./physical-system.md)
 
 [Conceptual System](./conceptual-system.md)
+
+A system is an [entity](./entity.md).

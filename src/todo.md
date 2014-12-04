@@ -11,5 +11,4 @@ Here is [this philosophy's](./this-philosophy.md) To Do List.
 * Iterate on expanding-consciousness
 * temporal
 * timeless-structure
-* Iterate on love
-* fear
+* Iterate on fear
