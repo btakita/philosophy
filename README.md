@@ -5,15 +5,15 @@ A [tool](./src/tool.md) that [defines](./src/redefinition.md) words to explore [
 
 ## Goals
 
-[This philosophy](./src/this-philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in existence.
+[This philosophy](./src/this-philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in Existence.
 
 This [philosophy](./src/philosophy.md) is a [tool](./src/tool.md) to [expand consciousness](./src/expanding-consciousness.md).
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
-Since scope of this Philosophy is Existence/God, the resolution tends to be low. More detail can be referenced with outbound links.
+Since scope of this Philosophy is Existence/God, the resolution tends to be low.
 
-This philosophy defines abstractions in relation to Existence. It is a tool that provides [awareness](./src/awareness.md) & degrees of freedom to create systems with various scopes.
+This philosophy defines abstractions in relation to Existence. Words, when applied to narrower scopes (than Existence), have different meanings. It is a tool that provides [awareness](./src/awareness.md) & degrees of freedom to create systems with various scopes.
 
 [Human](./src/human.md) [Beings](./src/being.md) can [focus](./src/focus.md) on a finite amount of complexity which is much less than the scope of Existence. This means humans must utilize abstractions to create systems that can be focused upon, lest the human becomes overwhelmed and not effective.
 
