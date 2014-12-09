@@ -1,6 +1,6 @@
 # Judicious
 
-<a href="http://www.thefreedictionary.com/judicious" target="_blank">Judicious - Wikipedia</a>
+<a href="http://www.thefreedictionary.com/judicious" target="_blank">Judicious (Wikipedia)</a>
 
 > Having or exhibiting sound judgment; prudent.
 

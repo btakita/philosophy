@@ -1,6 +1,6 @@
 # Abstraction
 
-<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">Abstraction - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">Abstraction (Wikipedia)</a>
 
 An [entity](./entity.md) has a limited [focus](./focus.md). Abstractions allow a complex set of concepts to be contained within a single concept or word. Abstractions allow different [perspectives](./perspective.md) to be applied to a [system](./system.md).
 

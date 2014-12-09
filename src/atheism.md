@@ -1,6 +1,6 @@
 # Atheism
 
-<a href="http://en.wikipedia.org/wiki/Atheism" target="_blank">Atheism - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Atheism" target="_blank">Atheism (Wikipedia)</a>
 
 > Atheism is, in a broad sense, the rejection of belief in the existence of deities. In a narrower sense, atheism is specifically the position that there are no deities. Most inclusively, atheism is the absence of belief that any deities exist. Atheism is contrasted with theism, which, in its most general form, is the belief that at least one deity exists.
 

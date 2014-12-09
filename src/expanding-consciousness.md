@@ -1,8 +1,8 @@
 # Expanding Consciousness
 
-<a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) - Wikepedia</a>
+<a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness - Wikepedia</a>
+<a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness (Wikipedia)</a>
 
 Expanding Consciousness is the expansion of the [consciousness](./consciousness.md) or [perspective](./perspective.md) of an [entity](./entity.md).
 

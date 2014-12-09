@@ -1,10 +1,10 @@
 # Ego
 
-<a href="https://en.wikipedia.org/wiki/Ego" target="_blank">Ego - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Ego" target="_blank">Ego (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Ego_(Freudian)" target="_blank">Ego (Freudian) - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Ego_(Freudian)" target="_blank">Ego (Freudian) (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Ego_(religion)" target="_blank">Ego (Religion) - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Ego_(religion)" target="_blank">Ego (Religion) (Wikipedia)</a>
 
 The ego is the [being's](./being.md) definition of self. The notion of self from the [perspective](./perspective.md) of the being.
 

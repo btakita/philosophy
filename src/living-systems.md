@@ -2,7 +2,7 @@
 
 In [this philosophy](./this-philosophy.md), all systems are considered "living". See [life](./life.md). The common [cultural](./culture.md) usage of living system is qualified as a biological living system.
 
-## <a href="https://en.wikipedia.org/wiki/Living_systems" target="_blank">Living Systems Theory - Wikipedia</a>
+## <a href="https://en.wikipedia.org/wiki/Living_systems" target="_blank">Living Systems Theory (Wikipedia)</a>
 
 Living Systems Theory describes life on the physical realm that has the ability to reproduce.
 
@@ -48,8 +48,8 @@ My central thesis is that systems at all levels are open systems composed of sub
 * Encoder
 * Output transducer
 
-<a href="http://www.vantagequest.org/trees/livingsystems1.htm" target="_blank">Transcendental Creative Systems - vantagequest.org</a>
+<a href="http://www.vantagequest.org/trees/livingsystems1.htm" target="_blank">Transcendental Creative Systems (vantagequest.org)</a>
 
-<a href="https://en.wikipedia.org/wiki/Complex_systems" target="_blank">Complex Systems - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Complex_systems" target="_blank">Complex Systems (Wikipedia)</a>
 
-<a href="http://emanueleviola.wordpress.com/2014/11/09/is-nature-a-low-complexity-sampler/" target="_blank">Is Nature a Low Complexity Sampler - emanueleviola.wordpress.com</a>
+<a href="http://emanueleviola.wordpress.com/2014/11/09/is-nature-a-low-complexity-sampler/" target="_blank">Is Nature a Low Complexity Sampler (emanueleviola.wordpress.com)</a>

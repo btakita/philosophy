@@ -1,8 +1,8 @@
 # Life
 
-<a href="https://en.wikipedia.org/wiki/Life" target="_blank">Life - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Life" target="_blank">Life (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Self-sustainability" target="_blank">Self-sustainability - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Self-sustainability" target="_blank">Self-sustainability (Wikipedia)</a>
 
 > Life is a characteristic distinguishing physical entities having signaling and self-sustaining processes from those that do not, either because such functions have ceased (death), or because they lack such functions and are classified as inanimate.
 

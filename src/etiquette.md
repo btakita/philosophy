@@ -1,6 +1,6 @@
 # Etiquette
 
-<a href="https://en.wikipedia.org/wiki/Etiquette" target="_blank">Etiquette - Wikepedia</a>
+<a href="https://en.wikipedia.org/wiki/Etiquette" target="_blank">Etiquette (Wikipedia)</a>
 
 ## Politeness
 

@@ -1,8 +1,8 @@
 # Resolution
 
-<a href="http://www.etymonline.com/index.php?term=resolution" target="_blank">Resolution - etymonline.com</a>
+<a href="http://www.etymonline.com/index.php?term=resolution" target="_blank">Resolution (etymonline.com)</a>
 
-<a href="https://en.wikipedia.org/wiki/Image_resolution" target="_blank">Image Resolution - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Image_resolution" target="_blank">Image Resolution (Wikipedia)</a>
 
 The detail & [scope](./scope.md) of the [perspective](./perspective.md). Detail is increased with [evolution](./evolution.md).
 
@@ -28,4 +28,4 @@ A Resolution that consists of multiple Resolutions. Often not distinguished by a
 
 A skewed projection of an Object/Concept in a different Resolution based on the current Resolution.
 
-<a href="http://stevenpoole.net/articles/scale-confusion/" target="_blank">Scale Concept - stevenpoole.net</a>
+<a href="http://stevenpoole.net/articles/scale-confusion/" target="_blank">Scale Concept (stevenpoole.net)</a>

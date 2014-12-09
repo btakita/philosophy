@@ -1,6 +1,6 @@
 # Disagree
 
-<a href="http://www.thefreedictionary.com/disagree" target="_blank">disagree - thefreedictionary.com</a>
+<a href="http://www.thefreedictionary.com/disagree" target="_blank">disagree (thefreedictionary.com)</a>
 
 > To fail to correspond
 

@@ -1,6 +1,6 @@
 # Physical System
 
-<a href="http://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a>
 
 > the portion of the physical universe chosen for analysis
 

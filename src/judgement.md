@@ -1,6 +1,6 @@
 # Judgement
 
-<a href="http://en.wikipedia.org/wiki/Judgement" target="_blank">Judgement - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Judgement" target="_blank">Judgement (Wikipedia)</a>
 
 > Judgement (or judgment) is the evaluation of evidence to make a decision.
 

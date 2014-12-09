@@ -1,6 +1,6 @@
 # Analogy
 
-<a href="https://en.wikipedia.org/wiki/Analogy" target="_blank">Analogy - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Analogy" target="_blank">Analogy (Wikipedia)</a>
 
 > process of transferring information or meaning from a particular subject (the analogue or source) to another particular subject (the target)
 

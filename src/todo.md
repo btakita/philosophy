@@ -1,6 +1,6 @@
 # TODO
 
-<a href="https://en.wikipedia.org/wiki/Wikipedia:To-do_list" target="_blank">To-do list - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Wikipedia:To-do_list" target="_blank">To-do list (Wikipedia)</a>
 
 Here is [this philosophy's](./this-philosophy.md) To Do List.
 

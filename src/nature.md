@@ -1,6 +1,6 @@
 # Nature
 
-<a href="http://en.wikipedia.org/wiki/Nature" target="_blank">Nature - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Nature" target="_blank">Nature (Wikipedia)</a>
 
 > Nature, in the broadest sense, is equivalent to the natural, physical, or material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
 

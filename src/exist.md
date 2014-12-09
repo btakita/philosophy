@@ -1,6 +1,6 @@
 # Exist
 
-<a href="http://www.thefreedictionary.com/exist" target="_blank">Exist - thefreedictionary.com</a>
+<a href="http://www.thefreedictionary.com/exist" target="_blank">Exist (thefreedictionary.com)</a>
 
 > To have actual being; be real.
 

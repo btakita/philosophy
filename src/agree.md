@@ -1,6 +1,6 @@
 # Agree
 
-<a href="http://www.thefreedictionary.com/agree" target="_blank">agree - thefreedictionary.com</a>
+<a href="http://www.thefreedictionary.com/agree" target="_blank">agree (thefreedictionary.com)</a>
 
 > To grant consent; accede
 
@@ -10,4 +10,4 @@
 
 > To be compatible or consistent; correspond
 
-<a href="http://en.wikipedia.org/wiki/Agree" target="_blank">Agree - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Agree" target="_blank">Agree (Wikipedia)</a>

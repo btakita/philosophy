@@ -1,13 +1,9 @@
 philosophy
 ==========
 
-A [tool](./src/tool.md) that [defines](./src/redefinition.md) words to explore [perspective](./src/perspective.md) [realities](./src/reality.md) of [Existence](./src/existence.md) or [God](./src/god.md).
+[This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand consciousness by expanding the [scope](./src/scope.md) of words to facilitate connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md).
 
-## Goals
-
-[This philosophy](./src/this-philosophy.md) seeks to define words as [abstractions](./src/abstraction.md). These [scope](./src/scope.md) of these abstractions are broadened to apply, with proper [context](./src/context.md), to any [entity](./src/entity.md) in Existence.
-
-This [philosophy](./src/philosophy.md) is a [tool](./src/tool.md) to [expand consciousness](./src/expanding-consciousness.md).
+This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md).
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
@@ -33,7 +29,7 @@ Press "t", then type in the word you want to navigate to.
 
 ## Blog Posts
 
-<a href="http://briantakita.com/posts/philosophy-existence-is-god/" target="_blank">Philosophy - Existence is God - briantakita.com</a>
+<a href="http://briantakita.com/posts/philosophy-existence-is-god/" target="_blank">Philosophy - Existence is God (briantakita.com)</a>
 
 ## Other Philosophies on Github
 

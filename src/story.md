@@ -1,10 +1,10 @@
 # Story
 
-<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/History" target="_blank">History - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/History" target="_blank">History (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Herstory" target="_blank">Herstory - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Herstory" target="_blank">Herstory (Wikipedia)</a>
 
 Stories hold [state](./state.md) that can be used for [context](./context.md).
 

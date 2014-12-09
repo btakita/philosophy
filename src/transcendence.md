@@ -1,5 +1,5 @@
 # Transcendence
 
-<a href="https://en.wikipedia.org/wiki/Transcendence_(philosophy)" target="_blank">Transcendence (philosophy) - Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Transcendence_(philosophy)" target="_blank">Transcendence (philosophy) (Wikipedia)</a>
 
 > climbing or going beyond

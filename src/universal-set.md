@@ -1,6 +1,6 @@
 # Universal Set
 
-<a href="http://en.wikipedia.org/wiki/Universal_set" target="_blank">Universal Set - Wikipedia</a>
+<a href="http://en.wikipedia.org/wiki/Universal_set" target="_blank">Universal Set (Wikipedia)</a>
 
 > universal set is a set which contains all objects, including itself
 
