@@ -31,6 +31,8 @@ Press "t", then type in the word you want to navigate to.
 
 <a href="http://briantakita.com/posts/philosophy-existence-is-god/" target="_blank">Philosophy - Existence is God (briantakita.com)</a>
 
+<a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
+
 ## Other Philosophies on Github
 
 <a href="http://www.gwern.net/" target="_blank">gwern.net</a> - <a href="https://github.com/gwern/gwern.net" target="_blank">gwern/gwern.net</a>
