@@ -3,7 +3,7 @@ philosophy
 
 [This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand consciousness by expanding the [scope](./src/scope.md) of words to facilitate connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md).
 
-This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md). This philosophy utilizes [Category Theory](./src/category-theory.md), where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms.
+This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md). This philosophy utilizes [Category Theory](./src/category-theory.md), where [abstractions](./src/abstraction.md) are categories and [scopes](./src/scope.md) are morphisms.
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
