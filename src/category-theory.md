@@ -10,7 +10,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-This philosophy consists of loosely defined categories, where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms.
+This philosophy utilizes Category Theory, where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms.
 
 The structure of the definitions in this philosophy are nested categories.
 
