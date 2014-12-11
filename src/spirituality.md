@@ -1,8 +1,14 @@
 # Spirituality
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://en.wikipedia.org/wiki/Spirituality" target="_blank">Spirituality (Wikipedia)</a>
 
-<a href="https://en.wikipedia.org/wiki/Spirit" target="_blank">Spirit (Wikipedia)</a>
+> Traditionally spirituality has been defined as a process of personal transformation in accordance with religious ideals. Since the 19th century spirituality is often separated from religion, and has become more oriented on subjective experience and psychological growth. It may refer to almost any kind of meaningful activity or blissful experience, but without a single, widely-agreed definition.
+
+## [This Philosophy](./this-philosophy.md) Definition
+
+[Spirit](./spirit.md)
 
 Spirituality is the way of [expanding consciousness](./expanding-consciousness.md), or taking the perspective of [God](./god.md). It is the [evolution](./evolution.md) of a [being](./being.md) to expanded consciousness.
 

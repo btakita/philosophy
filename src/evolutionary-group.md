@@ -1,8 +1,10 @@
 # An Evolutionary Group
 
+## [This Philosophy](./this-philosophy.md) Definition
+
 An Evolutionary Group is comprised of [beings](./being.md) who [expand the consciousness](./expanding-consciousness.md) (via [evolution](./evolution.md)) of each being within the [collective](./collective.md). Each member helps the other members see beyond oneself, thus expanding consciousness.
 
-## Civilization [Story](./story.md)
+### Civilization [Story](./story.md)
 
 Civilization states follow the principle of strength in numbers. However, states tend to have regulating effects on the population, reducing [novelty](./novelty.md).
 

@@ -1,6 +1,10 @@
 # Fractal
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">Fractal (Wikipedia)</a>
+
+## [This Philosophy](./this-philosophy.md) Definition
 
 A curve or geometric figure, each part of which has the same statistical character as the whole. Fractals are useful in modeling structures (such as eroded coastlines or snowflakes) in which similar patterns recur at progressively smaller scales.
 
@@ -11,7 +15,7 @@ In describing partly random or chaotic phenomena such as:
 * Fluid turbulence
 * Galaxy formation
 
-## Fractal Deep Dives
+### Fractal Deep Dives
 
 Fractal deep dives display the depth & diversity of a fractal.
 

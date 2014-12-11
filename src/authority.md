@@ -1,5 +1,7 @@
 # Authority
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://github.com/davekinkead/philosophy/blob/master/Authority.md" target="_blank">Authority (davekinkead/philosophy)</a>
 
 > The power or right to give orders, make decisions, and enforce obedience: "he had absolute authority over his subordinates".

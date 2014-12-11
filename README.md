@@ -3,7 +3,7 @@ philosophy
 
 [This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand consciousness by expanding the [scope](./src/scope.md) of words to facilitate connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md).
 
-This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md).
+This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md). This philosophy consists of loosely defined [categories](./src/category-theory.md), where [abstractions](./abstraction.md)  are categories and [scopes](./scope.md) are morphisms.
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
@@ -29,7 +29,7 @@ Press "t", then type in the word you want to navigate to.
 
 ## Blog Posts
 
-<a href="http://briantakita.com/posts/philosophy-existence-is-god/" target="_blank">Philosophy - Existence is God (briantakita.com)</a>
+<a href="http://www.briantakita.com/posts/philosophy-existence-is-god-god-exists/" target="_blank">Philosophy - Existence is God & God Exists(briantakita.com)</a>
 
 <a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
 

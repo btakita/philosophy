@@ -1,22 +1,26 @@
 # Intelligence
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank">Intelligence (Wikipedia)</a>
 
-[This philosophy](./this-philosophy.md) expands the traditional scope of Intelligence to mean the [control system](./control-system.md) of an [entity](./entity.md). Since entity's include inanimate objects (i.e. rocks) or [concepts](./concept.md), inanimate objects and concepts have intelligence. Related to [soul](./soul.md).
+## [This Philosophy](./this-philosophy.md) Definition
 
-## Human Intelligence
+This philosophy expands the traditional scope of Intelligence to mean the [control system](./control-system.md) of an [entity](./entity.md). Since entity's include inanimate objects (i.e. rocks) or [concepts](./concept.md), inanimate objects and concepts have intelligence. Related to [soul](./soul.md).
+
+### Human Intelligence
 
 In [humans](./human.md), the scope of Intelligence goes beyond the mind to relate to [emotions](./emotion.md), cellular intelligence, cellular [collective](./collective.md) intelligence, etc.
 
-## [Collective](./collective.md) Intelligence
+### [Collective](./collective.md) Intelligence
 
 Entities also include groups of people, so a community, a nation, an organization, etc. has intelligence.
 
-## Inanimate Object Inanimate
+### Inanimate Object Inanimate
 
 The intelligence (control system) of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystalline structure, environment, etc.
 
-## Conceptual Intelligence
+### Conceptual Intelligence
 
 A concept has intelligence as it relates to another entity. For example, a person focusing on a concept is effected by the concept in certain ways.
 

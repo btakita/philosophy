@@ -1,5 +1,7 @@
 # Evolution
 
+## [Cultural](./culture.md) Definition
+
 <a href="http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution (etymonline.com)</a>
 
 <a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution (Wikipedia)</a>
@@ -19,5 +21,7 @@
 <a href="https://en.wikipedia.org/wiki/Technological_evolution" target="_blank">Technological Evolution (Wikipedia)</a>
 
 <a href="https://en.wikipedia.org/wiki/Evolutionary_algorithm" target="_blank">Evolutionary Algorithm (Wikipedia)</a>
+
+## [This Philosophy](./this-philosophy.md) Definition
 
 In modern [culture](./culture.md), Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).

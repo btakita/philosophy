@@ -1,5 +1,7 @@
 # Art
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://en.wikipedia.org/wiki/Art" target="_blank">Art (Wikipedia)</a>
 
 > a diverse range of human activities and the products of those activities. In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art

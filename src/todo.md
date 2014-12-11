@@ -1,9 +1,14 @@
 # TODO
 
+## [Cultural](./culture.md) Definition
+
 <a href="https://en.wikipedia.org/wiki/Wikipedia:To-do_list" target="_blank">To-do list (Wikipedia)</a>
+
+## [This Philosophy](./this-philosophy.md) Definition
 
 Here is [this philosophy's](./this-philosophy.md) To Do List.
 
+* Reference category-theory in README
 * Disagreements rooted in differing definitions of abstractions between entities
 * masculine
 * feminine

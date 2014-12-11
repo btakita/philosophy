@@ -1,5 +1,7 @@
 # Magic
 
+## [Cultural](./culture.md) Definition
+
 <a href="http://www.thefreedictionary.com/magic" target="_blank">Magic (thefreedictionary.com)</a>
 
 > The art that purports to control or forecast natural events, effects, or forces by invoking the supernatural.
@@ -10,8 +12,10 @@
 
 <a href="http://en.wikipedia.org/wiki/Magic_(illusion)" target="_blank">Magic (Illusion) (Wikipedia)</a>
 
-In [this philosophy](./this-philosophy.md) magic is illusion masking [natural law](./natural-law.md).
+## [This Philosophy](./this-philosophy.md) Definition
 
-## Blog Posts
+Magic is illusion masking [natural law](./natural-law.md).
+
+### Blog Posts
 
 <a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>

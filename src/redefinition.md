@@ -1,8 +1,12 @@
 # Redefinition
 
+## [Cultural](./culture.md) Definition
+
 <a href="http://www.thefreedictionary.com/redefinition" target="_blank">Redefinition (thefreedictionary.com)</a>
 
 > the act of giving a new definition; "words like `conservative' require periodic redefinition"; "she provided a redefinition of his duties"
+
+## [This Philosophy](./this-philosophy.md) Definition
 
 Redefinitions of words is used to expand or contract the consciousness of the [being](./being.md). A redefinition can [expand consciousness](./expanding-consciousness.md) by expanding the [scope](./scope.md) of the meaning while keeping a connection to the more [precise](./precision.md) & narrower scoped meaning.
 
@@ -22,7 +26,7 @@ There may be confusion caused from redefinition. This philosophy seeks to make t
 
 <a href="http://juneroca.com/words/redefining-words/" target="_blank">Redefining Words (juneroca.com)</a>
 
-## Scope & Precision
+### Scope & Precision
 
 A challenge of word definitions are the ambiguity of Scope & [Precision](./precision.md). Definitions vary in ambiguity. The Scope & Precision can be altered to apply to more or less [domains](./domain.md) when redefining a word.
 
@@ -34,6 +38,6 @@ A being with a consistent & unified consciousness can use a similar [attention s
 
 A being can learn by efficiently expanding consciousness. Expanding consciousness, via the attention schema, involves learning new terminology, expanding the scope of existing terminology, and increasing effectiveness of the precision context of the existing terminology.
 
-## Precision Context
+### Precision Context
 
 The Precision Context involves creating the precise Attention Schema by using contextual clues, qualifying words, and compound words. The precise Attention Schema is zoomed in to provide precise detail & expanded differentiation across the Attention Schema.
