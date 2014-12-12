@@ -8,6 +8,8 @@
 
 <a href="https://www.youtube.com/watch?v=o6L6XeNdd_k" target="_blank">Category Theory by Tom LaGatta (youtube.com)</a>
 
+<a href="http://ncatlab.org:8080/nlab/show/category+theory" target="_blank">Category Theory (ncatlab.org)</a>
+
 ## [This Philosophy](./this-philosophy.md) Definition
 
 This philosophy utilizes Category Theory, where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms.
