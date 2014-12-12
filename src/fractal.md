@@ -19,6 +19,8 @@ In describing partly random or chaotic phenomena such as:
 
 Fractal deep dives display the depth & diversity of a fractal.
 
+<a href="https://www.youtube.com/watch?v=PbwaFQ2r2c4" target="_blank">Mandelbrot fractal deep zoom 21 2^1116 HD (youtube.com)</a>
+
 <a href="https://www.youtube.com/watch?v=CD9yNFmb2FE" target="_blank">Burning Ship Fractal Deep Zoom Animation (youtube.com)</a>
 
 <a href="https://www.youtube.com/watch?v=0jGaio87u3A" target="_blank">Mandelbrot zoom. 10^275 (2.1E275 or 2^915) (youtube.com)</a>
