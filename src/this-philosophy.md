@@ -2,7 +2,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-This [philosophy](./philosophy.md) approach focuses on the [definitions of words](definition-based-philosophy.md) (aka [abstractions](./abstraction.md)) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md). This philosophy also [heuristically](./heuristic.md) unifies all [scopes](./scope.md) in Existence by allowing context to be applied to each abstraction.
+This [philosophy](./philosophy.md) focuses on the [definitions of words](definition-based-philosophy.md) (aka [abstractions](./abstraction.md)) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md). This philosophy also [heuristically](./heuristic.md) unifies all [scopes](./scope.md) in Existence by allowing context to be applied to each abstraction.
 
 ### The [Story](./story.md) of this philosophy
 
