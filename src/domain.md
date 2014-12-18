@@ -25,3 +25,9 @@
 <a href="https://en.wikipedia.org/wiki/Domain_(biology)" target="_blank">Domain (biology) (Wikipedia)</a>
 
 > In biological taxonomy, a domain (also superregnum, superkingdom, empire, or regio) is the highest taxonomic rank of organisms in the three-domain system of taxonomy designed by Carl Woese, an American microbiologist and biophysicist.
+
+## [This Philosophy](./this-philosophy.md) Definition
+
+A domain is the [system](./system.md) of interest within an [entity](./entity.md). An example of a domain is Jane's body, where Jane is the entity and the system is the body. The domain language refers to the field of anatomy & it's actions, where Jane's anatomy is an instance of anatomy with her unique characteristics.
+
+All domains have a [scope](./scope.md).
