@@ -1,13 +1,28 @@
 philosophy
 ==========
 
-[This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand consciousness by expanding the [scope](./src/scope.md) of words to facilitate connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md).
+[This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand consciousness by expanding the [scope](./src/scope.md) of words to facilitate connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). It utilizes techniques & resources from fields in [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, etc.
 
-This philosophy takes inspiration from the [Philosophy of Language](./src/philosophy-of-language.md). This philosophy utilizes [Category Theory](./src/category-theory.md), where [abstractions](./src/abstraction.md) are categories and [scopes](./src/scope.md) are morphisms.
+## Similarities to other Fields
+
+### [Category Theory](./src/category-theory.md)
+
+[Abstractions](./src/abstraction.md) are categories and [scopes](./src/scope.md) are morphisms. Connections between abstractions are also morphisms.
+
+### [Evolutionary Linguistics](./src/evolutionary-linguistics.md)
+
+[Evolution](./src/evolution.md) implies a creative activity.
+
+This Philosophy favors using & evolving existing words, by expanding scope, over creating new terminology.
+
+### [Philosophy of Language](./src/philosophy-of-language.md)
+
+<a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language (briantakita.com)</a>
 
 ## [Scope](./src/scope.md) & [Resolution](./src/resolution.md)
 
-Since scope of this Philosophy is Existence/God, the resolution tends to be low.
+Since scope of this Philosophy is Existence/God, the resolution starts low. <a href="http://cosmicscale.appspot.com/index.html" target="_blank">
+The Cosmic Scale</a> is a demonstration of scope (at different scales) in the [physical universe](./src/physical-system.md).
 
 This philosophy defines abstractions in relation to Existence. Words, when applied to narrower scopes (than Existence), have different meanings. It is a tool that provides [awareness](./src/awareness.md) & degrees of freedom to create systems with various scopes.
 
@@ -17,7 +32,7 @@ You can zoom in & out of the [system](./system.md) to observe details & [pattern
 
 ## [Awareness](./src/awareness.md) of [Story](./src/story.md)
 
-Stories are the proverbial "double-edged sword". Stories can illuminate [truth](./src/truth.md) & expand consciousness of an abstraction. Stories can also restrict the scope of an abstraction.
+Stories can illuminate [truth](./src/truth.md) & expand consciousness of an abstraction. Stories can also restrict the scope of an abstraction. Stories are used to make an entity focus on a scope.
 
 Since stories can set context and contexts set scope, a story may change the scope of focus of an entity.
 

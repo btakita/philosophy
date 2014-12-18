@@ -17,4 +17,4 @@
 
 This philosophy removes the distinction of "physical" [entities](./entity.md). Life is an entity that can [signal](./signal.md) (e.g. through [input/output](https://en.wikipedia.org/wiki/Input/output)) and is [self-sustaining](https://en.wikipedia.org/wiki/Self-sustainability).
 
-Biological life is commonly used as the definition of Life. This philosophy expands the meaning of Life to include [abstract](./abstract.md) & "inanimate" physical matter. [Abstract](./abstract.md) & inanimate matter have signaling (input/output) & are self-sustaining.
+Biological life is commonly used as the [definition](./definition.md) of Life. This philosophy expands the meaning of Life to include [abstract](./abstract.md) & "inanimate" physical matter. [Abstract](./abstract.md) & inanimate matter have signaling (input/output) & are self-sustaining.

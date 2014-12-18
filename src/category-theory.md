@@ -12,9 +12,15 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-This philosophy utilizes Category Theory, where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms.
+Category Theory is utilized where [abstractions](./abstraction.md) are categories and [scopes](./scope.md) are morphisms. Connections between abstractions are also morphisms.
 
-The structure of the definitions in this philosophy are nested categories.
+### Modeling our Thoughts using Category Theory
+
+Abstractions can be considered categories. Abstractions can be connected by a morphism. Abstractions can also be learned (a morphism).
+
+### Structure of the Definitions
+
+The structure of the [definitions](./definition.md) in this philosophy are nested categories.
 
 The sub-sections:
 

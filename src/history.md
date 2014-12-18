@@ -14,4 +14,4 @@
 
 History and [story](./story.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth.
 
-History originally meant the sequence of events of human affairs. However the definition has expanded to include the physical history of the physical universe & the narrative of fictional worlds. This expanded definition made history synonymous with story.
+History originally meant the sequence of events of human affairs. However the [definition](./definition.md) has expanded to include the physical history of the physical universe & the narrative of fictional worlds. This expanded definition made history synonymous with story.

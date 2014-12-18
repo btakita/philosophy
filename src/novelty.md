@@ -5,3 +5,11 @@
 <a href="https://en.wikipedia.org/wiki/Novelty" target="_blank">Novelty (Wikipedia)</a>
 
 > the quality of being new, or following from that, of being striking, original or unusual
+
+## [This Philosophy](./this-philosophy.md) Definition
+
+Novelty is being new (the first instance of something [unique](./unique.md)) in relation to the [contextual](./context.md) [scope](./scope.md).
+
+### Scope of [Existence](./existence.md)
+
+Since Existence includes all time (and higher physical dimensions), nothing is "new". This means something novel is unique.

@@ -30,3 +30,8 @@ Fractal deep dives display the depth & diversity of a fractal.
 <a href="https://www.youtube.com/watch?v=0jGaio87u3A" target="_blank">Mandelbrot zoom. 10^275 (2.1E275 or 2^915) (youtube.com)</a>
 
 <a href="http://vimeo.com/12185093" target="_blank">Last Lights On - Mandelbrot fractal zoom to 6.066 e228 - vimeo.com</a>
+
+### Cosmic Scale
+
+<a href="http://cosmicscale.appspot.com/index.html" target="_blank">
+The Cosmic Scale</a>

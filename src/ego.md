@@ -10,7 +10,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-The ego is the [being's](./being.md) definition of self. The notion of self from the [perspective](./perspective.md) of the being.
+The ego is the [being's](./being.md) [definition](./definition.md) of self. The notion of self from the [perspective](./perspective.md) of the being.
 
 It is also the cause to impose one's reality onto another being.
 

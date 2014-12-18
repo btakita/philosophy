@@ -23,4 +23,4 @@ Abstractions are useful in creating simplified (less [precise](./precision.md)) 
 
 Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity.
 
-This philosophy takes an approach focusing on the [definitions of words](definition-based-philosophy.md) (aka abstractions) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md).
+This philosophy takes an approach focusing on the [Evolutionary Linguistics](evolutionary-linguistics.md) (aka abstractions) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md).

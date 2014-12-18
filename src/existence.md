@@ -10,7 +10,7 @@
 
 Existence is [God](./god.md). Existence is the [Universal Set](./universal-set.md) of everything, including itself. Hence Existence exists, or it contained within the set of Existence.
 
-Contrary to some [cultural](./culture.md) definitions, existence includes all thoughts & [states](./state.md) by all [entities](./entity.md). That means something that somebody makes up exists since it was created by an entity. This allows works of [art](./art.md), thoughts, feelings, temporary creations, etc. to exist without question or judgement. There is no need for physical manifestation, popular opinion, etc.
+Contrary to some [cultural](./culture.md) [definitions](./definition.md), existence includes all thoughts & [states](./state.md) by all [entities](./entity.md). That means something that somebody makes up exists since it was created by an entity. This allows works of [art](./art.md), thoughts, feelings, temporary creations, etc. to exist without question or judgement. There is no need for physical manifestation, popular opinion, etc.
 
 ### [Scoping](./scope.md) Existence
 

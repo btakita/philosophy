@@ -8,4 +8,4 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-[This philosophy](./this-philosophy.md) utilizes the [category](./category-theory.md) of atheism as an [evolutionary partner](./evolutionary-group.md) in seeking [truth](./truth.md) & [natural law](./natural-law.md). Atheism created evolutionary pressure to expand the definition of the [God](./god.md) [abstraction](./abstraction.md) to mean [Existence](./existence.md) (all of Existence).
+[This philosophy](./this-philosophy.md) utilizes the [category](./category-theory.md) of atheism as an [evolutionary partner](./evolutionary-group.md) in seeking [truth](./truth.md) & [natural law](./natural-law.md). Atheism created evolutionary pressure to expand the [definitions](./definition.md) of the [God](./god.md) [abstraction](./abstraction.md) to mean [Existence](./existence.md) (all of Existence).

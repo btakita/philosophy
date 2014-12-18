@@ -14,7 +14,7 @@ One can [focus](./focus.md) on the "[spirit](./spirit.md)" of the word in the mo
 
 Redefinition of words can also contract consciousness of an [entity](./entity.md) by causing focus to occur on an inaccurate meaning or a narrower scope of the word. An example of this occurring is a marketing or news entity redefining a word to have a meaning specific to a product, causing members of the public to "forget" the broader meaning.
 
-Words have some degree of imprecise meanings. For example, God has an imprecise meaning in across different belief systems since the definition of God varies across these belief systems. [This philosophy](./this-philosophy.md) defines God as being Existence, thus being everything.
+Words have some degree of imprecise meanings. For example, God has an imprecise meaning in across different belief systems since the [definition](./definition.md) of God varies across these belief systems. [This philosophy](./this-philosophy.md) defines God as being Existence, thus being everything.
 
 Word definitions influence thoughts and symbolic [abstractions](./abstraction.md) that an entity relates with. One can be grounded with culturally defined terminology to effectively communicate within the cultural context. However, one can expand the consciousness of the culture, by expanding the scope of the words.
 
