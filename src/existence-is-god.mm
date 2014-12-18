@@ -38,7 +38,7 @@ Existence is God {
         Their view of souls recognizes the nature of intelligence in it''s primitive forms.
         Example { Non-biological entities (such as rivers and mountains) possess souls. }
         Cultural Ego {
-          My view is the Ourstory of Animism is: {
+          My view is the Story of Animism is: {
             Animism is an earlier state of common worldview that has been opposed contemporary culture. {
               The 1819 view of culture with the Amimism philosophy 
               
@@ -162,7 +162,7 @@ Existence is God {
 
     }
   }
-  Story/Ourstory/History/Herstory {
+  Story/History/Herstory {
     Recounting of a sequence of events/Narrative {
       A Story is algorithmic.
       It is often of a low resolution, thus requiring little information to communicate (or transfer) a Conceptual System.

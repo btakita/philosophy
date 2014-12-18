@@ -20,7 +20,9 @@
 
 Stories hold [state](./state.md) that can be used for [context](./context.md).
 
-Note that history is a masculine [anthropomorphized](./anthropomorphism.md) term. Herstory is a feminine anthropomorphized term. Ourstory is a gender-neutral anthropomorphized term. Story (the story, this story) does not have the bias of anthropomorphism.
+History, from historia, involves "inquiry, knowledge acquired by investigation". History is often used to mean physical events that have occurred on Earth. Note that true history is subject to the events to be perceived as actually occurring, such as being documented. Various levels of confidence can be ascribed to the documentation. Additional independent documents increase the confidence.
+
+Story means a sequence of events. Story is more general and covers history & fictional work.
 
 ### Recounting of a sequence of events/Narrative
 
