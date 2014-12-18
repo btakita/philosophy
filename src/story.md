@@ -18,11 +18,9 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
+Story and [history](./history.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth
+
 Stories hold [state](./state.md) that can be used for [context](./context.md).
-
-History, from historia, involves "inquiry, knowledge acquired by investigation". History is often used to mean physical events that have occurred on Earth. Note that true history is subject to the events to be perceived as actually occurring, such as being documented. Various levels of confidence can be ascribed to the documentation. Additional independent documents increase the confidence.
-
-Story means a sequence of events. Story is more general and covers history & fictional work.
 
 ### Recounting of a sequence of events/Narrative
 
