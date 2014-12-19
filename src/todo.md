@@ -8,7 +8,6 @@
 
 Here is [this philosophy's](./this-philosophy.md) To Do List.
 
-* Reference category-theory in README
 * Disagreements rooted in differing definitions of abstractions between entities
 * masculine
 * feminine
