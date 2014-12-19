@@ -6,7 +6,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Here is [this philosophy's](./this-philosophy.md) To Do List.
+[This Philosophy's](./this-philosophy.md) TODO List
 
 * Disagreements rooted in differing definitions of abstractions between entities
 * masculine
