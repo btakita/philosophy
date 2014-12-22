@@ -5,6 +5,10 @@ philosophy
 
 ## Similarities to other Fields
 
+### [Language Planning](./src/language-planning.md)
+
+This Philosophy utilizes Language Planning with the purpose of facilitating connections to Expand Consciousness.
+
 ### [Category Theory](./src/category-theory.md)
 
 [Abstractions](./src/abstraction.md) are categories and [scopes](./src/scope.md) are morphisms. Connections between abstractions are also morphisms.
