@@ -16,8 +16,11 @@ Love is the attractive force that bonds an [entity](./entity.md) to another enti
 
 This philosophy expands the scope of love to include any entity exhibiting the characteristics of love.
 
+Love can be toward entities within the same scope, entities in an encompassing scope, and entities in a smaller scope. "Loving God" is equivalent to loving the entity of the larger scope.
+
 Examples include:
 
 * [Sexual Reproduction](./sexual-reproduction.md) between two entities to create offspring with their shared DNA
 * Self-love, where the entity love itself & all of the entities that makes up the entity
 * Love of [God](./god.md) involving loving [Existence](./existence.md)
+* Actions of an entity that promote the healthy growth of another entity

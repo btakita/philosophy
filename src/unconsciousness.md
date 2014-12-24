@@ -1,4 +1,4 @@
-# Consciousness
+# Unsciousness
 
 ## [Cultural](./culture.md) Definition
 
@@ -6,9 +6,9 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Consciousness is the [Entity's](./entity.md) ability to interpret relevant [signals](./signal.md), or the ability of being present within an Entity. Note that consciousness has gradients.
+The inability to interpret relevant signals. Opposite of [consciousness](./consciousness.md).
 
-Antonym is [unconsciousness](./unconsciousness.md).
+Consciousness is the [Entity's](./entity.md) ability to interpret relevant signals, or the ability of being present within an Entity.
 
 ### [Scope](./scope.md), or Being Present within an Entity
 

@@ -8,4 +8,6 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-The view of [reality](./reality.md) from an [entity's](./entity.md) point of view.
+The relations that an [Entity](./entity.md) has to the containing entity ([Existence](./existence.md) is the assumed [context](./context.md)).
+
+A perspective influences the [reality](./reality.md) of the entity.
