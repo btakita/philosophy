@@ -12,4 +12,4 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Language is the ability to communicate [abstractions](./abstraction.md) often by using [signals](./signals.md).
+Language is the [system](./system.md) used by an [entity](./entity.md) to communicate [abstractions](./abstraction.md) by using [signals](./signals.md).

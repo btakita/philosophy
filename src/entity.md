@@ -8,7 +8,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-An entity can be a [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, [Existence](./existence.md) (or [God](./god.md)) itself.
+Entities can be a [abstraction](./abstraction.md), [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, [Existence](./existence.md) (or [God](./god.md)) itself.
 
 ### [Being](./being)
 
