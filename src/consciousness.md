@@ -17,3 +17,7 @@ All entities, including the [Universal Set](./universal-set.md) of [Existence](.
 Being Present implies focus of energy toward the entity that you are aspiring to [evolve](./evolution.md) ([love](./love.md)).
 
 Consciousness is the [Entity's](./entity.md) conscious [perspective](./perspective.md) on [Existence](./existence.md). [Reality](./reality.md) is the experience of consciousness, or the experience of a [being](./being.md) perceiving existence.
+
+### Inanimate Objects
+
+Inanimate Objects have full & unwavering consciousness on the [physical system](./physical-system.md) they are contained within.

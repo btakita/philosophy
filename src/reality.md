@@ -22,14 +22,6 @@ Reality is the set of [entities](./entity.md) that affect the entity. All entiti
 
 Reality is the entity's [conscious](./consciousness) & unconscious perspective on [Existence](./existence.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 
-A [collective](./collective.md) has a reality based on it's perspective. The collective's perspective is based on the perspective of the members, with explicitly & implicitly agreed upon definitions.
-
-In modern [culture](./culture.md), Reality is often used to refer to "The state of things as they actually exist, rather than as they may appear or might be imagined".
-
-e.g. A rock does not have a nervous system or much of a dynamic intelligence. It's reality is more singular.
-
-Being [aware](./awareness.md) of other realities has the quality to allows a Soul to live within that particular Reality.
-
 ### [Signals](./signals.md)
 
 Signals are the entities that directly affect the subject entity. Other entities may be the sources of the signals, so it often makes sense to name the source entities as the entities affecting the subject entity.
@@ -37,3 +29,11 @@ Signals are the entities that directly affect the subject entity. Other entities
 ### [Violence](./violence.md)
 
 An entity can impose it's reality upon another entity.
+
+### [Collective](./collective.md) Reality
+
+A collective has a reality based on it's perspective. The collective's perspective is the combined realities of the members. The members may have a large impact or a small impact on the containing entity.
+
+### Awareness of Other Realities & [Compassion](./compassion.md)
+
+Being [aware](./awareness.md) of other realities has the quality to allows an entity to have compassion, or the ability to live within that particular reality.
