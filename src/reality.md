@@ -18,11 +18,11 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-The interpretation of [Existence](./existence.md) from a [soul's](./soul.md) [perspective](./perspective.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
+The interpretation of [Existence](./existence.md) from an [entity's](./entity.md) [perspective](./perspective.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 
 A [collective](./collective.md) has a reality based on it's perspective. The collective's perspective is based on the perspective of the members, with explicitly & implicitly agreed upon definitions.
 
-An [entity](./entity.md) can impose it's reality upon another entity.
+An entity can impose it's reality upon another entity.
 
 In modern [culture](./culture.md), Reality is often used to refer to "The state of things as they actually exist, rather than as they may appear or might be imagined".
 
