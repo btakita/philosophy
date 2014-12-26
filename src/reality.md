@@ -18,7 +18,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Reality is the set of [entities](./entity.md) that affect the entity. All entities have a [perspective](./perspective.md) and a reality.
+Reality is the set of [entities](./entity.md) that affects the [perceiving](./perspective.md) entity. All entities have a perspective and a reality.
 
 Reality is the entity's [conscious](./consciousness) & unconscious perspective on [Existence](./existence.md). The [Information](./information.md) may be Consciously or Unconsciously experienced.
 

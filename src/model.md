@@ -9,3 +9,5 @@
 ## [This Philosophy](./this-philosophy.md) Definition
 
 The model is an [entity](./entity.md) used to exemplify or simulate the workings of the subject [system](./system.md).
+
+Models are often less complex than the subject system, due to the usage of [abstraction](./abstraction.md).
