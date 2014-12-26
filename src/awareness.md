@@ -10,4 +10,4 @@
 
 All [entities](./entities.md) have awareness of the entity that they are a part of. All entities have an awareness of self. The level of awareness is dependent on the [intelligence](./intelligence.md) of the entity.
 
-Awareness is related to [consciousness](./consciousness.md).
+Awareness is related to [consciousness](./consciousness.md) and [feeling](./feeling.md).

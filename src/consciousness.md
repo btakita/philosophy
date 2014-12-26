@@ -8,7 +8,7 @@
 
 Consciousness is the [Entity's](./entity.md) ability to interpret relevant [signals](./signal.md), or the ability of being present within an Entity. Note that consciousness has gradients.
 
-Consciousness is related to [awareness](./awareness.md).
+Consciousness is related to [awareness](./awareness.md) and [feeling](./feeling.md).
 
 Antonym is [unconsciousness](./unconsciousness.md).
 
