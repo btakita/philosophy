@@ -8,7 +8,11 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Faith is the motivation of an [entity](./entity.md) to [expand consciousness](./expanding-consciousness.md) toward the containing entity. By default, the containing entity is [Existence](./existence.md) or [God](./god.md).
+Faith toward an [entity](./entity.md) is the confidence or trust in that entity. An entity would have faith toward another entity.
+
+In this philosophy, faith does not exclude evidence. An example is if there is a 99% chance of rain, one can have faith that it will rain. If one agrees with Newtonian Physics, one can have faith that an apple will fall.
+
+Faith does not require evidence.
 
 ### Creativity
 
