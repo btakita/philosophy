@@ -13,3 +13,9 @@ Supernatural is the [belief](./belief.md) of [physical](physical-system.md) or [
 By definition, natural law explains all phenomena and supernatural phenomena do not occur. Instead, something may be deemed supernatural when the observer does not understand, or wishes to abstract, the underlying natural laws of the phenomena.
 
 Similar to [magic](./magic.md).
+
+### An Example, A Child Shaking an Ant Farm
+
+Let's say an [Entity](./entity.md) can meddle with a physical system at will, like a child shaking an ant farm. The normal physical processes don't occur, as another Entity disturbs the otherwise normal occurrences. From the perspective of the Ants, the Child shaking their world may seem quite "supernatural" & incomprehensible.
+
+However, the shaking of the farm still follows natural physical law. Also, an entity affecting the Ant farm is also within the bounds of natural law. It seems by definition, anything that can occur, is somehow explainable by natural law (applying to physical or conceptual systems).
