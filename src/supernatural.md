@@ -8,8 +8,8 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Supernatural is the [concept](./concept.md) of [physical](physical-system.md) & [conceptual](./conceptual-system.md) phenomena not being subject to [natural law](./natural-law.md).
+Supernatural is the [belief](./belief.md) of [physical](physical-system.md) & [conceptual](./conceptual-system.md) phenomena not being subject to [natural law](./natural-law.md).
 
-By definition, supernatural phenomena do not occur. Instead, something may be deemed supernatural when the observer does not understand, or wishes to abstract, the underlying natural laws of the phenomena.
+By definition, natural law explains all phenomena and supernatural phenomena do not occur. Instead, something may be deemed supernatural when the observer does not understand, or wishes to abstract, the underlying natural laws of the phenomena.
 
 Similar to [magic](./magic.md).
