@@ -14,7 +14,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Magic is a black box which encapsulates imperceptible [natural laws](./natural-law.md). Magic is illusion masking [natural law](./natural-law.md).
+Magic are the causes contained in a [black box](./magic.md), which encapsulates [imperceptible](./perspective.md) [natural laws](./natural-law.md). Magic is [illusion](./illusion.md) masking [natural law](./natural-law.md).
 
 ### Blog Posts
 

@@ -11,3 +11,7 @@
 The relations that an [Entity](./entity.md) has to the containing entity ([Existence](./existence.md) is the assumed [context](./context.md)).
 
 A perspective influences the [reality](./reality.md) of the entity.
+
+### Imperceptible
+
+Entities that are not contained within the Entity's perspective.
