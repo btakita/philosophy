@@ -2,29 +2,17 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/respect" target="_blank">Respect (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/respect" target="_blank">Respect (wiktionary)</a>
 
-> To feel or show deferential regard for; esteem or admire: All the other scholars respect her.
+> ### Noun
 
-> To avoid interfering with or intruding upon: Please respect my privacy.
+> (uncountable) an attitude of consideration or high regard "He is an intellectual giant, and I have great respect for him. we do respect people for their dignity and worth."
 
-> To avoid violating: I respected the speed limit throughout the trip.
+> (uncountable) good opinion, honor, or admiration
 
-> To relate or refer to; concern: As respects the rights of land owners, this law says nothing.
+> (uncountable, always plural) Polite greetings, often offered as condolences after a death. "The mourners paid their last respects to the deceased poet."
 
-> A feeling of appreciative, often deferential regard; esteem: I have great respect for your work. See Synonyms at regard.
-
-> The state of being regarded with honor or esteem: a leader held in the greatest respect.
-
-> Consideration or appreciation: Can't you at least give me some respect?
-
-> Due regard for something considered important or authoritative: respect for the law.
-
-> respects Polite expressions of consideration, deference, or condolence: pay one's respects.
-
-> A particular aspect, feature, or detail: In many respects this is an important decision.
-
-> Usage Problem Relation; reference. See Usage Note at regard.
+> (countable) a particular aspect of something "This year's model is superior to last year's in several respects."
 
 <a href="http://en.wikipedia.org/wiki/Respect" target="_blank">Respect (Wikipedia)</a>
 

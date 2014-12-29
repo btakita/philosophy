@@ -2,8 +2,14 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/concrescence" target="_blank">Concrescence (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/concrescence" target="_blank">Concrescence (wiktionary)</a>
 
-> The growing together of related parts, tissues, or cells.
+> ### Noun
 
-> The amassing of physical particles.
+> the growing together and merging of like or unlike separate parts or particles
+
+> (art) the juxtapositioning of dissimilar forms or devices that are harmonized at their point of intersection into hybrid transitional shapes or designs. Any emphasis or modification of these transitional forms that are used in the creation of designs and new forms
+
+## [This Philosophy](./this-philosophy.md) Definition
+
+Multiple [Entities](./entity.md) merging together into a single entity.

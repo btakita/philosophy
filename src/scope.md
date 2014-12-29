@@ -2,15 +2,21 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/scope" target="_blank">Scope (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/scope" target="_blank">Scope (wiktionary)</a>b
 
-> The range of one's perceptions, thoughts, or actions: broaden one's scope by reading.
+> ### Noun
 
-> The opportunity or possibility to function or be active: gave her imagination broad scope.
+> The breadth, depth or reach of a subject; a domain.
 
-> The extent of a given activity or subject that is involved, treated, or relevant: the scope of the debate.
+> A device used in aiming a projectile, through which the person aiming looks at the intended target
 
-> Linguistics The range over a part of a sentence or discourse that a quantifier has an effect on.
+> (computing) The region of program source in which an identifier is meaningful.
+
+> (logic) The shortest sub-wff of which a given instance of a logical connective is a part.
+
+> (linguistics) The region of an utterance to which some modifying element applies. "the scope of an adverb"
+
+> (slang) Shortened form of periscope, telescope, microscope or oscilloscope.
 
 <a href="http://www.etymonline.com/index.php?term=scope" target="_blank">Scope (etymonline.com)</a>
 

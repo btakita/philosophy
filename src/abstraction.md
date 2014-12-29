@@ -6,15 +6,35 @@
 
 > Abstraction in its main sense is a conceptual process by which general rules and concepts are derived from the usage and classification of specific examples, literal ("real" or "concrete") signifiers, first principles, or other methods. "An abstraction" is the product of this process—a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.
 
-<a href="http://www.thefreedictionary.com/abstraction" target="_blank">Abstraction (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/abstraction" target="_blank">Abstraction (wiktionary)</a>
 
-> The act of abstracting or the state of having been abstracted.
+> ### Noun
 
-> the process of formulating generalized ideas or concepts by extracting common qualities from specific examples
+> The act of abstracting, separating, withdrawing, or taking away; withdrawal; the state of being taken away.
 
-> the act of considering something in terms of general qualities, apart from concrete realities, specific objects, or actual instances.
+> A separation from worldly objects; a recluse life, as a hermit's abstraction; the withdrawal from one's senses.
 
-> the quality of being abstract.
+> The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas. "Abstraction is necessary for the classification of things into genera and species."
+
+> The act of comparing commonality between distinct objects and organizing using those similarities; the act of generalizing characteristics; the product of said generalization.
+
+> An idea or notion of an abstract or theoretical nature. "to fight for mere abstractions."
+
+> Absence or absorption of mind; inattention to present objects; preoccupation.
+
+> (art) An abstract creation, or piece of art; qualities of artwork that are free from representational aspects.
+
+> (chemistry) A separation of volatile parts by the act of distillation.
+
+> An idea of an unrealistic or visionary nature.
+
+> The result of mentally abstracting an idea; the results of said process.
+
+> (geology) The merging of two river valleys by the larger of the two deepening and widening so much so, as to assimilate the smaller.
+
+> (computing) Any generalization technique that ignores or hides details to capture some kind of commonality between different instances for the purpose of controlling the intellectual complexity of engineered systems, particularly software systems.
+
+> (computing) Any intellectual construct produced through the technique of abstraction.
 
 <a href="http://www.aaai.org/ocs/index.php/SARA/SARA13/paper/download/7249/6267" target="_blank">Abstraction: A Historical and Interdisciplinary Perspective</a>
 

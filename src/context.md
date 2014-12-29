@@ -2,13 +2,17 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/context" target="_blank">Context (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/context" target="_blank">Context (wiktionary)</a>
 
-> The part of a text or statement that surrounds a particular word or passage and determines its meaning.
+> ### Noun
 
-> The circumstances in which an event occurs; a setting.
+> The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence. "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped."
 
-> Middle English, composition, from Latin contextus, from past participle of contexere, to join together : com-, com- + texere, to weave; see teks- in Indo-European roots.
+>​ (linguistics) The text in which a word or passage appears and which helps ascertain its meaning.
+
+> (archaeology) The surroundings and environment in which an artifact is found and which may provide important clues about the artifact's function and/or cultural meaning.
+
+> (mycology) The trama or flesh of a mushroom.
 
 <a href="https://en.wikipedia.org/wiki/Context_(language_use)" target="_blank">Context (Language Use) (Wikipedia)</a>
 

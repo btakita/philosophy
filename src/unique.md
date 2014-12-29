@@ -2,13 +2,17 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/unique" target="_blank">Unique (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/unique" target="_blank">Unique (wiktionary)</a>
 
-> Being the only one of its kind
+> ### Adjective (comparative more unique, superlative most unique)
 
-> Characteristic only of a particular category or entity
+> (not comparable) Being the only one of its kind; unequaled, unparalleled or unmatched.
 
-> Remarkable; extraordinary
+> Of a feature, such that only one holder has it.
+
+> Particular, characteristic.
+
+> (proscribed) Of a rare quality, unusual.
 
 ## [This Philosophy](./this-philosophy.md) Definition
 

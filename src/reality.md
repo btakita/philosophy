@@ -2,15 +2,17 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://thefreedictionary.com/reality" target="_blank">Reality (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/reality" target="_blank">Reality (wiktionary)</a>
 
-> The quality or state of being actual or true.
+> ### Noun
 
-> One, such as a person, an entity, or an event, that is actual: "the weight of history and political realities" (Benno C. Schmidt, Jr.)
+> The state of being actual or real. "The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend."
 
-> The totality of all things possessing actuality, existence, or essence.
+> A real entity, event or other fact. "The ultimate reality of life is that it ends in death."
 
-> That which exists objectively and in fact: Your observations do not seem to be about reality.
+> The entirety of all that is real.
+
+> An individual observer's own subjective perception of that which is real.
 
 <a href="https://en.wikipedia.org/wiki/Reality" target="_blank">Reality (Wikipedia)</a>
 

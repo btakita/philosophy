@@ -2,11 +2,21 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/signal" target="_blank">Signal (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/signal" target="_blank">Signal (wiktionary)</a>
 
-> An indicator, such as a gesture or colored light, that serves as a means of communication.
+> ### Noun
 
-> Something that incites action
+> A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.
+
+> An on-off light, semaphore, or other device used to give an indication to another person.
+
+> (of a radio, TV, telephone, internet, etc) An electrical or electromagnetic action, normally a voltage that is a function of time that conveys the information of the radio or TV program or of communication with another party. "My mobile phone can't get a signal in the railway station."
+
+> A token; an indication; a foreshadowing; a sign.
+
+> Useful information, as opposed to noise.
+
+> An individual life. "Fifty souls were lost when the ship sank."
 
 <a href="https://en.wikipedia.org/wiki/Signal_(electrical_engineering)" target="_blank">Signal (electrical engineering) (Wikipedia)</a>
 

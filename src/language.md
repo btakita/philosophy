@@ -2,9 +2,25 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/language" target="_blank">Language (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/language" target="_blank">Language (wiktionary)</a>
 
-> Communication of thoughts and feelings through a system of arbitrary signals, such as voice sounds, gestures, or written symbols.
+> ### Noun
+
+> (countable) A form of communication using words either spoken or gestured with the hands and structured with grammar, often with a writing system. "the English language; sign language"
+
+> (uncountable) The ability to communicate using words. "the gift of language"
+
+> (countable or uncountable) Nonverbal communication. "body language"
+
+> (computing, countable) A computer language.
+
+> (uncountable) The vocabulary and usage used in a particular specialist field. "legal language"
+
+> (uncountable) The particular words used in speech or a passage of text. "The language he used to talk to me was obscene." "The language used in the law does not permit any other interpretation."
+
+> (uncountable) Profanity.
+
+> Spoken or written words.
 
 <a href="https://en.wikipedia.org/wiki/Language" target="_blank">Language (Wikipedia)</a>
 

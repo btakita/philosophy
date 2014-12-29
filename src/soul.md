@@ -2,9 +2,21 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://www.thefreedictionary.com/soul" target="_blank">Soul (thefreedictionary.com)</a>
+<a href="http://en.wiktionary.org/wiki/soul" target="_blank">Soul (wiktionary)</a>
 
-> The animating and vital principle in humans, credited with the faculties of thought, action, and emotion and often conceived as an immaterial entity.
+> ### Noun
+
+> (religion, folklore) The spirit or essence of a person usually thought to consist of one's thoughts and personality. Often believed to live on after the person's death.
+
+> The spirit or essence of anything.
+
+> Life, energy, vigor.
+
+> (music) Soul music.
+
+> A person, especially as one among many.
+
+>
 
 <a href="https://en.wikipedia.org/wiki/Soul" target="_blank">Soul (Wikipedia)</a>
 
