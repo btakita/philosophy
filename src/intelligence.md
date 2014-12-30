@@ -41,3 +41,7 @@ The intelligence (control system) of a rock (hardness, elasticity, density, mass
 A concept has intelligence as it relates to another entity. For example, a person focusing on a concept is effected by the concept in certain ways.
 
 Concepts also have effects on other concepts. For example, saying "this philosophy will evolve" combines the intelligence of this philosophy to the intelligence of [evolution](./evolution.md). The phrase imparts a notion that this philosophy is under a process of evolution, adding to the meaning of the abstraction of and the controlling characteristics of "this philosophy".
+
+### Links
+
+<a href="http://jmozah.github.io/links/" target="_blank">Deep Learning Reading List (jmozah.github.io)</a>
