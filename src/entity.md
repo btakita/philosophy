@@ -2,6 +2,18 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/entity" target="_blank">entity (wiktionary)</a>
+
+> ### Noun
+
+> That which has a distinct existence as an individual unit. Often used for organisations which have no physical form.
+
+> An existent something that has the properties of being real, and having a real existence.
+
+> (computing) Anything about which information or data can be stored in a database; in particular, an organised array or set of individual elements or parts.
+
+> The state or quality of being or existence. "The group successfully maintains its tribal entity."
+
 <a href="https://en.wikipedia.org/wiki/Entity" target="_blank">Entity (Wikipedia)</a>
 
 > An entity is something that exists in itself, actually or potentially, concretely or abstractly, physically or not. It need not be of material existence. In particular, abstractions and legal fictions are usually regarded as entities. In general, there is also no presumption that an entity is animate.

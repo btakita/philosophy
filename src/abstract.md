@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/abstract" target="_blank">Abstract (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/abstract" target="_blank">abstract (wiktionary)</a>
 
 > ### Adjective
 

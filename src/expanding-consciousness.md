@@ -2,9 +2,37 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/expand" target="_blank">expand (wiktionary)</a>
+
+> ### Verb (expand (third-person singular simple present expands, present participle expanding, simple past and past participle expanded))
+
+> (transitive) To change (something) from a smaller form and/or size to a larger one. "You can expand this compact umbrella to cover a large table."
+
+> (transitive) To increase the extent, number, volume or scope of (something). "A flower expands its leaves."
+
+> (transitive) To express (something) at length and/or in detail.
+
+> (transitive, algebra) To rewrite (an expression) as a longer, yet equivalent sum of terms. "Use the binomial theorem to expand  (x+1)4  to  x4 + 4x3 + 6x2 + 4x + 1."
+
+> (transitive, arithmetic) To multiply both the numerator and the denominator of a fraction by the same natural number yielding a fraction of equal value
+
+> (intransitive) To (be) change(d) from a smaller form/size to a larger one. "Many materials expand when heated." "This compact umbrella expands to cover a large table."
+
+> (intransitive) To (be) increase(d) in extent, number, volume or scope.
+
+> (intransitive) To speak or write at length or in detail. "He's so pedantic, he expands on everything!"
+
+> (intransitive) To feel generous or optimistic.
+
 <a href="https://en.wikipedia.org/wiki/Level_of_consciousness_(Esotericism)" target="_blank">Level of consciousness (Esotericism) (Wikipedia)</a>
 
+> Consciousness is a loosely defined concept that addresses the human awareness of both internal and external stimuli. This can refer to spiritual recognition, psychological understanding, medically altered states, or more modern-day concepts of life purpose, satisfaction, and self-actualization.
+
+> Most theories map consciousness in a series of levels, some stages of which are more continuous or complex than others. Movement between stages is often bidirectional depending on internal and external conditions, with each mental ascension precipitating a change in reactivity. In the most basic sense, this alteration might lead to a reduced responsiveness as seen in anesthesiology; more abstract facets of tiered consciousness describe characteristics of profoundness, insight, perception, or understanding.
+
 <a href="https://en.wikipedia.org/wiki/Higher_consciousness" target="_blank">Higher consciousness (Wikipedia)</a>
+
+> Higher consciousness is the consciousness of a higher Self, transcendental reality, or God. It is "the part of the human being that is capable of transcending animal instincts".[1] The concept developed in German Idealism, and is a central notion in contemporary popular spirituality.
 
 ## [This Philosophy](./this-philosophy.md) Definition
 

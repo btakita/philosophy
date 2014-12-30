@@ -2,6 +2,14 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/unconsciousness" target="_blank">unconsciousness (wiktionary)</a>
+
+> ### Noun
+
+> The state of lacking consciousness, of being unconscious
+
+> ignorance or innocence; the state of being uninformed or unaware
+
 <a href="https://en.wikipedia.org/wiki/Consciousness" target="_blank">Consciousness (Wikipedia)</a>
 
 ## [This Philosophy](./this-philosophy.md) Definition

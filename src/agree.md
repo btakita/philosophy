@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/agree" target="_blank">Agree (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/agree" target="_blank">agree (wiktionary)</a>
 
 > (intransitive) To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur. "all parties agree in the expediency of the law."
 

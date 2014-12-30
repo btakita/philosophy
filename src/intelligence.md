@@ -2,7 +2,23 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/intelligence" target="_blank">intelligence (wiktionary)</a>
+
+> ### Noun
+
+> (uncountable) Capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to learn and comprehend.
+
+> (countable) An entity that has such capacities.
+
+> (uncountable) Information, usually secret, about the enemy or about hostile activities.
+
+> (countable) A political or military department, agency or unit designed to gather information, usually secret, about the enemy or about hostile activities.
+
+> (dated) Acquaintance; intercourse; familiarity.
+
 <a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank">Intelligence (Wikipedia)</a>
+
+> Intelligence has been defined in many different ways such as in terms of one's capacity for logic, abstract thought, understanding, self-awareness, communication, learning, emotional knowledge, memory, planning, creativity and problem solving. It can also be more generally described as the ability to perceive and/or retain knowledge or information and apply it to itself or other instances of knowledge or information creating referable understanding models of any size, density, or complexity, due to any conscious or subconscious imposed will or instruction to do so.
 
 ## [This Philosophy](./this-philosophy.md) Definition
 

@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/exist" target="_blank">Exist (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/exist" target="_blank">exist (wiktionary)</a>
 
 > ### Verb
 

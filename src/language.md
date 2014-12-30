@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/language" target="_blank">Language (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/language" target="_blank">language (wiktionary)</a>
 
 > ### Noun
 

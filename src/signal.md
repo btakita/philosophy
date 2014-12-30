@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/signal" target="_blank">Signal (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/signal" target="_blank">signal (wiktionary)</a>
 
 > ### Noun
 

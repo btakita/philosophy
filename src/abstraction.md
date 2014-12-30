@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">Abstraction (Wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">abstraction (Wikipedia)</a>
 
 > Abstraction in its main sense is a conceptual process by which general rules and concepts are derived from the usage and classification of specific examples, literal ("real" or "concrete") signifiers, first principles, or other methods. "An abstraction" is the product of this process—a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.
 

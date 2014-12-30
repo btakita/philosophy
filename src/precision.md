@@ -2,6 +2,16 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/precision" target="_blank">precision (wiktionary)</a>
+
+> ### Noun
+
+> The state of being precise or exact; exactness.
+
+> The ability of a measurement to be reproduced consistently.
+
+> (mathematics) The number of significant digits to which a value may be measured reliably.
+
 <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">Accuracy and Precision (Wikipedia)</a>
 
 > precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results

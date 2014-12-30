@@ -2,6 +2,22 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/morality" target="_blank">morality (wiktionary)</a>
+
+> ### Noun
+
+> (uncountable) Recognition of the distinction between good and evil or between right and wrong; respect for and obedience to the rules of right conduct; the mental disposition or characteristic of behaving in a manner intended to produce morally good results.
+
+> (countable) A set of social rules, customs, traditions, beliefs, or practices which specify proper, acceptable forms of conduct.  
+
+> (countable) A set of personal guiding principles for conduct or a general notion of how to behave, whether respectable or not.
+
+> (countable, archaic) A lesson or pronouncement which contains advice about proper behavior.
+
+> (uncountable, rare) Moral philosophy, the branch of philosophy which studies the grounds and nature of rightness, wrongness, good, and evil.
+
+> (countable, rare) A particular theory concerning the grounds and nature of rightness, wrongness, good, and evil.
+
 <a href="http://en.wikipedia.org/wiki/Morality" target="_blank">Morality (Wikipedia)</a>
 
 > Morality (from the Latin moralitas "manner, character, proper behavior") is the differentiation of intentions, decisions, and actions between those that are "good" (or right) and those that are "bad" (or wrong). Morality can be a body of standards or principles derived from a code of conduct from a particular philosophy, religion, culture, etc., or it can derive from a standard that a person believes should be universal. Morality may also be specifically synonymous with "goodness" or "rightness." Immorality is the active opposition to morality (i.e. opposition to that which is good or right), while amorality is variously defined as an unawareness of, indifference toward, or disbelief in any set of moral standards or principles.

@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/unique" target="_blank">Unique (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/unique" target="_blank">unique (wiktionary)</a>
 
 > ### Adjective (comparative more unique, superlative most unique)
 

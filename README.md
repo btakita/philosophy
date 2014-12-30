@@ -1,7 +1,7 @@
 philosophy
 ==========
 
-[This philosophy](./src/this-philosophy.md) is a [tool](./src/tool.md) to expand [consciousness](./consciousness.md) by creating [novelty](./novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from the [domains](./src/domain.md) of [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, etc.
+[This philosophy](./src/this-philosophy.md) is a [worldview](./src/worldview.md) [tool](./src/tool.md), with the intent of [expanding consciousness](./expanding-consciousness.md) by creating [novelty](./novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from the [domains](./src/domain.md) of [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, etc.
 
 ## Similarities to other Fields
 
@@ -13,11 +13,9 @@ This Philosophy utilizes Language Planning with the purpose of facilitating conn
 
 [Abstractions](./src/abstraction.md) are categories and [scopes](./src/scope.md) are morphisms. Connections between abstractions are also morphisms.
 
-### [Evolutionary Linguistics](./src/evolutionary-linguistics.md)
+### [Linguistic Relativity](./src/linguistic-relativity.md) & [Evolutionary Linguistics](./src/evolutionary-linguistics.md)
 
-[Evolution](./src/evolution.md) implies a creative activity.
-
-This Philosophy favors using & evolving existing words, by expanding scope, over creating new terminology.
+[Evolution](./src/evolution.md) implies a creative activity. This Philosophy favors using & evolving existing words, by expanding scope, over creating new terminology. The worldview perspective facilitates connection between abstractions among different domains & worldviews.
 
 ### [Philosophy of Language](./src/philosophy-of-language.md)
 

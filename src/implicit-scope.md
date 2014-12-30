@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/implicit" target="_blank">Implicit (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/implicit" target="_blank">implicit (wiktionary)</a>
 
 > ### Adjective
 
@@ -12,7 +12,7 @@
 
 > Having no reservations or doubts; unquestioning or unconditional; usually said of faith or trust.
 
-<a href="http://en.wiktionary.org/wiki/scope" target="_blank">Scope (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a>
 
 > ### Noun
 
@@ -34,4 +34,4 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Implicit Scoping is applying an unmentioned [scope](./scope.md) to a word. This implies a non-obvious [contextual](./context.md), often based on who expresses the word; usually implying a shared [story](./story.md) or [culture](./culture.md) with the listener.
+The Implicit Scope is an unmentioned [scope](./scope.md) applied to the definition of a word. This implies a non-obvious [contextual](./context.md), often based on who expresses the word; usually implying a shared [story](./story.md) or [culture](./culture.md) with the listener.

@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/domain" target="_blank">Domain (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/domain" target="_blank">domain (wiktionary)</a>
 
 > ### Noun
 

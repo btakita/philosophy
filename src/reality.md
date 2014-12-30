@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/reality" target="_blank">Reality (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/reality" target="_blank">reality (wiktionary)</a>
 
 > ### Noun
 

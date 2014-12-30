@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/context" target="_blank">Context (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/context" target="_blank">context (wiktionary)</a>
 
 > ### Noun
 
@@ -24,6 +24,10 @@
 <a href="https://en.wikipedia.org/wiki/Context_(computing)" target="_blank">Context (Computing) (Wikipedia)</a>
 
 > In computer science, a task context (process, thread ...) is the minimal set of data used by this task that must be saved to allow a task interruption at a given date, and a continuation of this task at the point it has been interrupted and at an arbitrary future date. The concept of context assumes significance in the case of interruptible tasks, wherein upon being interrupted the processor saves the context and proceeds to serve the Interrupt service routine. Thus, the smaller the context is, the smaller the latency is.
+
+<a href="https://en.wikipedia.org/wiki/Morphology_(linguistics)" target="_blank">Morphology (Linguistics) (Wikipedia)</a>
+
+> In linguistics, morphology is the identification, analysis, and description of the structure of a given language's morphemes and other linguistic units, such as root words, affixes, parts of speech, intonations and stresses, or implied context.
 
 ## [This Philosophy](./this-philosophy.md) Definition
 

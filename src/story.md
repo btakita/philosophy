@@ -2,6 +2,22 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/story" target="_blank">story (wiktionary)</a>
+
+> ### Noun
+
+> A sequence of real or fictional events; or, an account of such a sequence. "The book tells the story of two roommates."
+
+> A lie. "You’ve been telling stories again, haven’t you?"
+
+> (chiefly US) A floor or level of a building; a storey. "Our shop was on the fourth story of the building, so we had to install an elevator."
+
+> (US, colloquial, usually pluralized) A soap opera. "What will she do without being able to watch her stories?"
+
+> (obsolete) History.
+
+> A sequence of events, or a situation, such as might be related in an account. "What's the story with him?" "I tried it again; same story, no error message, nothing happened."
+
 <a href="https://en.wikipedia.org/wiki/Story" target="_blank">Story (Wikipedia)</a>
 
 > Story, a recounting of a sequence of events

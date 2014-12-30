@@ -2,11 +2,23 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/ego" target="_blank">ego (wiktionary)</a>
+
+> ### Noun
+
+> ​the self, especially with a sense of self-importance
+
+> (psychology, Freudian) the most central part of the mind, which mediates with one's surroundings
+
 <a href="https://en.wikipedia.org/wiki/Ego" target="_blank">Ego (Wikipedia)</a>
 
 <a href="https://en.wikipedia.org/wiki/Ego_(Freudian)" target="_blank">Ego (Freudian) (Wikipedia)</a>
 
+> According to this model of the psyche, the id is the set of uncoordinated instinctual trends; the super-ego plays the critical and moralizing role; and the ego is the organized, realistic part that mediates between the desires of the id and the super-ego. The super-ego can stop one from doing certain things that one's id may want to do.
+
 <a href="https://en.wikipedia.org/wiki/Ego_(religion)" target="_blank">Ego (Religion) (Wikipedia)</a>
+
+> In South Asian traditions, the state of being trapped in the illusory belief that one is the false ego (ahamkara: "I am a doer") is known as maya or samsara. In psychology, 'Ego' is presumed as one of the three parts of psychic apparatus defined by Sigmund Freud's structural model. It is also defined by various religions across the world where slight differences also occur in their conceptions. Hinduism and Buddhism have least differences in defining various psychological terms such as self, ego, soul, etc.
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
@@ -16,7 +28,7 @@ It is also the cause to impose one's reality onto another being.
 
 If the ego is given too much [energy](./energy.md) and used to commit violence (physical, spiritual, emotional, etc), then it can be considered undesirable. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
 
-However, the ego is not always considered undesirable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other coercive techniques).
+However, the ego is not always considered undesirable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other [coercive](./coercion.md) techniques).
 
 ## References
 

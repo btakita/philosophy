@@ -2,6 +2,12 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/energy_transfer" target="_blank">energy transfer (wiktionary)</a>
+
+> ### Noun
+
+> (physics) The conversion of one form of energy into another, or the movement of energy from one place to another. "Solar panels allow for energy transfer from light energy to heat and electrical energy."
+
 <a href="http://en.wikipedia.org/wiki/Energy_transfer" target="_blank">Energy Transfer (Wikipedia)</a>
 
 > In the physical sciences, an energy transfer or 'energy exchange' from one system to another is said to occur when an amount of energy crosses the boundary between them, thus increasing the energy content of one system while decreasing the energy content of the other system by the same amount. The transfer is characterised by the quantity of energy transferred, which can be specified in energy units such as the joule (J), in combination with the direction of the transfer, which can be specified as in (to) or out of (from) one system or the other. The transfer occurs in a process which changes the state of each system. Thermodynamics recognises three categories (mechanisms or modes) of such transfers:
@@ -14,4 +20,4 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Physical or Conceptual [Energy](./energy.md) can be transferred between [entities](./entity.md) within the [system](./system.md).
+[Physical](./physical-system.md) or [Conceptual](./conceptual-system.md) [Energy](./energy.md) can be transferred between [entities](./entity.md) within the [system](./system.md).

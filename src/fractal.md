@@ -2,6 +2,14 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/fractal" target="_blank">fractal (wiktionary)</a>
+
+> ### Noun
+
+> (mathematics) A mathematical set that has a non-integer and constant Hausdorff dimension; a geometric figure that is self-similar at all scales.
+
+> (figuratively) An object, system, or idea that exhibits a fractal-like property.
+
 <a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">Fractal (Wikipedia)</a>
 
 ## [This Philosophy](./this-philosophy.md) Definition

@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/magic" target="_blank">Magic (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/magic" target="_blank">magic (wiktionary)</a>
 
 > ### Noun (usually uncountable, plural magics)
 

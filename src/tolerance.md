@@ -2,6 +2,18 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/tolerance" target="_blank">tolerance (wiktionary)</a>
+
+> (uncountable, obsolete) The ability to endure pain or hardship; endurance. [15th-19th c.]
+
+> (uncountable) The ability or practice of tolerating; an acceptance or patience with the beliefs, opinions or practices of others; a lack of bigotry. [from 18th c.]
+
+> (uncountable) The ability of the body (or other organism) to resist the action of a poison, to cope with a dangerous drug or to survive infection by an organism. [from 19th c.]
+
+> (countable) The variation or deviation from a standard, especially the maximum permitted variation in an engineering measurement. [from 20th c.]
+
+> (uncountable) The ability of the body to accept a tissue graft without rejection. [from 20th c.]
+
 <a href="http://en.wikipedia.org/wiki/Tolerance" target="_blank">Tolerance (Wikipedia)</a>
 
 > Tolerance or toleration to tolerate, or put up with, conditionally, also to suggest a fair, objective, and permissive attitude toward those whose opinions, practices, race, religion, nationality, etc., differ from one's own; freedom from bigotry.

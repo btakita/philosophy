@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/scope" target="_blank">Scope (wiktionary)</a>b
+<a href="http://en.wiktionary.org/wiki/scope" target="_blank">scope (wiktionary)</a>b
 
 > ### Noun
 

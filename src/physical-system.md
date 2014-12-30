@@ -2,6 +2,12 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/physical_system" target="_blank">physical system (wiktionary)</a>
+
+> ### Noun
+
+> (physics) The portion of the physical universe chosen for analysis, with everything outside the system known as the environment.
+
 <a href="http://en.wikipedia.org/wiki/Physical_system" target="_blank">Physical System (Wikipedia)</a>
 
 > the portion of the physical universe chosen for analysis

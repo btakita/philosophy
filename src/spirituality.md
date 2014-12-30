@@ -2,6 +2,20 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/spirituality" target="_blank">spirituality (wiktionary)</a>
+
+> ### Noun
+
+> The quality or state of being spiritual. "A pleasure made for the soul, suitable to its spirituality. — South." "If this light be not spiritual, yet it approacheth nearest to spirituality. — Sir Walter Raleigh." "Much of our spirituality and comfort in public worship depends on the state of mind in which we come. — Bickersteth."
+
+> Concern for that which is unseen and intangible, as opposed to physical or mundane.
+
+> Appreciation for religious values.
+
+> (obsolete) That which belongs to the church, or to a person as an ecclesiastic, or to religion, as distinct from temporalities. "During the vacancy of a see, the archbishop is guardian of the spiritualities thereof. — Blackstone."
+
+> (obsolete) An ecclesiastical body; the whole body of the clergy, as distinct from, or opposed to, the temporality. "Five entire subsidies were granted to the king by the spirituality. — Fuller."
+
 <a href="https://en.wikipedia.org/wiki/Spirituality" target="_blank">Spirituality (Wikipedia)</a>
 
 > Traditionally spirituality has been defined as a process of personal transformation in accordance with religious ideals. Since the 19th century spirituality is often separated from religion, and has become more oriented on subjective experience and psychological growth. It may refer to almost any kind of meaningful activity or blissful experience, but without a single, widely-agreed definition.

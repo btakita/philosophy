@@ -2,6 +2,14 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/existence" target="_blank">existence (wiktionary)</a>
+
+> ### Noun
+
+> The state of being, existing, or occurring; beinghood. "Most people doubt the existence of the Loch Ness monster."
+
+> Empirical reality; the substance of the physical universe. (Dictionary of Philosophy; 1968)
+
 <a href="https://en.wikipedia.org/wiki/Existence" target="_blank">Existence (Wikipedia)</a>
 
 > Everything that 'is', or more simply, everything

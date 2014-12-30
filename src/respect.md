@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/respect" target="_blank">Respect (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/respect" target="_blank">respect (wiktionary)</a>
 
 > ### Noun
 

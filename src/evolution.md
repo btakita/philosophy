@@ -2,6 +2,24 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a>
+
+> ### Noun
+
+> Accumulation of change. "Among other forms of change, the evolution of transportation has involved modification, diversification, convergence, divergence, hybridization, differentiation, and naturally, selection."
+
+> (general) Gradual directional change especially one leading to a more advanced or complex form; growth; development. "The evolution of the universe began with a bang."
+
+> (biology) The change in the genetic composition of a population over successive generations.
+
+> (chemistry) The act or an instance of giving off gas; emission.
+
+> (mathematics) The extraction of a root from a quantity.
+
+> (military) One of a series of ordered movements.
+
+> (dance, sports) A turning movement of the body.
+
 <a href="http://www.etymonline.com/index.php?term=evolution" target="_blank">Evolution (etymonline.com)</a>
 
 <a href="https://en.wikipedia.org/wiki/Evolution_(disambiguation)" target="_blank">Evolution (Wikipedia)</a>

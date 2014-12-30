@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/concrescence" target="_blank">Concrescence (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/concrescence" target="_blank">concrescence (wiktionary)</a>
 
 > ### Noun
 

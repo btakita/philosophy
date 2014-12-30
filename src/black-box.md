@@ -2,6 +2,16 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/black_box" target="_blank">black box (wiktionary)</a>
+
+> ### Noun
+
+> (aviation) Informal name for the brightly colored cockpit voice recorders and flight data recorders in an aircraft designed to aid in determining the cause of an accident.
+
+> (transport) by extension, any similar device on motor vehicles, such as rail event recorders and ship trip recorders
+
+> A theoretical construct or device with known input and output characteristics but unknown method of operation.
+
 <a href="http://en.wikipedia.org/wiki/Black_box" target="_blank">Black Box (Wikipedia)</a>
 
 > In science, computing, and engineering, a black box is a device, system or object which can be viewed in terms of its input, output (or transfer characteristics) without any knowledge of its internal workings. Its implementation is "opaque" (black). Almost anything might be referred to as a black box: a transistor, an algorithm, or the human brain.

@@ -2,7 +2,25 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/conscious" target="_blank">conscious (wiktionary)</a>
+
+> ### Adjective
+
+> Alert, awake. "The noise woke me, but it was another few minutes before I was fully conscious."
+
+> Aware. "I was conscious of a noise behind me."
+
+> Aware of one's own existence; aware of one's own awareness. "Only highly intelligent beings can be fully conscious."
+
+<a href="http://en.wiktionary.org/wiki/consciousness" target="_blank">consciousness (wiktionary)</a>
+
+> ### Noun
+
+> The state of being conscious or aware; awareness.
+
 <a href="https://en.wikipedia.org/wiki/Consciousness" target="_blank">Consciousness (Wikipedia)</a>
+
+> Consciousness is the quality or state of awareness, or, of being aware of an external object or something within oneself. It has been defined as: sentience, awareness, subjectivity, the ability to experience or to feel, wakefulness, having a sense of selfhood, and the executive control system of the mind. Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is. As Max Velmans and Susan Schneider wrote in The Blackwell Companion to Consciousness: "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."
 
 ## [This Philosophy](./this-philosophy.md) Definition
 

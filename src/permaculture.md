@@ -2,6 +2,14 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/permaculture" target="_blank">permaculture (wiktionary)</a>
+
+> ### Noun
+
+> Any system of sustainable agriculture that renews natural resources and enriches local ecosystems.
+
+> The design, installation and maintenance of indefinitely sustainable human communities set in balanced ecologies, both urban and rural.
+
 <a href="https://en.wikipedia.org/wiki/Permaculture" target="_blank">Permaculture (Wikipedia)</a>
 
 <a href="http://www.geofflawton.com/" target="_blank">geofflawton.com</a>

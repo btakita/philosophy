@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/teleology" target="_blank">Teleology (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/teleology" target="_blank">teleology (wiktionary)</a>
 
 > ### Noun
 
@@ -18,7 +18,7 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
-Teleology is useful for [creative](./creativity.md) & [evolutionary](./evolution.md) processes with design intent. A danger of teleology is reduced freedom of movement by becoming fixated on a particular goal when unexplored alternatives exist. To counter this danger, one can be open to discovering [patterns](./pattern.md) of the design intents & to revise the design intents.
+Teleology is useful for [creative](./create.md) & [evolutionary](./evolution.md) processes with design intent. A danger of teleology is reduced freedom of movement by becoming fixated on a particular goal when unexplored alternatives exist. To counter this danger, one can be open to discovering [patterns](./pattern.md) of the design intents & to revise the design intents.
 
 [Abstract](./abstraction.md) [systems](./conceptual-system.md) often utilize Teleology to achieve the goals of [pattern](./pattern.md) expression.
 

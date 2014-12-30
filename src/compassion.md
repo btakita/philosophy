@@ -2,6 +2,12 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/compassion" target="_blank">compassion (wiktionary)</a>
+
+> ### Noun
+
+> Deep awareness of the suffering of another, coupled with the wish to relieve it
+
 <a href="http://en.wikipedia.org/wiki/Compassion" target="_blank">Compassion (Wikipedia)</a>
 
 > Compassion is the emotion that one feels in response to the suffering of others that motivates a desire to help.

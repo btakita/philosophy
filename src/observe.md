@@ -2,6 +2,16 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/observe" target="_blank">observe (wiktionary)</a>
+
+> ### Verb (third-person singular simple present observes, present participle observing, simple past and past participle observed)
+
+> (transitive) To notice or view, especially carefully or with attention to detail. "From this vantage point we can observe the behavior of the animals in their natural habitat."
+
+> (transitive) To follow or obey the custom, practice, or rules (especially of a religion). "Please observe all posted speed limits."
+
+. (intransitive) To comment on something; to make an observation. "The senator observed that the bill would be detrimental to his constituents."
+
 <a href="http://en.wikipedia.org/wiki/Observation" target="_blank">Observation (Wikipedia)</a>
 
 > Observation is the active acquisition of information from a primary source. In living beings, observation employs the senses. In science, observation can also involve the recording of data via the use of instruments. The term may also refer to any data collected during the scientific activity.

@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">Redefine (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">redefine (wiktionary)</a>
 
 > ### Verb
 

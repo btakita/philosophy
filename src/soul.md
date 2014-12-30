@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/soul" target="_blank">Soul (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/soul" target="_blank">soul (wiktionary)</a>
 
 > ### Noun
 

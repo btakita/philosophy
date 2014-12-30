@@ -2,7 +2,7 @@
 
 ## [Cultural](./culture.md) Definition
 
-<a href="http://en.wiktionary.org/wiki/judicious" target="_blank">Judicious (wiktionary)</a>
+<a href="http://en.wiktionary.org/wiki/judicious" target="_blank">judicious (wiktionary)</a>
 
 > ### Adjective
 

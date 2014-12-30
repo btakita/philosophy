@@ -2,6 +2,24 @@
 
 ## [Cultural](./culture.md) Definition
 
+<a href="http://en.wiktionary.org/wiki/history" target="_blank">history (wiktionary)</a>
+
+> ### Noun
+
+> The aggregate of past events. "History repeats itself if we don’t learn from its mistakes."
+
+> The branch of knowledge that studies the past; the assessment of notable events. "He teaches history at the university. History will not look kindly on these tyrants. He dreams of an invention that will make history."
+
+> A set of events involving an entity. "What is your medical history?" "The family's history includes events best forgotten."
+
+> A record or narrative description of past events.
+
+> (medicine) The list of past and continuing medical conditions of an individual or family. "A personal medical history is required for the insurance policy. He has a history of cancer in his family."
+
+> (computing) A record of previous user events, especially of visited web pages in a browser. "I visited a great site yesterday but forgot the URL. Luckily, I didn't clear my history."
+
+> (informal) Something that no longer exists or is no longer relevant. "I told him that if he doesn't get his act together, he's history."
+
 <a href="https://en.wikipedia.org/wiki/History" target="_blank">History (Wikipedia)</a>
 
 > History (from Greek ἱστορία, historia, meaning "inquiry, knowledge acquired by investigation") is the study of the past, particularly how it relates to humans. It is an umbrella term that relates to past events as well as the memory, discovery, collection, organization, presentation, and interpretation of information about these events. Scholars who write about history are called historians. Events occurring prior to written record are considered prehistory.
