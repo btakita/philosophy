@@ -24,4 +24,6 @@
 
 ## [This Philosophy](./this-philosophy.md) Definition
 
+The acceptance of a [concept](./concept.md) being true.
+
 Related to [faith](./faith.md).
