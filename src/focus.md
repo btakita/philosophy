@@ -1,6 +1,18 @@
 # Focus
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Selectively concentrating on one [system](./system.md) of the [Existence](./existence.md) while ignoring other things.
+
+## [Axiology](./axiology.md)
+
+Focus allows [energy](./energy.md) to be efficiently applied to the relevant [entities](./entity.md).
+
+Relates to [presence](./presence.md) and [consciousness](./consciousness.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/focus" target="_blank">focus (wiktionary)</a>
 
@@ -24,10 +36,6 @@
 
 <a href="https://en.wikipedia.org/wiki/Focus" target="_blank">Focus (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Selectively concentrating on one [system](./system.md) of the [Existence](./existence.md) while ignoring other things.
-
-Focus allows [energy](./energy.md) to be efficiently applied to the relevant [entities](./entity.md).
-
-Relates to [presence](./presence.md) and [consciousness](./consciousness.md).
+All Entities are able to focus on a certain amount of complexity of [information](./information.md).

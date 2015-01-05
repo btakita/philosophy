@@ -1,6 +1,22 @@
 # Precision
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Precision of a statement is the detail of the statement describing the [reality](./reality.md) of the [perspective](./perspective.md).
+
+## [Axiology](./axiology.md)
+
+Precision relates [scope](./scope.md) & the amount of [information](./information.md) within the [system](./system.md).
+
+Relates to [accuracy](./accuracy.md).
+
+One can go into precise detail about the sequence of events or one can give a one-word description. Precision is lost when one uses [abstraction](./abstraction.md).
+
+As a [heuristic](./heuristic.md), less precise abstractions allows an [entity](./entity.md) to focus on a greater [conceptual](conceptual-system.md) [scope](./scope.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/precision" target="_blank">precision (wiktionary)</a>
 
@@ -16,10 +32,6 @@
 
 > precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Relates to [accuracy](./accuracy.md).
-
-Precision of a statement is the detail of the statement describing the [reality](./reality.md). One can go into precise detail about the sequence of events or one can give a one-word description. Precision is lost when one uses [abstraction](./abstraction.md).
-
-As a [heuristic](./heuristic.md), less precise abstractions allows an [entity](./entity.md) to focus on a greater [conceptual](conceptual-system.md) [scope](./scope.md).
+Precision is a pattern that is applicable anywhere in [Existence](./existence.md).

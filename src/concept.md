@@ -1,6 +1,14 @@
 # Concept
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [abstraction](./abstraction.md) that does not represent a physical [entity](./entity.md).
+
+Related [Conceptual System](./conceptual-system.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/concept" target="_blank">concept (wiktionary)</a>
 
@@ -12,6 +20,6 @@
 
 <a href="https://en.wikipedia.org/wiki/Concept" target="_blank">Concept (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Related to [abstraction](./abstraction.md) and [Conceptual System](./conceptual-system.md).
+Conceptual & Physical are types of Abstraction.

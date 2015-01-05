@@ -1,6 +1,16 @@
-# Unsciousness
+# Unconsciousness
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The inability to interpret relevant signals. Opposite of [consciousness](./consciousness.md).
+
+## [Axiology](./axiology.md)
+
+Consciousness is the [Entity's](./entity.md) ability to interpret relevant signals, or the ability of being present within an Entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/unconsciousness" target="_blank">unconsciousness (wiktionary)</a>
 
@@ -12,11 +22,9 @@
 
 <a href="https://en.wikipedia.org/wiki/Consciousness" target="_blank">Consciousness (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The inability to interpret relevant signals. Opposite of [consciousness](./consciousness.md).
-
-Consciousness is the [Entity's](./entity.md) ability to interpret relevant signals, or the ability of being present within an Entity.
+Unconsciousness is a pattern that is applicable anywhere in [Existence](./existence.md).
 
 ### [Scope](./scope.md), or Being Present within an Entity
 

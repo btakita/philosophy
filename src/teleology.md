@@ -1,6 +1,20 @@
 # Teleology
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The use of a non-natural purpose or design to explain an occurrence.
+
+## [Axiology](./axiology.md)
+
+Teleology is useful for [creative](./create.md) & [evolutionary](./evolution.md) processes with design intent. A danger of teleology is reduced freedom of movement by becoming fixated on a particular goal when unexplored alternatives exist. To counter this danger, one can be open to discovering [patterns](./pattern.md) of the design intents & to revise the design intents.
+
+[Abstract](./abstraction.md) [systems](./conceptual-system.md) often utilize Teleology to achieve the goals of [pattern](./pattern.md) expression.
+
+Teleology is often not a desired trait for present moment [observation](./observe.md) because bias & [judgement](./judgement.md) are introduced to fit the observations into a [narrative](./story.md). However, teleology may be useful to create an evolutionary model with design goals, to demonstrate creative reasoning or growth of a phenomena.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/teleology" target="_blank">teleology (wiktionary)</a>
 
@@ -16,10 +30,6 @@
 
 > A teleology (from Ancient Greek telos, meaning roughly "end" or "purpose",[1] and -logia, meaning "study of, discourse") is an account of a given thing's end or purpose. For instance, we might give a teleological account of why forks have prongs by showing their purpose—how the design helps humans to eat certain foods. Stabbing food and helping humans eat is what forks are for.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Teleology is useful for [creative](./create.md) & [evolutionary](./evolution.md) processes with design intent. A danger of teleology is reduced freedom of movement by becoming fixated on a particular goal when unexplored alternatives exist. To counter this danger, one can be open to discovering [patterns](./pattern.md) of the design intents & to revise the design intents.
-
-[Abstract](./abstraction.md) [systems](./conceptual-system.md) often utilize Teleology to achieve the goals of [pattern](./pattern.md) expression.
-
-Teleology is often not a desired trait for present moment [observation](./observe.md) because bias & [judgement](./judgement.md) are introduced to fit the observations into a [narrative](./story.md). However, teleology may be useful to create an evolutionary model with design goals, to demonstrate creative reasoning or growth of a phenomena.
+Since all Entities have [conscious](./consciousness.md) [intelligence](./intelligence.md), any Entity that creates another Entity follows the pattern of Teleology. Natural Laws are patterns in [Existence](./existence.md) and are applicable to these creations.

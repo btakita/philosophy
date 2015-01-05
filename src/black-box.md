@@ -1,6 +1,14 @@
 # Black Box
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A theoretical construct or device with known input and output characteristics but unknown method of operation.
+
+An [Abstraction](./abstraction.md) is a Black Box of the abstracted.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/black_box" target="_blank">black box (wiktionary)</a>
 
@@ -30,6 +38,6 @@
 
 > Black box theories are things defined only in terms of their function. The term black box theory is applied to any field, philosophy and science or otherwise where some inquiry or definition is made into the relations between the appearance of something (exterior/outside), i.e. here specifically the things black box state, related to its characteristics and behaviour within (interior/inner). Specifically, the inquiry is focused upon a thing that has no immediately apparent characteristics and therefore has only factors for consideration held within itself hidden from immediate observation. The observer is assumed ignorant in the first instance as the majority of available data is held in an inner situation away from facile investigations. The black box element of the definition is shown as being characterised by a system where observable elements enter a perhaps imaginary box with a set of different outputs emerging which are also observable.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Abstractions](./abstraction.md) serve as a Black Box to the [system](./system.md).
+Black Box is an [abstract](./abstract.md) pattern that applies to any Abstraction.

@@ -1,6 +1,18 @@
 # Novelty
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An Entity and context that is unique when viewed with the perceiving criteria.
+
+## [Axiology](./axiology.md)
+
+### Scope of [Existence](./existence.md)
+
+Since Existence includes all time (and higher physical dimensions), nothing is "new". This means something novel is unique.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/novelty" target="_blank">novelty (wiktionary)</a>
 
@@ -24,10 +36,10 @@
 
 > the quality of being new, or following from that, of being striking, original or unusual
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Novelty is being new (the first instance of something [unique](./unique.md)) in relation to the [contextual](./context.md) [scope](./scope.md).
+Novelty is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### Scope of [Existence](./existence.md)
+In the scope of Existence, all entities are novel.
 
-Since Existence includes all time (and higher physical dimensions), nothing is "new". This means something novel is unique.
+In temporal systems, novelty is being new (the first instance of something [unique](./unique.md)) in relation to the [contextual](./context.md) [scope](./scope.md).

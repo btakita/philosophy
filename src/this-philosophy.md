@@ -1,8 +1,14 @@
 # This Philosophy
 
-## [This Philosophy](./this-philosophy.md) Definition
+## [Ontology](./ontology.md)
 
-This [philosophy](./philosophy.md) focuses on [Evolutionary Linguistics](./evolutionary-linguistics.md) (aka [abstractions](./abstraction.md)) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md). This philosophy also [heuristically](./heuristic.md) unifies all [scopes](./scope.md) in Existence by allowing context to be applied to each abstraction.
+This [philosophy](./philosophy.md) is the Explicit Philosophy defined in this domain.
+
+## [Axiology](./axiology.md)
+
+This philosophy focuses on [Evolutionary Linguistics](./evolutionary-linguistics.md) (aka [abstractions](./abstraction.md)) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md). This philosophy also [heuristically](./heuristic.md) unifies all [scopes](./scope.md) in Existence by allowing context to be applied to each abstraction.
+
+## [Epistemology](./epistemology.md)
 
 ### The [Story](./story.md) of this philosophy
 
@@ -17,3 +23,7 @@ This philosophy does not explicitly follow any existing philosophical [tradition
 This philosophy seeks to be a model which is not limited in the context of Existence. All words represent all contextual meanings within existence or there is another word that represents a better or more correct abstraction. This philosophy also exposes redundancy with some words as the words evolve from different philosophical or cultural traditions.
 
 This philosophy was originally developed in parallel to & now utilizes [Attention Schema](./attention-schema.md) from Dr. Michael Graziano's Attention Schema Theory. This philosophy also utilizes knowledge & concepts from many other philosophical, spiritual, scientific, & trade works.
+
+### [Pattern](./pattern.md) Expression
+
+This Philosophy defines a domain encompassing Existence.

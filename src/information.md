@@ -1,6 +1,16 @@
 # Information
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+That which can distinguish one thing from another. An [Entity](./entity.md).
+
+## [Axiology](./axiology.md)
+
+The perception of Information is dependent on the [resolution](./resolution.md) of the [scoped](./scope.md) [perspective](./perspective.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/information" target="_blank">information (wiktionary)</a>
 
@@ -40,6 +50,6 @@
 
 > That which can distinguish one thing from another.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-That which can distinguish one thing from another. An [Entity](./entity.md).
+All Entities are information.

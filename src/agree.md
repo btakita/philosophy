@@ -1,6 +1,14 @@
 # Agree
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Multiple [Entities](./entity.md) agree on an [abstraction](./abstraction.md) when their definitions of the abstraction are the same.
+
+Agreements are required for [concrescence](./concrescence.md) to occur.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/agree" target="_blank">agree (wiktionary)</a>
 
@@ -31,8 +39,6 @@
 > * A pact, convention, or treaty between nations, sub-national entities, organizations, corporations
 > * Consensus
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Multiple [Entities](./entity.md) agree on an [abstraction](./abstraction.md) when their definitions of the abstraction are the same.
-
-Agreements are required for [concrescence](./concrescence.md) to occur.
+To agree is a pattern that is applicable anywhere in [Existence](./existence.md).

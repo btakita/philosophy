@@ -1,5 +1,15 @@
 # Truth
 
+## [Epistemology](./epistemology.md)
+
+Conformity to fact or reality according to the perspective of an [Entity](./entity.md).
+
+## [Axiology](./axiology.md)
+
+The Truth of a [context](./context.md) is an [abstraction](./abstraction.md). This means the [entity's](./entity.md) [perspective](perspective.md) of truth is an [illusion](./illusion.md).
+
+The pursuit of truth often uncovers [paradox](./paradox.md).
+
 ## [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/truth" target="_blank">truth (wiktionary)</a>
@@ -28,8 +38,6 @@
 
 > being in accord with fact or reality, or fidelity to an original or to a standard or ideal
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The Truth of a [context](./context.md) is an [abstraction](./abstraction.md). This means the [entity's](./entity.md) [perspective](perspective.md) of truth is an [illusion](./illusion.md).
-
-The pursuit of truth often uncovers [paradox](./paradox.md).
+Truth is a pattern that is applicable anywhere in [Existence](./existence.md).

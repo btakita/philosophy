@@ -1,6 +1,16 @@
 # Domain
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A domain is the [system](./system.md) of interest within an [entity](./entity.md). An example of a domain is Jane's body, where Jane is the entity and the system is the body. The domain [language](./language.md) refers to the field of anatomy & it's actions, where Jane's anatomy is an instance of anatomy with her unique characteristics.
+
+## [Axiology](./axiology.md)
+
+All domains have a [scope](./scope.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/domain" target="_blank">domain (wiktionary)</a>
 
@@ -52,8 +62,6 @@
 
 > In biological taxonomy, a domain (also superregnum, superkingdom, empire, or regio) is the highest taxonomic rank of organisms in the three-domain system of taxonomy designed by Carl Woese, an American microbiologist and biophysicist.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A domain is the [system](./system.md) of interest within an [entity](./entity.md). An example of a domain is Jane's body, where Jane is the entity and the system is the body. The domain [language](./language.md) refers to the field of anatomy & it's actions, where Jane's anatomy is an instance of anatomy with her unique characteristics.
-
-All domains have a [scope](./scope.md).
+Any scope in [Existence](./existence.md) has a domain.

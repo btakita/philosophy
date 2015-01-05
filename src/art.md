@@ -1,6 +1,12 @@
 # Art
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Art is the product of a [creative](./create.md) activity & expression.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/art" target="_blank">art (wiktionary)</a>
 
@@ -34,6 +40,8 @@
 
 >  From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind's relationship with its environment.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Art is the product of a [creative](./create.md) activity.
+Art is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+All entities create art with their activity & expression.

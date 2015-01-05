@@ -1,6 +1,16 @@
 # Coherence
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A set of one to many [Entities](./entity.md) acting in unison & [agreement](./agreement.md) with themselves & each other.
+
+## [Axiology](./axiology.md)
+
+Coherence increases the [Intelligence](./intelligence.md), efficiency, & capabilities of all of the Entities.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/coherence" target="_blank">coherence (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 <a href="http://www.meditationplex.com/meditation-benefits/effects-meditation-brain-coherence-intelligence/" target="_blank">Effects of Meditation on Brain Coherence and Intelligence (meditationplex.com)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Coherence increases the [Entity's](./entity.md) [Intelligence](./intelligence.md).
+Coherence is a pattern that is applicable anywhere in [Existence](./existence.md).

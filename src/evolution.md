@@ -1,6 +1,16 @@
 # Evolution
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The altering of an [Entity](./entity.md) or lineage of Entities as a learned response to the [environment](./environment).
+
+## [Axiology](./axiology.md)
+
+In modern [culture](./culture.md), Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a>
 
@@ -40,6 +50,6 @@
 
 <a href="https://en.wikipedia.org/wiki/Evolutionary_algorithm" target="_blank">Evolutionary Algorithm (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-In modern [culture](./culture.md), Evolution often refers to Biological Evolution. In [this philosophy](./this-philosophy.md), Evolution is how an [Entity](./entity.md) changes in response to it's [context](./context.md).
+Evolution is a pattern that is applicable anywhere in [Existence](./existence.md).

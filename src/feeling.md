@@ -1,6 +1,24 @@
 # Feeling
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity's](./entity.md) internal, input, or output [signals](./signal.md) that influences the Entity's state of being.
+
+## [Axiology](./axiology.md)
+
+Thoughts are feelings.
+
+All [entities](./entity.md) have feeling, as all entities are able to interpret [signals](./signal.md).
+
+Related to [awareness](./awareness.md) and [consciousness](./consciousness.md).
+
+### Humans
+
+Human feelings include love, happiness, fear, sadness, etc.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/feeling" target="_blank">feeling (wiktionary)</a>
 
@@ -28,8 +46,10 @@
 
 > Feeling is the nominalization of the verb to feel. The word was first used in the English language to describe the physical sensation of touch through either experience or perception. The word is also used to describe experiences other than the physical sensation of touch, such as "a feeling of warmth" and of sentience in general. In Latin, sentire meant to feel, hear or smell.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-All [entities](./entity.md) have feeling, as all entities are able to interpret [signals](./signal.md).
+All Entities in [Existence](./existence.md) have feeling to interpret input signals.
 
-Related to [awareness](./awareness.md) and [consciousness](./consciousness.md).
+#### A Rock Feeling
+
+A Rock can feel itself to be hot or cold by it's atoms vibrating. If the rock feels too hot, it will melt.

@@ -1,6 +1,20 @@
 # Type
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+In mathematics, logic, and computer science, a type theory is any of a class of formal systems, some of which can serve as alternatives to set theory as a foundation for all mathematics. In type theory, every "term" has a "type" and operations are restricted to terms of a certain type.
+
+A grouping based on shared characteristics; a class.
+
+## [Axiology](./axiology.md)
+
+### Relation to [Category Theory](category-theory.md)
+
+The Type is a Category. An instantiation is a morphism. The Instance is the other category.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/type" target="_blank">type (wiktionary)</a>
 
@@ -43,8 +57,6 @@
 
 > Type theory is closely related to (and in some cases overlaps with) type systems, which are a programming language feature used to reduce bugs. The types of type theory were created to avoid paradoxes in a variety of formal logics and rewrite systems and sometimes "type theory" is used to refer to this broader application.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-### Relation to [Category Theory](category-theory.md)
-
-The Type is a Category. An instantiation is a morphism. The Instance is the other category.
+Type is a pattern that is applicable across all [abstractions](./abstraction.md) in [Existence](./existence.md).

@@ -1,6 +1,12 @@
 # Love
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Love is the attractive force that bonds an [Entity](./entity.md) to another entity to intentionally benefit the other entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/love" target="_blank">love (wiktionary)</a>
 
@@ -48,11 +54,11 @@
 
 > Ancient Greeks identified four forms of love: kinship or familiarity (in Greek, storge), friendship (philia), sexual and/or romantic desire (eros), and self-emptying or divine love (agape). Modern authors have distinguished further varieties of romantic love. Non-Western traditions have also distinguished variants or symbioses of these states. This diversity of uses and meanings combined with the complexity of the feelings involved makes love unusually difficult to consistently define, compared to other emotional states.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Love is the attractive force that bonds an [entity](./entity.md) to another entity to intentionally benefit the other entity.
+Love is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### [Scopes](./scope.md)
+#### [Scopes](./scope.md)
 
 This philosophy expands the scope of love to include any entity exhibiting the characteristics of love.
 

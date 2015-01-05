@@ -1,6 +1,22 @@
 # An Evolutionary Group
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An Evolutionary Group is comprised of [beings](./being.md) who [expand the consciousness](./expanding-consciousness.md) (via [evolution](./evolution.md)) of each being within the [collective](./collective.md). Each member helps the other members see beyond oneself, thus expanding consciousness.
+
+## [Axiology](./axiology.md)
+
+### Civilization [Story](./story.md)
+
+Civilization states follow the principle of strength in numbers. However, states tend to have regulating effects on the population, reducing [novelty](./novelty.md).
+
+Large civilizations also encourage novelty by allowing specialization. Specialization allows further evolution along disciplines.
+
+However, having specialization can lead to disconnection, as one loses the cross-pollenatization of working on & interacting with those specializing in other subjects.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/evolution" target="_blank">evolution (wiktionary)</a>
 
@@ -56,14 +72,6 @@
 
 > (music) A number of eighth, sixteenth, etc., notes joined at the stems; sometimes rather indefinitely applied to any ornament made up of a few short notes.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-An Evolutionary Group is comprised of [beings](./being.md) who [expand the consciousness](./expanding-consciousness.md) (via [evolution](./evolution.md)) of each being within the [collective](./collective.md). Each member helps the other members see beyond oneself, thus expanding consciousness.
-
-### Civilization [Story](./story.md)
-
-Civilization states follow the principle of strength in numbers. However, states tend to have regulating effects on the population, reducing [novelty](./novelty.md).
-
-Large civilizations also encourage novelty by allowing specialization. Specialization allows further evolution along disciplines.
-
-However, having specialization can lead to disconnection, as one loses the cross-pollenatization of working on & interacting with those specializing in other subjects.
+Evolutionary Groups can occur within any [collective](./collective.md) in [Existence](./existence.md).

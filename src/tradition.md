@@ -1,6 +1,16 @@
 # Tradition
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A commonly held [system](./system.md).
+
+## [Axiology](./axiology.md)
+
+Tradition implies [inertia](./inertia.md) of a [collective](./collective.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/tradition" target="_blank">tradition (wiktionary)</a>
 
@@ -17,3 +27,7 @@
 > a belief or behavior passed down within a group or society with symbolic meaning or special significance with origins in the past
 
 > The English word "tradition" comes from the Latin traditio, the noun from the verb traderere or tradere (to transmit, to hand over, to give for safekeeping)
+
+### [Pattern](./pattern.md) Expression
+
+Tradition is a pattern that is applicable anywhere in [Existence](./existence.md).

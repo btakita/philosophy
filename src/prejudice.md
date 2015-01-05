@@ -1,6 +1,20 @@
 # Prejudice
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Any preconceived opinion or [feeling](./feeling.md).
+
+## [Axiology](./axiology.md)
+
+Prejudice is a form of [judgement](./judgement.md).
+
+An Entity acting according to a preconceived story instead reacting to incoming [signals](./signal.md) in the [environment](./environment) is an example of prejudice.
+
+[Inertia](./inertia.md) is a type of prejudice. Inertia is a form of memory.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/prejudice" target="_blank">prejudice (wiktionary)</a>
 
@@ -20,6 +34,6 @@
 
 > Prejudice is prejudgment, or forming an opinion before becoming aware of the relevant facts of a case. The word is often used to refer to preconceived, usually unfavorable, judgments toward people or a person because of gender, political opinion, social class, age, disability, religion, sexuality, race/ethnicity, language, nationality, or other personal characteristics. In this case, it refers to a positive or negative evaluation of another person based on their perceived group membership. Prejudice can also refer to unfounded beliefs and may include "any unreasonable attitude that is unusually resistant to rational influence". Gordon Allport defined prejudice as a "feeling, favorable or unfavorable, toward a person or thing, prior to, or not based on, actual experience".
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Prejudice is a form of [judgement](./judgement.md).
+All [Entities](./entity.md) in [Existence](./existence.md) that have inertia have prejudice.

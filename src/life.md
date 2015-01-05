@@ -1,6 +1,16 @@
 # Life
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Life is a characteristic of an [entity](./entity.md) that is self-sustaining, can emit & receive [signals](./signal.md), and is [self-sustaining](https://en.wikipedia.org/wiki/Self-sustainability).
+
+## [Axiology](./axiology.md)
+
+Biological life is commonly used as the [definition](./definition.md) of Life. This philosophy expands the meaning of Life to include [abstract](./abstract.md) & "inanimate" physical matter. [Abstract](./abstract.md) & inanimate matter have signaling (input/output) & are self-sustaining.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/life" target="_blank">life (wiktionary)</a>
 
@@ -56,8 +66,8 @@
 > 1. the degree at which the system can sustain itself without external support
 > 1. the fraction of time in which the system is self-sustaining
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-This philosophy removes the distinction of "physical" [entities](./entity.md). Life is an entity that is self-sustaining and can emit & receive [signals](./signal.md) and is [self-sustaining](https://en.wikipedia.org/wiki/Self-sustainability).
+All Entities have life as long as they exist in a context.
 
-Biological life is commonly used as the [definition](./definition.md) of Life. This philosophy expands the meaning of Life to include [abstract](./abstract.md) & "inanimate" physical matter. [Abstract](./abstract.md) & inanimate matter have signaling (input/output) & are self-sustaining.
+This philosophy removes the distinction of "physical" [entities](./entity.md).

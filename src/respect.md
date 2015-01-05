@@ -1,6 +1,16 @@
 # Respect
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An attitude of consideration or high regard. Respect is an continuous property.
+
+## [Axiology](./axiology.md)
+
+Respect involves an [entity](./entity.md) **a** showing regard for another entity **b** from the [perspective](./perspective.md) of entity **b** (with [compassion](./compassion.md)).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/respect" target="_blank">respect (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 > Respect should not be confused with tolerance. The antonym and opposite of respect is disrespect.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Respect involves an [entity](./entity.md) **a** showing regard for another entity **b** from the [perspective](./perspective.md) of entity **b** (with [compassion](./compassion.md)).
+All Entities in [Existence](./existence.md) are capable of having respect for another entity.

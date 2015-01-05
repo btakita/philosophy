@@ -1,6 +1,16 @@
 # Language
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Language is the [system](./system.md) used by an [entity](./entity.md) to communicate [abstractions](./abstraction.md) by using [signals](./signals.md).
+
+## [Axiology](./axiology.md)
+
+The existence of an Entity involves the Entity communicating it's existence using a signal.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/language" target="_blank">language (wiktionary)</a>
 
@@ -26,6 +36,6 @@
 
 > Language is the human ability to acquire and use complex systems of communication, and a language is any specific example of such a system. The scientific study of language is called linguistics.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Language is the [system](./system.md) used by an [entity](./entity.md) to communicate [abstractions](./abstraction.md) by using [signals](./signals.md).
+All Entities use Language.

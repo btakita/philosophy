@@ -1,6 +1,16 @@
 # Communication
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity](./entity.md) using [signals](./signal.md) and [language](./language.md) to affect another entity.
+
+## [Ethics](./ethics.md)
+
+Since communication affects other entities in constructive & destructive ways, the communicating entity is responsible to exhibit [compassion](./compassion.md) with communication.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/communicate" target="_blank">communicate (wiktionary)</a>
 
@@ -54,6 +64,6 @@
 
 > Communication normally exists within the context of some social situation. The social situation sets the context for the intentions conveyed (pragmatics) and the form in which communication takes place. In a communicative situation intentions are expressed through messages which comprise collections of inter-related signs taken from a language which is mutually understood by the agents involved in the communication. Mutual understanding implies that agents involved understand the chosen language in terms of its agreed syntax (syntactics) and semantics. The sender codes the message in the language and sends the message as signals along some communication channel (empirics). The chosen communication channel will have inherent properties which determine outcomes such as the speed with which communication can take place and over what distance.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+All entities communicate with other entities. The Existence of an entity is communication to the perceiving entities.

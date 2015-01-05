@@ -1,6 +1,20 @@
 # Science
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Knowledge derived from scientific disciplines, scientific method, or any systematic effort.
+
+## [Axiology](./axiology.md)
+
+Science is applicable to [physical](./physical-system.md) and [conceptual](./conceptual-system.md) systems.
+
+### Links
+
+<a href="http://www.fractalwisdom.com/science-of-chaos/the-ultimate-paradigm-shift/" target="_blank">Science of Chaos (fractalwisdom.com)</a>
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/science" target="_blank">science (wiktionary)</a>
 
@@ -22,10 +36,8 @@
 
 > a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Science is applicable to [physical](./physical-system.md) and [conceptual](./conceptual-system.md) systems.
+Science is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### Links
-
-<a href="http://www.fractalwisdom.com/science-of-chaos/the-ultimate-paradigm-shift/" target="_blank">Science of Chaos (fractalwisdom.com)</a>
+Any [Entity](./entity.md) in [Existence](./existence.md) that is capable of [conceptual system](./conceptual-system.md) simulation & multiple [perspectives](./perspective.md) can practice science.

@@ -1,6 +1,16 @@
 # Signal
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Useful information, as opposed to noise.
+
+## [Axiology](./axiology.md)
+
+A signal transmits [information](./information.md) from one [entity](./entity.md) to another entity. A [morphism](./category-theory.md) is a signal. A signal is an entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/signal" target="_blank">signal (wiktionary)</a>
 
@@ -16,7 +26,7 @@
 
 > Useful information, as opposed to noise.
 
-> An individual life. "Fifty souls were lost when the ship sank."
+> (computing, Unix) A simple interprocess communication used to notify a process or thread of an occurrence.
 
 <a href="https://en.wikipedia.org/wiki/Signal_(electrical_engineering)" target="_blank">Signal (electrical engineering) (Wikipedia)</a>
 
@@ -38,6 +48,6 @@
 
 > a limited form of inter-process communication used in Unix, Unix-like, and other POSIX-compliant operating systems. A signal is an asynchronous notification sent to a process or to a specific thread within the same process in order to notify it of an event that occurred.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A signal transmits [information](./information.md) from one [entity](./entity.md) to another entity. A [morphism](./category-theory.md) is a signal. A signal is an entity.
+All Entities in [Existence](./existence.md) send & receive signals.

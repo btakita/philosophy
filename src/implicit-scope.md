@@ -1,6 +1,16 @@
 # Implicit Scope
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The Implicit Scope is an unmentioned [scope](./scope.md) applied to the definition of a word.
+
+## [Axiology](./axiology.md)
+
+This implies a non-obvious [contextual](./context.md), often based on who expresses the word; usually implying a shared [story](./story.md) or [culture](./culture.md) with the listener.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/implicit" target="_blank">implicit (wiktionary)</a>
 
@@ -32,6 +42,8 @@
 
 <a href="https://news.ycombinator.com/item?id=2864317" target="_blank">May I ask, why is implicit scoping bad? (news.ycombinator.com)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The Implicit Scope is an unmentioned [scope](./scope.md) applied to the definition of a word. This implies a non-obvious [contextual](./context.md), often based on who expresses the word; usually implying a shared [story](./story.md) or [culture](./culture.md) with the listener.
+Implicit Scope is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+Any [Entity](./entity.md) capable of [Language](./language.md) is capable of communicating an implicit scope.

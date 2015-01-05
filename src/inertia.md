@@ -1,6 +1,16 @@
 # Inertia
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Inertia is a [pattern](./pattern.md) that involves an [entity's](./entity.md) resistance an entity (self or other) to altering it's current trajectory.
+
+## [Axiology](./axiology.md)
+
+Inertia is a form of memory.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/inertia" target="_blank">inertia (wiktionary)</a>
 
@@ -20,6 +30,6 @@
 
 > In psychology and sociology, social inertia is the resistance to change or the endurance of stable relationships in societies or social groups. Social inertia is the opposite of social change.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Inertia is a [pattern](./pattern.md) that involves an [entity's](./entity.md) resistance to altering it's current trajectory.
+All Entities in [Existence](./existence.md) have inertia.

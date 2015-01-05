@@ -1,6 +1,16 @@
 # Tolerance
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Tolerance or toleration to tolerate, or put up with, conditionally, also to suggest a fair, objective, and permissive attitude toward those whose opinions, practices, race, religion, nationality, etc., differ from one's own; freedom from bigotry.
+
+## [Axiology](./axiology.md)
+
+Tolerance implies the [Entity](./entity.md) being tolerated is [judged](./judgement.md) as unfavorable by another entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/tolerance" target="_blank">tolerance (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 > Pain tolerance is the maximum level of pain that a person is able to tolerate. Pain tolerance is distinct from pain threshold (the point at which pain begins to be felt).
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Tolerance implies the [entity](./entity.md) being tolerated is [judged](./judgement.md) as unfavorable by another entity.
+Tolerance is a pattern that is applicable anywhere in [Existence](./existence.md).

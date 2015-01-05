@@ -1,18 +1,10 @@
 # Fractal
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
 
-<a href="http://en.wiktionary.org/wiki/fractal" target="_blank">fractal (wiktionary)</a>
+A mathematical set that has a non-integer and constant Hausdorff dimension; a geometric figure that is self-similar at all scales.
 
-> ### Noun
-
-> (mathematics) A mathematical set that has a non-integer and constant Hausdorff dimension; a geometric figure that is self-similar at all scales.
-
-> (figuratively) An object, system, or idea that exhibits a fractal-like property.
-
-<a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">Fractal (Wikipedia)</a>
-
-## [This Philosophy](./this-philosophy.md) Definition
+## [Axiology](./axiology.md)
 
 A curve or geometric figure, each part of which has the same statistical character as the whole. Fractals are useful in modeling structures (such as eroded coastlines or snowflakes) in which similar patterns recur at progressively smaller scales.
 
@@ -43,3 +35,21 @@ Fractal deep dives display the depth & diversity of a fractal.
 
 <a href="http://cosmicscale.appspot.com/index.html" target="_blank">
 The Cosmic Scale</a>
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
+
+<a href="http://en.wiktionary.org/wiki/fractal" target="_blank">fractal (wiktionary)</a>
+
+> ### Noun
+
+> (mathematics) A mathematical set that has a non-integer and constant Hausdorff dimension; a geometric figure that is self-similar at all scales.
+
+> (figuratively) An object, system, or idea that exhibits a fractal-like property.
+
+<a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">Fractal (Wikipedia)</a>
+
+### [Pattern](./pattern.md) Expression
+
+Fractal is a pattern that is applicable anywhere in [Existence](./existence.md).

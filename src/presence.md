@@ -1,6 +1,12 @@
 # Presence
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Presence is a state of an [entity](./entity.md) with energetic [focus](./focus.md) toward the [environment](./environment).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/presence" target="_blank">presence (wiktionary)</a>
 
@@ -22,11 +28,11 @@
 
 > presence as in a "now" and also a presence as in an eternal, always present, as one might associate with God or the "eternal" laws of science
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Presence is a state of an [entity](./entity.md) with energetic [focus](./focus.md) toward the containing entity.
+All Entities have the trait of presence.
 
-### Human Example
+### A Human with Presence
 
 When someone (subject entity) is present in a conversation (containing entity), that person is energetically focused on the conversation.
 

@@ -1,6 +1,16 @@
 # Transcendence
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The act of surpassing usual limits.
+
+## [Axiology](./axiology.md)
+
+Transcendence has many [spiritual](./spirituality.md) connotations.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/transcendence" target="_blank">transcendence (wiktionary)</a>
 
@@ -18,6 +28,6 @@
 
 > climbing or going beyond
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+Transcendence is a pattern that is applicable anywhere in [Existence](./existence.md).

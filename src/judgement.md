@@ -1,6 +1,16 @@
 # Judgement
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity's](entity.md) Judgement is the evaluation of [signals](./signal.md) to make a decision.
+
+## [Axiology](./axiology.md)
+
+[Prejudice](./prejudice.md) and [Judiciousness](./judicious.md) judgements on judgement.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/judge" target="_blank">judge (wiktionary)</a>
 
@@ -48,6 +58,6 @@
 
 > Judgement (or judgment) is the evaluation of evidence to make a decision.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Prejudice](./prejudice.md) and [Judiciousness](./judicious.md) judgements on judgement.
+All Entities in [Existence](./existence.md) are capable of judgement.

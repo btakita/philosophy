@@ -1,6 +1,18 @@
 # Animism
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A [belief](./belief.md) that all [Entities](./entity.md) have a [soul](./soul.md).
+
+## [Axiology](./axiology.md)
+
+Animism is an early & pure model of [Existence](./existence.md) by humans. Being pure, animism is relatively unaffected by other [belief systems](./belief-system.md).
+
+This Philosophy is inspired by animism; particularly about all [abstractions](./abstraction.md) and physical objects being entities.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/animism" target="_blank">animism (wiktionary)</a>
 
@@ -16,8 +28,6 @@
 
 > the worldview that non-human entities (animals, plants, and inanimate objects or phenomena) possess a spiritual essence
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Animism is an early & pure model of [Existence](./existence.md) by humans. Being pure, animism is relatively unaffected by other [belief systems](./belief-system.md).
-
-This Philosophy is inspired by animism; particularly about all [abstractions](./abstraction.md) and physical objects being [entities](./entity.md).
+All entities exhibit characteristic behaviour, thus they have a soul.

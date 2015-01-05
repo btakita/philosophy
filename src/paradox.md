@@ -1,6 +1,16 @@
 # Paradox
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity](./entity.md) having contradictory properties or entities acting in dissonance.
+
+## [Axiology](./axiology.md)
+
+A paradox is an invitation to explore the [concept](./concept.md) to [expand consciousness](./expanding-consciousness.md) by increasing the [resolution](./resolution.md) and/or [scope](./scope.md) of the concept.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/paradox" target="_blank">paradox (wiktionary)</a>
 
@@ -28,6 +38,8 @@
 
 > A paradox is a statement that apparently contradicts itself and yet might be true. Most logical paradoxes are known to be invalid arguments but are still valuable in promoting critical thinking.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A paradox is an invitation to explore the [concept](./concept.md) to [expand consciousness](./expanding-consciousness.md) by increasing the [resolution](./resolution.md) and/or [scope](./scope.md) of the concept.
+Paradox is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+A paradox is a pattern that can occur between any two entities in [Existence](./existence.md).

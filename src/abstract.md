@@ -1,6 +1,12 @@
 # Abstract
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A [concept](./concept.md) that is not physical. All perception of [language](./language.md) & thoughts are abstract.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/abstract" target="_blank">abstract (wiktionary)</a>
 
@@ -51,6 +57,10 @@
 
 > an object with no physical referents
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A [concept](./concept.md) that is not physical.
+An abstract concept is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+#### Abstract Language by Humans
+
+Human words are abstract. Any entity in [Existence](./existence.md) can be represented as an abstract concept.

@@ -1,6 +1,20 @@
 # Culture
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An integrated system of learned behavior of a [collective](./collective.md).
+
+## [Axiology](./axiology.md)
+
+Culture can be effected and can cause effect.
+
+### [Category Theory](./category-theory.md)
+
+This entity can also be a category in which can receive & send morphisms.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/culture" target="_blank">culture (wiktionary)</a>
 
@@ -24,10 +38,6 @@
 
 > an integrated system of learned behavior patterns which are characteristic of the members of a society and which are not a result of biological inheritance
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The "integrated system of learned behavior" is an [entity](./entity.md). Culture can be effected and can cause effect.
-
-### [Category Theory](./category-theory.md)
-
-This entity can also be a category in which can receive & send morphisms.
+All [Entities](./entity.md) in [Existence](./existence.md) have culture as all Entities are part the collective of itself.

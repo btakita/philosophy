@@ -1,6 +1,10 @@
 # Tool
 
-## [Cultural](./culture.md) Definition
+[Conceptual](./conceptual-system.md) or [Physical](./physical-system.md) [System](./system.md) that is used to create a desired effect on another System or itself.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/tool" target="_blank">tool (wiktionary)</a>
 
@@ -37,6 +41,6 @@
 
 <a href="https://en.wikipedia.org/wiki/Tool" target="_blank">Tool (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Conceptual](./conceptual-system.md) or [Physical](./physical-system.md) [System](./system.md) that is used to create a desired effect on another System or itself.
+Tool is a pattern that is applicable anywhere in [Existence](./existence.md).

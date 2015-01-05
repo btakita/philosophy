@@ -1,6 +1,16 @@
 # Definition
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A statement of the meaning of an [Abstraction](./abstraction.md).
+
+## [Axiology](./axiology.md)
+
+The [evolution](./evolution.md) of definitions are the subject of study & [morphisms](./category-theory.md) in [Evolutionary Linguistics](./evolutionary-linguistics.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/definition" target="_blank">definition (wiktionary)</a>
 
@@ -34,6 +44,6 @@
 
 > A definition is a statement of the meaning of a term (a word, phrase, or other set of symbols). The term to be defined is the definiendum. The term may have many different senses and multiple meanings. For each meaning, a definiens is a cluster of words that defines that term (and clarifies the speaker's intention).
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The [evolution](./evolution.md) of definitions are the subject of study & [morphisms](./category-theory.md) in [Evolutionary Linguistics](./evolutionary-linguistics.md).
+All abstractions have a definition.

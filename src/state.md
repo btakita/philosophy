@@ -1,6 +1,12 @@
 # State
 
-## [Cultural](./culture.md) Definition
+## [Axiology](./axiology.md)
+
+The condition of the [Entity](./entity.md) and it's members.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/state" target="_blank">state (wiktionary)</a>
 
@@ -36,6 +42,6 @@
 
 > State commonly refers to either the present condition of a system or entity, or to a governed entity (such as a country) or sub-entity (such as an autonomous territory of a country).
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The condition of the [Entity](./entity.md) and it's members.
+All Entities in [Existence](./existence.md) have a set of states.

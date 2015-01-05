@@ -1,6 +1,18 @@
 # Permaculture
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Any system of sustainable agriculture that renews natural resources and enriches local ecosystems.
+
+The design, installation and maintenance of indefinitely sustainable human communities set in balanced ecologies, both urban and rural.
+
+## [Axiology](./axiology.md)
+
+Permaculture design focuses on [edge effects](./edge-effects.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/permaculture" target="_blank">permaculture (wiktionary)</a>
 
@@ -32,6 +44,6 @@
 
 <a href="http://www.geofflawton.com/fe/33811-property-purchase-check-list" target="_blank">Property Purchase Check List (geofflawton.com)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Permaculture design focuses on [edge effects](./edge-effects.md). 
+Permaculture is a practice by [humans](./human.md). Permaculture utilizes patterns in [nature](./nature.md).

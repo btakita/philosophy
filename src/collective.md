@@ -1,6 +1,12 @@
 # Collective
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A group of [Entities](./entity.md). The Collective is an entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/collective" target="_blank">collective (wiktionary)</a>
 
@@ -30,6 +36,6 @@
 
 > a group of entities that share or are motivated by at least one common issue or interest, or work together to achieve a common objective
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+Any entity can be part of a collective with other entities, including itself.

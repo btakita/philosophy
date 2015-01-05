@@ -1,6 +1,28 @@
 # Morality
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Morality is action related to the well being of another [entity](./entity.md).
+
+## [Axiology](./axiology.md)
+
+Morality is determined by the [judging](./judgement.md) Entity.
+
+Morality is relative to what the well being of the entity is.
+
+A human being moral toward the biosphere on Earth would plant trees in a deforested area.
+
+### Moral Behavior
+
+A moral, or "good", action is an action that leads toward expanded consciousness toward the containing entity. For example, bees cooperating with each other, is moral behavior to the bee colony.
+
+### Immoral Behavior
+
+An immoral, or "bad", action is an action that contracts consciousness away from the containing entity. For example, killing in cold blood, is immoral behavior relative to the society where the killer lives.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/morality" target="_blank">morality (wiktionary)</a>
 
@@ -30,16 +52,6 @@
 
 > The Westminster Dictionary of Christian Ethics, religion and morality "are to be defined differently and have no definitional connections with each other. Conceptually and in principle, morality and a religious value system are two distinct kinds of value systems or action guides."
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Morality is action related to the well being of another [entity](./entity.md). For example, a human being moral toward the biosphere on Earth would plant trees in a deforested area.
-
-Morality is relative to what the well being of the entity is.
-
-### Moral Behavior
-
-A moral, or "good", action is an action that leads toward expanded consciousness toward the containing entity. For example, bees cooperating with each other, is moral behavior to the bee colony.
-
-### Immoral Behavior
-
-An immoral, or "bad", action is an action that contracts consciousness away from the containing entity. For example, killing in cold blood, is immoral behavior relative to the society where the killer lives.
+Morality is a pattern that is applicable by any Entity capable of judgement in [Existence](./existence.md).

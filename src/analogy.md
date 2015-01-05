@@ -1,6 +1,12 @@
 # Analogy
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Analogies allow the entity to utilize the [patterns](./pattern.md) of a known [entity](./entity.md) on another entity. The patterns of the known entity are associated with experience and knowledge.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/analogy" target="_blank">analogy (wiktionary)</a>
 
@@ -12,6 +18,6 @@
 
 > process of transferring information or meaning from a particular subject (the analogue or source) to another particular subject (the target)
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Analogies allow the entity to apply experience and knowledge of the [patterns](./pattern.md) within a known [system](./system.md) to apply to the system of interest.
+Any entity can be an analogy for another entity.

@@ -1,6 +1,16 @@
 # Worldview
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The [Entity's](./entity.md) implicit [philosophy](./philosophy.md).
+
+## [Axiology](./axiology.md)
+
+<a href="https://www.marxists.org/reference/archive/spirkin/works/dialectical-materialism/ch01-s02.html" target="_blank">Dialectical Materialism (A. Spirkin) - Chapter 1. Philosophy As A World-View And A Methodology</a>
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/worldview" target="_blank">worldview (wiktionary)</a>
 
@@ -25,9 +35,6 @@
 > 1. An epistemology, or theory of knowledge: "What is true and false?"
 > 1. An etiology. A constructed world-view should contain an account of its own "building blocks," its origins and construction.
 
+### [Pattern](./pattern.md) Expression
 
-## [This Philosophy](./this-philosophy.md) Definition
-
-### Links
-
-<a href="https://www.marxists.org/reference/archive/spirkin/works/dialectical-materialism/ch01-s02.html" target="_blank">Dialectical Materialism (A. Spirkin) - Chapter 1. Philosophy As A World-View And A Methodology</a>
+Worldview is a pattern that is applicable anywhere in [Existence](./existence.md).

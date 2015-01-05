@@ -1,6 +1,20 @@
 # System
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A collection of organized things; a whole composed of relationships among its members.
+
+## [Axiology](./axiology.md)
+
+[Physical System](./physical-system.md)
+
+[Conceptual System](./conceptual-system.md)
+
+A system is an [Entity](./entity.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/system" target="_blank">system (wiktionary)</a>
 
@@ -22,10 +36,6 @@
 
 > A system is a set of interacting or interdependent components forming an integrated whole.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Physical System](./physical-system.md)
-
-[Conceptual System](./conceptual-system.md)
-
-A system is an [entity](./entity.md).
+All Entities in [Existence](./existence.md) are systems.

@@ -1,6 +1,16 @@
 # Linguistic Relativity
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The principle of linguistic relativity holds that the structure of a [language](./language.md) affects the ways in which its respective [Entities](./entity.md) conceptualize their world.
+
+## [Axiology](./axiology.md)
+
+An [Entity's](./entity.md) worldview is the set of [perspectives](./perspective.md) and the set of [abstractions](./abstraction.md) that the Entity uses to perceives [Existence](./existence.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/linguistics" target="_blank">linguistics (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 > The principle of linguistic relativity holds that the structure of a language affects the ways in which its respective speakers conceptualize their world, i.e. their world view, or otherwise influences their cognitive processes. Popularly known as the Sapir–Whorf hypothesis, or Whorfianism, the principle is often defined to include two versions. The strong version says that language determines thought, and that linguistic categories limit and determine cognitive categories, whereas the weak version says only that linguistic categories and usage influence thought and certain kinds of non-linguistic behavior.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-An [Entity's](./entity.md) worldview is the set of [perspectives](./perspective.md) and the set of [abstractions](./abstraction.md) that the Entity uses to perceives [Existence](./existence.md).
+Linguistic Relativity is a pattern that is applicable anywhere in [Existence](./existence.md).

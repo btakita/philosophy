@@ -1,6 +1,16 @@
 # Pattern
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The elements of a pattern repeat in a predictable or regular manner.
+
+## [Axiology](./axiology.md)
+
+Any of the five traditionally accepted senses may directly observe patterns. [Abstract](./abstract.md) patterns in science, spirit, mathematics, or language require [conceptual](./conceptual-system.md) & extrasensory abilities.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/pattern" target="_blank">pattern (wiktionary)</a>
 
@@ -30,6 +40,6 @@
 
 > A pattern, apart from the term's use to mean "Template", is a discernible regularity in the world or in a manmade design. As such, the elements of a pattern repeat in a predictable manner. A geometric pattern is a kind of pattern formed of geometric shapes and typically repeating like a wallpaper.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The elements of a pattern repeat in a predictable or regular manner. Any of the five traditionally accepted senses may directly observe patterns. [Abstract](./abstract.md) patterns in science, spirit, mathematics, or language require [conceptual](./conceptual-system.md) & extrasensory abilities.
+Patterns occur throughout [Existence](./existence.md).

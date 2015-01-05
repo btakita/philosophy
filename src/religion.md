@@ -1,6 +1,18 @@
 # Religion
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An Explicit [Philosophy](./philosophy.md) with adherents who act to propagate [faith](./faith.md) in the philosophy.
+
+## [Axiology](./axiology.md)
+
+Religions can influence a [perspective](./perspective.md) on an [entity](./entity.md) by convincing or [violence](./violence.md).
+
+A Religion has one or many [Belief Systems](./belief-system.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/religion" target="_blank">religion (wiktionary)</a>
 
@@ -20,8 +32,6 @@
 
 > A religion is an organized collection of beliefs, cultural systems, and world views that relate humanity to an order of existence. Many religions have narratives, symbols, and sacred histories that are intended to explain the meaning of life and/or to explain the origin of life or the Universe. From their beliefs about the cosmos and human nature, people derive morality, ethics, religious laws or a preferred lifestyle
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Religions can influence a [perspective](./perspective.md) on an [entity](./entity.md) by convincing or [violence](./violence.md).
-
-A Religion has one or many [Belief Systems](./belief-system.md).
+Religion is a pattern that is applicable anywhere in [Existence](./existence.md).

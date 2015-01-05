@@ -1,6 +1,12 @@
 # Attention Schema
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The Attention Schema are the [abstractions](./abstraction.md) available to the current [consciousness](./consciousness.md) of the [Entity](./entity.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/attention" target="_blank">attention (wiktionary)</a>
 
@@ -34,6 +40,10 @@ Michael Graziano has a model of the Attention Schema regarding symbolic [definit
 
 <a href="http://aeon.co/magazine/philosophy/how-consciousness-works/" target="_blank">How the light gets out (aeon.co)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The Attention Schema are the symbols available to the current [consciousness](./consciousness.md) of the [Entity](./entity.md).
+All Entities have a schema of abstractions.
+
+#### A Rock's Attention Schema
+
+The set of all physical effects occurring on the rock is the rock's Attention Schema.

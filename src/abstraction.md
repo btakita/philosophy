@@ -1,6 +1,26 @@
 # Abstraction
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An abstraction is a [concept](./concept.md) that [models](./model.md) something else, allowing expression of the concept without it's complexity & ambiguity. A word or phrase is an abstraction.
+
+Abstractions allow [perspectives](./perspective.md) to be applied to a [system](./system.md).
+
+Abstractions are useful in creating simplified (less [precise](./precision.md)) systems that can be related to other systems using [analogies](./analogy.md).
+
+Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity. The abstraction simplifies the abstracted entity.
+
+An [entity](./entity.md) has a limited ability to [focus](./focus.md) on complexity. Somehow, humans make sense of the world with [language](./language.md).
+
+## [Ethics](./ethics.md)
+
+The more an entity is abstracted, the less [novelty](./novelty.md) that individual is perceived to have. One should be aware that all entities have novel personalities & lives. One should have [compassion](./compassion.md) & [respect](./respect.md) for everyone.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
+
+<a href="https://www.youtube.com/watch?v=cz-3WDdqbj0" target="_blank">08 NATF14 Guest Keynote: "Brains, Data, and Machine Intelligence" - Jeff Hawkins</a>
 
 <a href="https://en.wikipedia.org/wiki/Abstraction" target="_blank">abstraction (Wikipedia)</a>
 
@@ -47,12 +67,18 @@ Abstraction is:
 * a kind of reformulation or approximation
 * a to change levels of detail
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-An [entity](./entity.md) has a limited [focus](./focus.md). Abstractions allow a complex set of concepts to be contained within a single concept or word. Abstractions allow different [perspectives](./perspective.md) to be applied to a [system](./system.md).
+All entities perceive Existence using abstractions.
 
-Abstractions are useful in creating simplified (less [precise](./precision.md)) systems that can relate to a similar system using [analogies](./analogy.md).
+#### A Rock Using Abstraction
 
-Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity.
+A Rock can use Abstraction by interpreting it being hit by a hammer as kinetic energy. From the perspective of the rock, it does not matter how the form of kinetic energy occurred; only the form of the kinetic energy matters.
 
-This philosophy takes an approach focusing on the [Evolutionary Linguistics](evolutionary-linguistics.md) (aka abstractions) to create a [model](./model.md) of [Existence](./existence.md) (or [God](./god.md)) that works in any [context](./context.md).
+#### A Human Using Abstraction
+
+A Human can express any Entity in [Existence](./existence.md) as an abstraction.
+
+A Human has a neocortex, which creates & stores the abstractions.
+
+A Human perceives the Entities in Existence by using abstractions that the Human made, using the neocortex.

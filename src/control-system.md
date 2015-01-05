@@ -1,6 +1,12 @@
 # Control System
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A [system](./system.md) to manage, command, direct or regulate the behavior of other systems.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/control" target="_blank">control (wiktionary)</a>
 
@@ -34,16 +40,14 @@
 
 > A control system is a device or set of devices to manage, command, direct or regulate the behavior of other devices or systems. A control mechanism is a process used by a control system.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A [system](./system.md) to manage, command, direct or regulate the behavior of other systems.
+Control System is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-[This philosophy](./this-philosophy.md) binds control systems to inanimate objects (i.e. rocks) and abstract concepts.
-
-### Inanimate Object Control System
+#### Inanimate Object Control System
 
 An Inanimate Object's behavior is controlled by it's physical composition & inherent [nature](./nature.md).
 
-#### The Control System of a Rock
+##### The Control System of a Rock
 
-The causal characteristics of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystallinity, environment, etc.
+The causal characteristics of a rock (hardness, elasticity, density, mass, etc.) are determined by the rock's chemical composition, shape, crystallinity, [environment](./environment), etc.

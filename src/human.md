@@ -1,6 +1,16 @@
 # Human
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
+
+## [Axiology](./axiology.md)
+
+Since humans communicate with symbolic [language](./language.md), we tend to view [Existence](./existence.md) from a [anthropomorphic](./anthropomorphism.md) [perspective](./perspective.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/human" target="_blank">human (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 > Modern humans (Homo sapiens or Homo sapiens sapiens) are the only extant members of the hominin clade, a branch of great apes characterized by erect posture and bipedal locomotion; manual dexterity and increased tool use; and a general trend toward larger, more complex brains and societies.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Since humans communicate with symbolic [language](./language.md), we tend to view [Existence](./existence.md) from a [anthropomorphic](./anthropomorphism.md) [perspective](./perspective.md).
+Humans are a biological species.

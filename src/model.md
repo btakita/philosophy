@@ -1,6 +1,16 @@
 # Model
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The model is an [entity](./entity.md) used to exemplify or simulate the workings of the subject [system](./system.md).
+
+## [Axiology](./axiology.md)
+
+Models are often less complex than the subject system, due to the usage of [abstraction](./abstraction.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/model" target="_blank">model (wiktionary)</a>
 
@@ -52,8 +62,6 @@
 
 > composition of concepts, which are used to help people know, understand, or simulate a subject the model represents
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The model is an [entity](./entity.md) used to exemplify or simulate the workings of the subject [system](./system.md).
-
-Models are often less complex than the subject system, due to the usage of [abstraction](./abstraction.md).
+A model can be used to represent any set of Entities in [Existence](./existence.md).

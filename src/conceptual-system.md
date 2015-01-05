@@ -1,6 +1,16 @@
 # Conceptual System
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A [system](./system.md) that is made of [concepts](./concept.md) and not physical objects.
+
+## [Axiology](./axiology.md)
+
+A [physical system](./physical-system.md) is often represented by a [model](./model.md), which is a conceptual system.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/conceptual" target="_blank">conceptual (wiktionary)</a>
 
@@ -30,6 +40,6 @@
 
 > a system that is composed of non-physical objects, i.e. ideas or concepts
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-A [physical system](./physical-system.md) is often represented by a [model](./model.md), which is a conceptual system.
+All abstraction objects are conceptual systems.

@@ -1,6 +1,12 @@
 # Anthropomorphism
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Attribution of the [Entity's](./entity.md) form or other characteristics to anything other than that Entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/anthropomorphism" target="_blank">anthropomorphism (wiktionary)</a>
 
@@ -14,6 +20,6 @@
 
 > attribution of human form or other characteristics to anything other than a human being
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+The pattern of an Anthropomorphism applied to any Entity in [Existence](./existence.md): The Entity projects it's form onto another entity.

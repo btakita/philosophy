@@ -1,6 +1,16 @@
 # Context
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Context add [scope](./scope.md) to [abstractions](./abstraction.md).
+
+## [Axiology](./axiology.md)
+
+Context limits the amount of information needed to create a [contextual systems](./contextual-systems.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/context" target="_blank">context (wiktionary)</a>
 
@@ -29,6 +39,6 @@
 
 > In linguistics, morphology is the identification, analysis, and description of the structure of a given language's morphemes and other linguistic units, such as root words, affixes, parts of speech, intonations and stresses, or implied context.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Context [scopes](./scope.md) [abstractions](./abstraction.md).
+All known physical entities, possibly all entities, are not able to focus on the infinite information of Existence. Context is needed to limit the information.

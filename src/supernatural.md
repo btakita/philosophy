@@ -1,6 +1,24 @@
 # Supernatural
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Supernatural is the [belief](./belief.md) of [physical](physical-system.md) or [conceptual](./conceptual-system.md) phenomena not being subject to known [natural law](./natural-law.md).
+
+## [Axiology](./axiology.md)
+
+By definition, natural law explains all phenomena and supernatural phenomena does not occur. Instead, something may be deemed supernatural when the observer does not understand, or wishes to abstract, the underlying natural laws of the phenomena.
+
+Similar to [magic](./magic.md).
+
+### An Example, A Child Shaking an Ant Farm
+
+Let's say an [Entity](./entity.md) can meddle with a physical system at will, like a child shaking an ant farm. The normal physical processes don't occur, as another Entity disturbs the otherwise normal occurrences. From the perspective of the Ants, the Child shaking their world may seem quite "supernatural" & incomprehensible.
+
+However, the shaking of the farm still follows natural physical law. Also, an entity affecting the Ant farm is also within the bounds of natural law. It seems by definition, anything that can occur, is somehow explainable by natural law (applying to physical or conceptual systems).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/supernatural" target="_blank">supernatural (wiktionary)</a>
 
@@ -16,16 +34,6 @@
 
 > The supernatural (Medieval Latin: supernātūrālis: supra "above" + naturalis "nature", first used: 1520–30 AD) is that which is not subject to the laws of physics or, more figuratively, that which is said to exist above and beyond nature. In philosophy, popular culture and fiction, the supernatural is associated with the paranormal, religions and occultism. It has neoplatonic and medieval scholastic origins.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Supernatural is the [belief](./belief.md) of [physical](physical-system.md) or [conceptual](./conceptual-system.md) phenomena not being subject to [natural law](./natural-law.md).
-
-By definition, natural law explains all phenomena and supernatural phenomena do not occur. Instead, something may be deemed supernatural when the observer does not understand, or wishes to abstract, the underlying natural laws of the phenomena.
-
-Similar to [magic](./magic.md).
-
-### An Example, A Child Shaking an Ant Farm
-
-Let's say an [Entity](./entity.md) can meddle with a physical system at will, like a child shaking an ant farm. The normal physical processes don't occur, as another Entity disturbs the otherwise normal occurrences. From the perspective of the Ants, the Child shaking their world may seem quite "supernatural" & incomprehensible.
-
-However, the shaking of the farm still follows natural physical law. Also, an entity affecting the Ant farm is also within the bounds of natural law. It seems by definition, anything that can occur, is somehow explainable by natural law (applying to physical or conceptual systems).
+A Supernatural explanation can be the perceived explanation of any Entity in [Existence](./existence.md).

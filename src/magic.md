@@ -1,6 +1,20 @@
 # Magic
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Magic are the causes contained in a [black box](./magic.md), which encapsulates [imperceptible](./perspective.md) [natural laws](./natural-law.md). Magic is [illusion](./illusion.md) masking [natural law](./natural-law.md).
+
+See [supernatural](./supernatural.md).
+
+## [Axiology](./axiology.md)
+
+### Blog Posts
+
+<a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/magic" target="_blank">magic (wiktionary)</a>
 
@@ -18,12 +32,8 @@
 
 > Magic (sometimes referred to as stage magic to distinguish it from paranormal or ritual magic) is a performing art that entertains audiences by staging tricks or creating illusions of seemingly impossible[1] or supernatural[2] feats using natural means. These feats are called magic tricks, effects or illusions.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Magic are the causes contained in a [black box](./magic.md), which encapsulates [imperceptible](./perspective.md) [natural laws](./natural-law.md). Magic is [illusion](./illusion.md) masking [natural law](./natural-law.md).
+Magic can be perceived by all Entities in [Existence](./existence.md).
 
-See [supernatural](./supernatural.md).
-
-### Blog Posts
-
-<a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
+Existence includes magic & the actual causal concepts.

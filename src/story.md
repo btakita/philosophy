@@ -1,6 +1,22 @@
 # Story
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A sequence of events; or, an account of such a sequence.
+
+## [Axiology](./axiology.md)
+
+Story and [history](./history.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth
+
+Stories hold [state](./state.md) that can be used for [context](./context.md).
+
+### Recounting of a sequence of events/Narrative
+
+A Story is algorithmic. It is often of a low [resolution](./resolution.md), thus requiring relatively little [information](./information.md) to communicate (or transfer) a [Conceptual System](./conceptual-system.md). The context created by the story can be evolved to create more resolution.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/story" target="_blank">story (wiktionary)</a>
 
@@ -24,12 +40,6 @@
 
 > Narrative
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Story and [history](./history.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth
-
-Stories hold [state](./state.md) that can be used for [context](./context.md).
-
-### Recounting of a sequence of events/Narrative
-
-A Story is algorithmic. It is often of a low [resolution](./resolution.md), thus requiring relatively little [information](./information.md) to communicate (or transfer) a [Conceptual System](./conceptual-system.md). The context created by the story can be evolved to create more resolution.
+Story is a pattern that is applicable anywhere in [Existence](./existence.md).

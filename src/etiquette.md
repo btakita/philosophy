@@ -1,6 +1,16 @@
 # Etiquette
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Etiquette is a code of behavior that delineates expectations for social behavior according to contemporary conventional norms within a society, social class, or group.
+
+## [Axiology](./axiology.md)
+
+Etiquette is practiced & propagated within a [culture](./culture.md) of [people](./human.md). Etiquette evolves with the [group](./collective.md). When a member insults another member, then a form of conflict resolution occurs.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/etiquette" target="_blank">etiquette (wiktionary)</a>
 
@@ -24,6 +34,8 @@
 
 > manners are a means of mitigating undesirable behavior and fostering the benefits of in‐group cooperation
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Etiquette is practiced & propagated within a [culture](./culture.md) of [people](./human.md). Etiquette evolves with the [group](./collective.md). When a member insults another member, then a form of conflict resolution occurs.
+Etiquette is a pattern that is applicable in any [collective](./collective.md) in [Existence](./existence.md).
+
+Etiquette creates [coherence](./coherence.md) within the collective.

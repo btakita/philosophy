@@ -1,6 +1,14 @@
 # Awareness
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Awareness is the attentive ability of the [Entity](./entity.md) to perceive self & other entities in the [environment](./environment).
+
+Awareness is related to [consciousness](./consciousness.md) and [feeling](./feeling.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/awareness" target="_blank">awareness (wiktionary)</a>
 
@@ -14,8 +22,8 @@
 
 > state or ability to perceive, to feel, or to be conscious of events, objects, thoughts, emotions, or sensory patterns
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-All [entities](./entities.md) have awareness of the entity that they are a part of. All entities have an awareness of self. The level of awareness is dependent on the [intelligence](./intelligence.md) of the entity.
+All entities have awareness. All entities have awareness of self and of the environment that they are a part of.
 
-Awareness is related to [consciousness](./consciousness.md) and [feeling](./feeling.md).
+There are physical & conceptual types of awareness.

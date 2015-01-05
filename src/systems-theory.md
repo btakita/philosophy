@@ -1,6 +1,20 @@
 # Systems Theory
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Systematic study of the complex interactions in [systems](./system.md).
+
+Collection of methods on the development and organization of complex systems.
+
+Interdisciplinary field of science, which studies the nature of complex systems in nature, society and science, and studies complex parts of reality as systems.
+
+## [Axiology](./axiology.md)
+
+This Philosophy is inspired by Systems Theory for it's organizational principles & [redefinitions](./redefinition.md) of words.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/systems_theory" target="_blank">systems theory (wiktionary)</a>
 
@@ -18,6 +32,6 @@
 
 > As a transdisciplinary, interdisciplinary and multiperspectival domain, the area brings together principles and concepts from ontology, philosophy of science, physics, computer science, biology, and engineering as well as geography, sociology, political science, psychotherapy (within family systems therapy) and economics among others. Systems theory thus serves as a bridge for interdisciplinary dialogue between autonomous areas of study as well as within the area of systems science itself.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-This Philosophy is inspired by Systems Theory for it's organizational principles & [redefinitions](./redefinition.md) of words.
+Systems Theory can apply to any system in [Existence](./existence.md).

@@ -1,6 +1,16 @@
 # Emotion
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity's](./entity.md) internal state of being. Emotion is often an involuntary response tied to the Entity's received & transmitted [signals](./signal.md).
+
+## [Axiology](./axiology.md)
+
+Emotions influence a person's thoughts & actions.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/emotion" target="_blank">emotion (wiktionary)</a>
 
@@ -16,6 +26,6 @@
 
 > The physiology of emotion is closely linked to arousal of the nervous system with various states and strengths of arousal relating, apparently, to particular emotions. Emotions are a complex state of feeling that results in physical and psychological changes that influence our behaviour. Those acting primarily on emotion may seem as if they are not thinking, but cognition is an important aspect of emotion, particularly the interpretation of events.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Emotions influence a person's thoughts & actions.
+Emotion is a pattern that is applicable anywhere in [Existence](./existence.md).

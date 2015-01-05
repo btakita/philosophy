@@ -1,6 +1,12 @@
 # Energy Transfer
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+[Physical](./physical-system.md) or [Conceptual](./conceptual-system.md) [Energy](./energy.md) can be transferred between [entities](./entity.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/energy_transfer" target="_blank">energy transfer (wiktionary)</a>
 
@@ -18,6 +24,6 @@
 
 > Note that these mechanisms or modes refer to the kind of transfer or process acting on the energy, not the kinds (or forms, types, etc.) of energy that's being transferred. The increase or decrease in energy of each system can be in any of several forms of energy.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Physical](./physical-system.md) or [Conceptual](./conceptual-system.md) [Energy](./energy.md) can be transferred between [entities](./entity.md) within the [system](./system.md).
+Energy Transfer may occur between any Entities in [Existence](./existence.md).

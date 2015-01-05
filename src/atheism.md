@@ -1,6 +1,18 @@
 # Atheism
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Non-[belief](./belief.md) in [God](./god.md); God does not [exist](./exist.md) in an atheist's [philosophy](./philosophy.md). Note that atheism is not a philosophy in itself.
+
+## [Axiology](./axiology.md)
+
+This philosophy sees everything existing in the [scope](./scope.md) of [Existence](./existence.md), so the notion that [God](./god.md) does not "exist" is false by definition, since Existence is God.
+
+This philosophy is influenced by atheism where [natural law](./natural-law.md) explains all phenomena in Existence.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/atheism" target="_blank">atheism (wiktionary)</a>
 
@@ -18,8 +30,6 @@
 
 > Atheism is, in a broad sense, the rejection of belief in the existence of deities. In a narrower sense, atheism is specifically the position that there are no deities. Most inclusively, atheism is the absence of belief that any deities exist. Atheism is contrasted with theism, which, in its most general form, is the belief that at least one deity exists.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-This philosophy sees everything existing in the [scope](./scope.md) of [Existence](./existence.md), so the notion that [God](./god.md) does not "exist" is false by definition, since Existence is God.
-
-This philosophy utilizes the [category](./category-theory.md) of atheism as an [evolutionary partner](./evolutionary-group.md) in seeking [truth](./truth.md) & [natural law](./natural-law.md). Atheism created [evolutionary](./evolution.md) pressure to expand the [definitions](./definition.md) of the [God](./god.md) [abstraction](./abstraction.md) to mean Existence (all of Existence).
+Any entity that does not have a belief in God has atheism in it's philosophy.

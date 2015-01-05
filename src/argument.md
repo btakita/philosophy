@@ -1,6 +1,12 @@
 # Argument
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An Entity's reason for something.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/argument" target="_blank">argument (noun)</a>
 
@@ -32,6 +38,10 @@
 
 > In logic and philosophy, an argument is an attempt to persuade someone of something, by giving reasons for accepting a particular conclusion as evident. The general form of an argument in a natural language is that of premises (typically in the form of propositions, statements or sentences) in support of a claim: the conclusion. The structure of some arguments can also be set out in a formal language, and formally defined "arguments" can be made independently of natural language arguments, as in math, logic and computer science.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-[Entities](./entity.md) may [agree](./agree.md) on a [concept](./concept.md), yet have a [disagreement](./disagreement.md) rooted in each entity having different [definitions](./definition.md) in the [language](./language.md) they use. When the [definitions](./definition.md) are different, the entities are talking about different things. Apples to Oranges.
+Argument is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+#### A Rock with an Argument
+
+A rock will have weight because gravity interacts with the mass of the rock.

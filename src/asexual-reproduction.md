@@ -1,6 +1,12 @@
 # Asexual Reproduction
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Reproduction where the offspring arise from a single [Entity](./entity.md). Cloning is an example of Asexual Reproduction.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/asexual_reproduction" target="_blank">asexual reproduction (wiktionary)</a>
 
@@ -16,6 +22,6 @@
 
 > While all prokaryotes reproduce asexually (without the formation and fusion of gametes), mechanisms for lateral gene transfer such as conjugation, transformation and transduction are sometimes likened to sexual reproduction (or at least with sex, in the sense of genetic recombination).
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+Asexual Reproduction is a pattern that is applicable anywhere in [Existence](./existence.md).

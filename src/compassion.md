@@ -1,6 +1,24 @@
 # Compassion
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Compassion enables the compassionate [entity](./entity.md) to enter into the same [context](./context.md) as the subject entity. A person puts self in the place of another person. This allows the compassionate entity to understand, relate, support, & guide the subject.
+
+Through the connection between entities that compassion facilitates, functioning cooperative groups form. The more ways one can be compassionate for another, the stronger the functioning bond.
+
+## [Ethics](./ethics.md)
+
+> “Greek and Roman philosophers distrusted (feeling) compassion. In their view, reason alone was the proper guide to conduct. They regarded compassion (a virtue) as an effect, neither admirable nor contemptible.” —Thomas Szasz, Cruel Compassion
+
+> If you want others to be happy, practice compassion. If you want to be happy, practice compassion. -- Dalai Lama
+
+> It is possible to travel the whole world in search of one who is more worthy of compassion than oneself. No such person can be found. -- Dalai Lama
+
+> Compassion is the antidote to the self-chosen poison of anger. -- Dalai Lama
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/compassion" target="_blank">compassion (wiktionary)</a>
 
@@ -22,18 +40,6 @@
   * Common humanity: Self-compassion also involves recognizing that suffering and personal failure is part of the shared human experience.
   * Mindfulness: Self-compassion requires taking a balanced approach to one's negative emotions so that feelings are neither suppressed nor exaggerated. Negative thoughts and emotions are observed with openness, so that they are held in mindful awareness. Mindfulness is a non-judgmental, receptive mind state in which individuals observe their thoughts and feelings as they are, without trying to suppress or deny them. Conversely, mindfulness requires that one not be "over-identified" with mental or emotional phenomena, so that one suffers aversive reactions. This latter type of response involves narrowly focusing and ruminating on one's negative emotions.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Compassion enables the compassionate entity to enter into the same context as the subject entity. A person puts self in the place of another person. This allows the compassionate entity to understand, relate, support, & guide the subject.
-
-Through the connection between entities that compassion facilitates, functioning cooperative groups form. The more ways one can be compassionate for another, the stronger the functioning bond.
-
-### Compassion in Modern Culture
-
-> “Greek and Roman philosophers distrusted (feeling) compassion. In their view, reason alone was the proper guide to conduct. They regarded compassion (a virtue) as an effect, neither admirable nor contemptible.” —Thomas Szasz, Cruel Compassion
-
-> If you want others to be happy, practice compassion. If you want to be happy, practice compassion. -- Dalai Lama
-
-> It is possible to travel the whole world in search of one who is more worthy of compassion than oneself. No such person can be found. -- Dalai Lama
-
-> Compassion is the antidote to the self-chosen poison of anger. -- Dalai Lama
+Any entity can exhibit compassion toward another entity. While suffering is a common motivation for compassion, one can also have compassion for perspectives when suffering is not involved.

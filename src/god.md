@@ -1,6 +1,24 @@
 # God
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The archetypal supreme [Entity](./entity.md) of a [philosophy](./philosophy.md).
+
+## [Axiology](./axiology.md)
+
+In [this philosophy](./this-philosophy.md), God is [Existence](./existence.md).
+
+God tends to be a term with low [precision](./precision.md), due to [humans'](./humans.md) inability to focus on the vastness of Existence.
+
+<a href="http://theunboundedspirit.com/existence-is-god/" target="_blank">Existence is God (theunboundedspirit.com)</a>
+
+<a href="http://www.oshorajneesh.com/download/osho-books/The_Upanishads/The_Supreme_Doctrine.pdf" target="_blank">The Supreme Doctrine (www.oshorajneesh.com)</a>
+
+Some philosophies do not have a concept of God. Thus, to that atheist philosophy, "God does not exist". However, the atheist philosophy is a scoped [conceptual system](./conceptual-system.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/god" target="_blank">god (wiktionary)</a>
 
@@ -28,8 +46,8 @@
 
 <a href="https://en.wikipedia.org/wiki/God" target="_blank">God (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-God is [Existence](./existence.md).
+God is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-God tends to be a term with low [precision](./precision.md), due to [humans'](./humans.md) inability to focus on the vastness of Existence.
+This philosophy places God in a central role (Existence), because there is much [cultural](./culture.md) [information](./information.md) (i.e. [stories](./story.md)), related to the concept of God.

@@ -1,6 +1,18 @@
 # Spirit
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A [pattern](./pattern.md) that is the motivation of the [Entity](./entity.md) in it's current [state](./state.md).
+
+## [Axiology](./axiology.md)
+
+The Holy Spirit causes people to vibrate at a higher level and perform actions with increased zeal.
+
+The Spirit of Greed causes one to act in greedy ways.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/spirit" target="_blank">spirit (wiktionary)</a>
 
@@ -36,6 +48,8 @@
 
 > The English word spirit (from Latin spiritus "breath") has many differing meanings and connotations, most of them relating to a non-corporeal substance contrasted with the material body. The word spirit is often used metaphysically to refer to the consciousness or personality. The notions of a person's spirit and soul often also overlap, as both contrast with body and both are understood as surviving the bodily death in religion and occultism,[1] and "spirit" can also have the sense of "ghost", i.e. a manifestation of the spirit of a deceased person.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The motivation of the [soul](./soul.md) in it's current state. The Holy Spirit causes people to vibrate at a higher level and perform actions with increased zeal. The Spirit of Greed causes one to act in greedy ways.
+Spirit is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+Any Entity in [Existence](./existence.md) Spirit(s) "possess" them.

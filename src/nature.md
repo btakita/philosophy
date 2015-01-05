@@ -1,6 +1,12 @@
 # Nature
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Nature is the [unabstracted](./abstraction.md) [entity](./entity.md) of [existence](./existence.md). Nature can be [scoped](./scope.md) by a qualifying word (e.g. the Nature of the biology of Earth, the Nature of Mathematics, the Nature of the mind, the Nature of [emotions](./emotion.md)).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/nature" target="_blank">nature (wiktionary)</a>
 
@@ -24,6 +30,8 @@
 
 > Nature, in the broadest sense, is equivalent to the natural, physical, or material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Nature is the [unabstracted](./abstraction.md) [entity](./entity.md) of [existence](./existence.md). Nature can be [scoped](./scope.md) by a qualifying word (e.g. the Nature of the biology of Earth, the Nature of Mathematics, the Nature of the mind, the Nature of [emotions](./emotion.md)).
+Nature is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+Nature is in [Conceptual](./conceptual-system.md) & [Physical](./physical-system.md) systems.

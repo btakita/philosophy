@@ -1,6 +1,18 @@
 # Shaman
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+A practitioner of a [conceptual system](./conceptual-system.md) of seeking connections, visions, healing.
+
+## [Axiology](./axiology.md)
+
+A Human Shaman will often enter into altered states of [consciousness](./consciousness.md) to obtain a [novel](./novelty.md) [perspective](./perspective.md).
+
+An Entity will often take a different perspective to resolve a [Paradox](./paradox.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/shaman" target="_blank">shaman (wiktionary)</a>
 
@@ -18,6 +30,6 @@
 
 > Neoshamanism refers to a "new"' form of what adherents call "shamanism", a modern system of seeking visions or healing. Neoshamanism comprises an eclectic range of beliefs and practices that involve attempts to attain altered states and communicate with a spirit world. Neoshamanic systems may bear no resemblance to traditional forms of shamanism, and may be wholly invented by individual practitioners, though many rely heavily on cultural appropriation from a variety of different Indigenous cultures.
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+An [Entity](./entity.md) capable of simulating conceptual systems and adopting multiple perspectives is capable of Shamanic practices.

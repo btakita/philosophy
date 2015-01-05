@@ -1,6 +1,12 @@
 # Energy
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+Energy is a property of objects, transferable among them via fundamental interactions, which can be converted in form but not created or destroyed. The ability of a [system](./system.md) ([physical](./physical-system.md)/[conceptual](./conceptual-system.md)) to do work on other systems (physical/conceptual).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/energy" target="_blank">energy (wiktionary)</a>
 
@@ -24,11 +30,11 @@
 
 <a href="https://en.wikipedia.org/wiki/Energy" target="_blank">Energy (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-Energy is a property of objects, transferable among them via fundamental interactions, which can be converted in form but not created or destroyed. The ability of a [system](./system.md) ([physical](./physical-system.md)/[conceptual](./conceptual-system.md)) to do work on other systems (physical/conceptual).
+Energy is a pattern that is applicable anywhere in [Existence](./existence.md).
 
-### Conceptual Energy
+#### Conceptual Energy
 
 Energy in a [conceptual system](./conceptual-system.md). An example is the energy in a model of a [physical system](./physical-system.md).
 

@@ -1,6 +1,16 @@
 # Authority
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An Entity's ability to influence other entities.
+
+## [Axiology](./axiology.md)
+
+Any entity can exhibit the pattern of authority over another entity, including itself. The degree that an Entity has authority over itself is the Entity's [freedom](./freedom.md).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/authority" target="_blank">authority (wiktionary)</a>
 
@@ -22,6 +32,6 @@
 
 <a href="https://en.wikipedia.org/wiki/Authority" target="_blank">Authority (Wikipedia)</a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+Authority is a pattern that is applicable anywhere in [Existence](./existence.md).

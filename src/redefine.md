@@ -1,24 +1,18 @@
 # Redefine
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
 
-<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">redefine (wiktionary)</a>
+To give a new or different definition to a word.
 
-> ### Verb
+## [Axiology](./axiology.md)
 
-> To give a new or different definition to a word
-
-> (computing) to define an area of storage, that has already been defined, in a different manner (e.g. both as character and numeric) - to allow multiple processing methods
-
-## [This Philosophy](./this-philosophy.md) Definition
-
-This Philosophy redefines words to expand or contract the consciousness of the [entity](./entity.md). A redefinition can [expand consciousness](./expanding-consciousness.md) by expanding the [scope](./scope.md) of the meaning while keeping a connection to the more [precise](./precision.md) & narrower scoped meaning.
+[This Philosophy](./this-philosophy.md) redefines words, relative to [cultural](./culture.md) norms, to expand or contract the [consciousness](./consciousness.md) of the [entity](./entity.md). A redefinition can [expand consciousness](./expanding-consciousness.md) by expanding the [scope](./scope.md) of the meaning while keeping a connection to the more [precise](./precision.md) & narrower scoped meaning.
 
 One can [focus](./focus.md) on the "[spirit](./spirit.md)" of the word in the modern [context](./context.md). Intending to increase the relevancy of words and shed the historical inaccuracies that the words have accumulated and expanding overly narrow scopes.
 
 Redefinition of words can also contract consciousness of an [entity](./entity.md) by causing focus to occur on an inaccurate meaning or a narrower scope of the word. An example of this occurring is a marketing or news entity redefining a word to have a meaning specific to a product, causing members of the public to "forget" the broader meaning.
 
-Words are [patterns](./pattern.md) that can be applied to multiple contexts. For example, God has different meanings across different [belief](./belief.md) [systems](./system.md) since the [definition](./definition.md) of God varies across these belief systems. [This philosophy](./this-philosophy.md) defines God as being Existence, thus being everything.
+Words are [patterns](./pattern.md) that can be applied to multiple contexts. For example, God has different meanings across different [belief](./belief.md) [systems](./system.md) since the [definition](./definition.md) of God varies across these belief systems. [This philosophy](./this-philosophy.md) defines [God](./god.md) as [being](./being.md) [Existence](./existence.md), thus being everything.
 
 Word definitions influence thoughts and symbolic [abstractions](./abstraction.md) that an entity relates with. One can be grounded with culturally defined terminology to effectively communicate within the cultural context. However, one can expand the consciousness of the culture, by expanding the scope of the words.
 
@@ -45,3 +39,19 @@ A being can learn by efficiently expanding consciousness. Expanding consciousnes
 ### Precision Context
 
 The Precision Context involves creating the precise Attention Schema by using contextual clues, qualifying words, and compound words. The precise Attention Schema is zoomed in to provide precise detail & expanded differentiation across the Attention Schema.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
+
+<a href="http://en.wiktionary.org/wiki/redefine" target="_blank">redefine (wiktionary)</a>
+
+> ### Verb
+
+> To give a new or different definition to a word
+
+> (computing) to define an area of storage, that has already been defined, in a different manner (e.g. both as character and numeric) - to allow multiple processing methods
+
+### [Pattern](./pattern.md) Expression
+
+Redefine is a pattern that is applicable anywhere in [Existence](./existence.md).

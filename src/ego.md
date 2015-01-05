@@ -1,6 +1,26 @@
 # Ego
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The ego is the [Entity's](./entity.md) [definition](./definition.md) of self being separate from other entities.
+
+The notion of self from the [perspective](./perspective.md) of the entity.
+
+## [Axiology](./axiology.md)
+
+### Aggressive Traits
+
+The ego motivation to impose one's reality onto another being.
+
+If the ego is given too much [energy](./energy.md) and used to commit violence (physical, spiritual, emotional, etc), then it can be considered undesirable. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
+
+### Defensive Traits
+
+However, the ego is not always considered undesirable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other [coercive](./coercion.md) techniques).
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/ego" target="_blank">ego (wiktionary)</a>
 
@@ -20,19 +40,13 @@
 
 > In South Asian traditions, the state of being trapped in the illusory belief that one is the false ego (ahamkara: "I am a doer") is known as maya or samsara. In psychology, 'Ego' is presumed as one of the three parts of psychic apparatus defined by Sigmund Freud's structural model. It is also defined by various religions across the world where slight differences also occur in their conceptions. Hinduism and Buddhism have least differences in defining various psychological terms such as self, ego, soul, etc.
 
-## [This Philosophy](./this-philosophy.md) Definition
-
-The ego is the [being's](./being.md) [definition](./definition.md) of self. The notion of self from the [perspective](./perspective.md) of the being.
-
-It is also the cause to impose one's reality onto another being.
-
-If the ego is given too much [energy](./energy.md) and used to commit violence (physical, spiritual, emotional, etc), then it can be considered undesirable. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
-
-However, the ego is not always considered undesirable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other [coercive](./coercion.md) techniques).
-
-## References
+#### References
 
 * <a href="http://thespiritscience.net/2014/11/22/the-ego-is-a-pdf-file/" target="_blank">The Ego is a PDF File</a>
 * <a href="http://www.beliefnet.com/columnists/areasontosmile/2012/03/qa-is-the-ego-a-bad-thing.html" target="_blank">Q&A: Is the Ego a bad thing?</a>
 * <a href="http://www.entrepreneur.com/article/234496" target="_blank">Why a Big Ego Isn't Always Bad</a>
 * <a href="http://www.mindbodygreen.com/0-5680/A-Powerful-New-Way-to-Understand-Your-Ego.html" target="_blank">A Powerful New Way to Understand Your Ego</a>
+
+### [Pattern](./pattern.md) Expression
+
+Ego is a pattern that is applicable anywhere in [Existence](./existence.md).

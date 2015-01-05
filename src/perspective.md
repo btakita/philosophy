@@ -1,6 +1,20 @@
 # Perspective
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The relations that an [Entity](./entity.md) has to the containing entity ([Existence](./existence.md) is the assumed [context](./context.md)).
+
+### Imperceptible
+
+Entities that are not contained within the Entity's perspective.
+
+## [Axiology](./axiology.md)
+
+A perspective influences the [reality](./reality.md) of the entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/perspective" target="_blank">perspective (wiktionary)</a>
 
@@ -24,12 +38,6 @@
 
 > Perspectivity, the formation of an image in a picture plane of a scene viewed from a fixed point, and its modelization in geometry
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-The relations that an [Entity](./entity.md) has to the containing entity ([Existence](./existence.md) is the assumed [context](./context.md)).
-
-A perspective influences the [reality](./reality.md) of the entity.
-
-### Imperceptible
-
-Entities that are not contained within the Entity's perspective.
+All Entities in Existence have a perspective.

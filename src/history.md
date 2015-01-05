@@ -1,6 +1,16 @@
 # History
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The aggregate of past events.
+
+## [Axiology](./axiology.md)
+
+History and [story](./story.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/history" target="_blank">history (wiktionary)</a>
 
@@ -28,8 +38,8 @@
 
 > Herstory is history written from a feminist perspective, emphasizing the role of women, or told from a woman's point of view. It is a neologism coined in the late 1960s as part of a feminist critique of conventional historiography, with the word "history" reinterpreted, using a false etymology, as "his story." (The word "history"—from the Ancient Greek ἱστορία, or historia, meaning "knowledge obtained by inquiry"—is etymologically unrelated to the possessive pronoun his.)
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-History and [story](./story.md) are synonymous. One can say History of the Earth, the History of the Universe, or the History of Middle Earth.
+History is a pattern that is applicable anywhere in [Existence](./existence.md).
 
 History originally meant the sequence of events of human affairs. However the [definition](./definition.md) has expanded to include the physical history of the physical universe & the narrative of fictional worlds. This expanded definition made history synonymous with story.

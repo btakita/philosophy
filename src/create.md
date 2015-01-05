@@ -1,6 +1,12 @@
 # Creativity
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+To create is to add [novelty](./novelty.md) to Existence.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/create" target="_blank">create (wiktionary)</a>
 
@@ -30,6 +36,6 @@
 
 <a href="http://en.wikipedia.org/wiki/Create" target="_blank"></a>
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-To create is to add [novelty](./novelty.md) to Existence.
+All entities create.

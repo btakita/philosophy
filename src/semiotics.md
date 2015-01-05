@@ -1,6 +1,12 @@
 # Semiotics
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+The study of signs and symbols, especially as means of language or communication.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/semiotics" target="_blank">semiotics (wiktionary)</a>
 
@@ -18,6 +24,6 @@
 
 > Semiotics frequently is seen as having important anthropological dimensions; for example, Umberto Eco proposes that every cultural phenomenon may be studied as communication.[1] Some semioticians focus on the logical dimensions of the science, however. They examine areas belonging also to the life sciences – such as how organisms make predictions about, and adapt to, their semiotic niche in the world (see semiosis). In general, semiotic theories take signs or sign systems as their object of study: the communication of information in living organisms is covered in biosemiotics (including zoosemiotics).
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-
+All [Entities](./entity.md) in [Existence](./existence.md) have implicit semiotics.

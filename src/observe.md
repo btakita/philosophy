@@ -1,6 +1,12 @@
 # Observe
 
-## [Cultural](./culture.md) Definition
+## [Ontology](./ontology.md)
+
+An [Entity](./entity.md) [consciously](./consciousness.md) receiving [signals](./signal.md) from another entity.
+
+## [Epistemology](./epistemology.md)
+
+### [Cultural](./culture.md) Definition
 
 <a href="http://en.wiktionary.org/wiki/observe" target="_blank">observe (wiktionary)</a>
 
@@ -10,7 +16,7 @@
 
 > (transitive) To follow or obey the custom, practice, or rules (especially of a religion). "Please observe all posted speed limits."
 
-. (intransitive) To comment on something; to make an observation. "The senator observed that the bill would be detrimental to his constituents."
+> (intransitive) To comment on something; to make an observation. "The senator observed that the bill would be detrimental to his constituents."
 
 <a href="http://en.wikipedia.org/wiki/Observation" target="_blank">Observation (Wikipedia)</a>
 
@@ -50,6 +56,8 @@
 
 > (intransitive) To comment on something; to make an observation. "The senator observed that the bill would be detrimental to his constituents."
 
-## [This Philosophy](./this-philosophy.md) Definition
+### [Pattern](./pattern.md) Expression
 
-An [Entity](./entity.md) receiving [signals](./signal.md) from another entity.
+Observe is a pattern that is applicable anywhere in [Existence](./existence.md).
+
+All entities in Existence, by maintaining form, observes itself. The constituent entities are aware of each other & able to maintain connectivity.
