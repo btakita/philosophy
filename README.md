@@ -1,7 +1,23 @@
 philosophy
 ==========
 
-[This philosophy](./src/this-philosophy.md) is a [worldview](./src/worldview.md) [tool](./src/tool.md), with the intent of [expanding consciousness](./expanding-consciousness.md) by creating [novelty](./novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from the [domains](./src/domain.md) of [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
+[This philosophy](./src/this-philosophy.md) is a [worldview](./src/worldview.md) [tool](./src/tool.md), with the intent of [expanding consciousness](./expanding-consciousness.md) by creating [novelty](./novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from all [domains](./src/domain.md) in Existence; particularly from [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
+
+## Abstractions as [Patterns](./src/pattern.md)
+
+This Philosophy treats abstractions as patterns to be used in as many scopes as possible. This increases the usage of each abstraction across many domains by [analogy](./src/analogy.md).
+
+## Abstraction Definition
+
+Each definition is broken up into sections.
+
+* [Ontology](./src/ontology.md) - The definition of the word pattern
+* [Axiology](./src/axiology.md) - The value of the word as a pattern
+    * [Ethics](./src/ethics.md) - The ethical value of the word as a pattern
+    * [Aesthetics](./src/aesthetics.md) - The aesthetic value of the word as a pattern
+* [Epistemology](./src/epistemology.md) - The process of defining the word pattern
+    * Cultural Definition - The word defined by the prevailing culture
+    * Pattern Expression - How the word is applied as a pattern in Existence
 
 ## Similarities to other Fields
 
@@ -49,21 +65,3 @@ Press "t", then type in the word you want to navigate to.
 <a href="http://www.briantakita.com/posts/philosophy-existence-is-god-god-exists/" target="_blank">Philosophy - Existence is God & God Exists(briantakita.com)</a>
 
 <a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
-
-## Other Philosophies on Github
-
-<a href="http://www.gwern.net/" target="_blank">gwern.net</a> - <a href="https://github.com/gwern/gwern.net" target="_blank">gwern/gwern.net</a>
-
-<a href="https://github.com/davekinkead/philosophy" target="_blank">davekinkead/philosophy</a>
-
-<a href="https://github.com/russfam/philosophy" target="_blank">russfam/philosophy</a>
-
-<a href="https://github.com/ilsken/philosophy-notes" target="_blank">ilsken/philosophy-notes</a>
-
-<a href="https://github.com/Brendan-Clarke/Philosophy-of-Medicine" target="_blank">Brendan-Clarke/Philosophy-of-Medicine</a>
-
-<a href="https://gitenberg.github.io/" target="_blank">gitenberg.github.io</a>
-
-<a href="https://github.com/evilseanbot/philosophy" target="_blank">evilseanbot/philosophy</a>
-
-<a href="https://github.com/hemanth/philosophy" target="_blank">hemanth/philosophy</a>

@@ -16,6 +16,7 @@ A task yet to be done; an item on a to-do list.
 * temporal
 * timeless-structure
 * Iterate on fear
+* Reductionism is an explicit philosophy of Physical Existence (with Physical Reality)
 
 ### Trouble Spots TODO List
 
