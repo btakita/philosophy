@@ -22,4 +22,4 @@ Attribution of the [Entity's](./entity.md) form or other characteristics to anyt
 
 ### [Pattern](./pattern.md) Expression
 
-The pattern of an Anthropomorphism applied to any Entity in [Existence](./existence.md): The Entity projects it's form onto another entity.
+Anthropomorphism is a pattern that is applicable anywhere in [Existence](./existence.md). The Entity projects it's form onto another entity.
