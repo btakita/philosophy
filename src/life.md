@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Life is a characteristic of an [entity](./entity.md) that is self-sustaining, can emit & receive [signals](./signal.md), and is [self-sustaining](https://en.wikipedia.org/wiki/Self-sustainability).
+Life is a characteristic of an [Entity](./entity.md) that can emit & receive [signals](./signal.md), and is [self-sustaining](https://en.wikipedia.org/wiki/Self-sustainability).
 
 ## [Axiology](./axiology.md)
 
