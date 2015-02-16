@@ -2,15 +2,23 @@
 
 ## [Ontology](./ontology.md)
 
-Anxiety is an unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain projected outcomes.
+Anxiety is an unpleasant state of mental uneasiness, nervousness, apprehension, & concern about some uncertain projected outcomes.
 
 ## [Axiology](./axiology.md)
 
-Anxiety is a paradoxical spirit in the soul. Anxiety leads one down an evolutionary thought stream; inducing assumptions when perceiving past, present, & future situations.
+Anxiety is a probability distribution of [freedom](./freedom.md) & uncertainty of the effects of choice. Anxiety is heightened by attachment to another entity.
 
-Anxiety leads to heightened thought activity.
+### [Paradox](./paradox.md)
 
-Anxiety is an Entity's relationship with other entities. If the other entities have [integrity](./integrity.md), the Entity feels less anxiety.
+Anxiety is a paradoxical [spirit](./spirit.md). Anxiety leads one down an evolutionary thought stream; inducing assumptions when perceiving past, present, & future situations.
+
+### Thought Activity
+
+Anxiety leads to heightened thought activity as the entity processes the multitude of outcomes.
+
+### Integrity
+
+Anxiety is related to an Entity's perception other entities. If the other entities have more perceived [integrity](./integrity.md), the Entity feels less anxiety.
 
 ## [Epistemology](./epistemology.md)
 
