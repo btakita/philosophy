@@ -18,4 +18,4 @@ Epistemological anarchism is an epistemological theory advanced by Austrian phil
 
 ### [Pattern](./pattern.md) Expression
 
-Epistemological Anarchism is a philosophy.
+Epistemological Anarchism is a [philosophy](./philosophy.md).
