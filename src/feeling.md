@@ -2,15 +2,19 @@
 
 ## [Ontology](./ontology.md)
 
-An [Entity's](./entity.md) internal, input, or output [signals](./signal.md) that influences the Entity's state of being.
+An [Entity's](./entity.md) internal [signal](./signal.md) that influences the Entity's state of being.
 
 ## [Axiology](./axiology.md)
-
-Thoughts are feelings.
 
 All [entities](./entity.md) have feeling, as all entities are able to interpret [signals](./signal.md).
 
 Related to [awareness](./awareness.md) and [consciousness](./consciousness.md).
+
+Feelings are motivating forces/signals that compel one to act/think.
+
+### Thoughts
+
+Thoughts are feelings.
 
 ### Humans
 
