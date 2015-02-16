@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Love is the attractive force that bonds an [Entity](./entity.md) to another entity to intentionally benefit the other entity.
+Love is the attractive force that bonds an [Entity](./entity.md) to another entity to benefit the other entity.
 
 ## [Epistemology](./epistemology.md)
 
