@@ -10,13 +10,15 @@ The notion of self from the [perspective](./perspective.md) of the entity.
 
 ### Aggressive Traits
 
-The ego motivation to impose one's reality onto another being.
+The ego motivation to impose one's [reality](./reality.md) onto another entity.
 
 If the ego is given too much [energy](./energy.md) and used to commit violence (physical, spiritual, emotional, etc), then it can be considered undesirable. The ego can be the motivating factor for a being to suppress another being. e.g., My ego prevents me from admitting that I am wrong so I will make someone else wrong.
 
 ### Defensive Traits
 
-However, the ego is not always considered undesirable. The ego can be a defensive measure to protect the being against another being imposing an [illusion](./illusion.md) (via brainwashing or other [coercive](./coercion.md) techniques).
+The ego is not always considered undesirable. The ego can be a defensive measure to protect the Entity against another entity imposing it's reality.
+
+If the other entity is imposing an [illusion](./illusion.md), with violence, the Entity's ego creates an identity for the Entity to repel the other entity's violence.
 
 ## [Epistemology](./epistemology.md)
 
