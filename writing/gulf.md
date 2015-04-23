@@ -1,6 +1,6 @@
 # Gulf
 
-I feel a gulf between where I am & where I will be. The wall that was the cocoon, the womb protecting...nurturing...smothering
+I feel a gulf between where I am & where I will be. The wall that was the cocoon, the womb protecting...nurturing...smothering...yielding...
 
 The fire rages within, yet is muted by my befuddled exterior.
 
