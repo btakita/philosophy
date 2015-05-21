@@ -10,6 +10,8 @@ Antonym is [unconsciousness](./unconsciousness.md).
 
 Consciousness is related to [awareness](./awareness.md) and [feeling](./feeling.md).
 
+A Conscious Entity is an [Ecosystem](./ecosystem.md) of [Spirits](./spirit.md).
+
 #### [Scope](./scope.md), or Being Present within an Entity
 
 All entities, including the [Universal Set](./universal-set.md) of [Existence](./existence.md), are members of another entity. Examples of being present include, being present in a conversation, being present in your thought experiment.
