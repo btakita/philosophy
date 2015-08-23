@@ -1,7 +1,7 @@
 philosophy
 ==========
 
-[This philosophy](./src/this-philosophy.md) is a [worldview](./src/worldview.md) [tool](./src/tool.md), with the intent of [expanding consciousness](./src/expanding-consciousness.md) by creating [novelty](./src/novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from all [domains](./src/domain.md) in Existence; particularly from [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
+[This philosophy](./src/this-philosophy.md) is a [technology](./src/technology.md), with the intent of [expanding consciousness](./src/expanding-consciousness.md) by creating [novelty](./src/novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from all [domains](./src/domain.md) in Existence; particularly from [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
 
 ## Abstractions as [Patterns](./src/pattern.md)
 

@@ -44,6 +44,8 @@ Consciousness is the [Entity's](./entity.md) conscious [perspective](./perspecti
 
 > Consciousness is the quality or state of awareness, or, of being aware of an external object or something within oneself. It has been defined as: sentience, awareness, subjectivity, the ability to experience or to feel, wakefulness, having a sense of selfhood, and the executive control system of the mind. Despite the difficulty in definition, many philosophers believe that there is a broadly shared underlying intuition about what consciousness is. As Max Velmans and Susan Schneider wrote in The Blackwell Companion to Consciousness: "Anything that we are aware of at a given moment forms part of our consciousness, making conscious experience at once the most familiar and most mysterious aspect of our lives."
 
+<a href="https://www.youtube.com/watch?v=vqCOss4hqnE" target="_blank">Higher Consciousness (youtube.com)</a>
+
 ### [Pattern](./pattern.md) Expression
 
 All Entities have Consciousness.
