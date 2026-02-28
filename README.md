@@ -56,6 +56,50 @@ Since stories can set context and contexts set scope, a story may change the sco
 
 This philosophy makes judicious use of story in the pursuit of expanding consciousness.
 
+## Install — AI Agent Context
+
+This philosophy can be installed as a persistent context for AI agents (e.g., Claude Code). The install script provides a three-layer architecture:
+
+### Three-Layer Architecture
+
+- **Layer 0: Kernel** — Core terms installed into `~/.claude/CLAUDE.md`. Always loaded in every AI session. The irreducible foundation: Existence, Entity, Abstraction, Scope, Context, Resolution, Pattern, System, Domain, Focus, Perspective, Consciousness.
+- **Layer 1: Full Ontology** — All 152 nodes in `src/`. Referenced on demand when deeper definitions are needed. Each node follows the Ontology/Axiology/Epistemology structure defined in `SPEC.md`.
+- **Layer 2: Domain Overlays** — Other repos extend this base ontology in their own `CLAUDE.md` with a `## Domain Ontology` section. Overlay terms reference base concepts they extend.
+
+### Usage
+
+```bash
+# Install kernel + symlink (default: $HOME)
+./install.sh
+
+# Install to a different directory
+./install.sh /path/to/target
+```
+
+This creates:
+- `~/.claude/CLAUDE.md` — Philosophy kernel (12 core terms with definitions)
+- `~/.claude/philosophy` — Symlink to this repo for on-demand full ontology access
+
+The install is idempotent — re-run after updating the repo to refresh the kernel.
+
+### Template System
+
+This repo serves as a canonical philosophy that others can fork and customize. The structure (ontology nodes in `src/`, install script, overlay convention) is designed to be reusable. Fork the repo, modify the nodes to reflect your own philosophical framework, and run `install.sh` to deploy.
+
+### Domain Overlays
+
+Dependent repos extend the base ontology by adding a `## Domain Ontology` section in their `CLAUDE.md`:
+
+```markdown
+## Domain Ontology
+Extends [philosophy](~/.claude/philosophy/)
+
+| Term | Domain Definition | Base |
+|------|------------------|------|
+| Scope | Conversation reach — contacts, threads, time range | `scope.md` |
+| Entity | A contact, email, or draft | `entity.md` |
+```
+
 ## Navigating on github.com
 
 Press "t", then type in the word you want to navigate to.
