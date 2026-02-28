@@ -4,7 +4,7 @@ This repo is the canonical domain ontology. It defines ~150 abstractions in `src
 
 ## For Agents
 
-When the user (or a session document) uses terms like **scope**, **context**, **resolution**, **abstraction**, **entity**, **pattern**, **system**, **domain**, **focus**, **perspective** — reference `src/{term}.md` for the canonical definition.
+When the user (or a session document) uses terms like **existence**, **entity**, **abstraction**, **scope**, **context**, **resolution**, **pattern**, **system**, **domain**, **focus**, **perspective**, **consciousness**, **evolution**, **story** — reference `src/{term}.md` for the canonical definition.
 
 Terms are interconnected via markdown links (`[term](./term.md)`). Follow links to build understanding of relationships.
 
@@ -22,6 +22,10 @@ Terms are interconnected via markdown links (`[term](./term.md)`). Follow links 
 | Focus | `src/focus.md` | Finite attention applied to a scope |
 | Domain | `src/domain.md` | A bounded scope of knowledge |
 | Perspective | `src/perspective.md` | A viewpoint on a system |
+| Existence | `src/existence.md` | Everything that 'is'; the universal set containing all entities |
+| Consciousness | `src/consciousness.md` | An entity's ability to interpret relevant signals; being present |
+| Evolution | `src/evolution.md` | How an entity alters in response to context; pattern of change |
+| Story | `src/story.md` | A sequence of events holding state that creates context |
 
 ## Node Structure
 

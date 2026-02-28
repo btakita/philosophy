@@ -1,7 +1,7 @@
 philosophy
 ==========
 
-[This philosophy](./src/this-philosophy.md) is a [technology](./src/technology.md), with the intent of [expanding consciousness](./src/expanding-consciousness.md) by creating [novelty](./src/novelty.md) by connecting [abstractions](./abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from all [domains](./src/domain.md) in Existence; particularly from [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
+[This philosophy](./src/this-philosophy.md) is a [technology](./src/technology.md), with the intent of [expanding consciousness](./src/expanding-consciousness.md) by creating [novelty](./src/novelty.md) by connecting [abstractions](./src/abstraction.md). Expanding the [scope](./src/scope.md) of words facilitates connections between [entities](./src/entity.md) in [Existence](./src/existence.md) or [God](./src/god.md). This philosophy utilizes techniques, resources, & [edge effects](./src/edge-effects.md) from all [domains](./src/domain.md) in Existence; particularly from [science](./src/science.md), [spirituality](./src/spirituality.md), philosophy, logic, engineering, mathematics, [systems theory](./src/systems-theory.md), etc.
 
 ## Abstractions as [Patterns](./src/pattern.md)
 
@@ -46,7 +46,7 @@ This philosophy defines abstractions in relation to Existence. Words, when appli
 
 [Human](./src/human.md) [Beings](./src/being.md) can [focus](./src/focus.md) on a finite amount of complexity which is much less than the scope of Existence. This means humans must utilize abstractions to create systems that can be focused upon, lest the human becomes overwhelmed and not effective.
 
-You can zoom in & out of the [system](./system.md) to observe details & [patterns](./src/pattern.md).
+You can zoom in & out of the [system](./src/system.md) to observe details & [patterns](./src/pattern.md).
 
 ## [Awareness](./src/awareness.md) of [Story](./src/story.md)
 
@@ -62,7 +62,7 @@ This philosophy can be installed as a persistent context for AI agents (e.g., Cl
 
 ### Three-Layer Architecture
 
-- **Layer 0: Kernel** — Core terms installed into `~/.claude/CLAUDE.md`. Always loaded in every AI session. The irreducible foundation: Existence, Entity, Abstraction, Scope, Context, Resolution, Pattern, System, Domain, Focus, Perspective, Consciousness.
+- **Layer 0: Kernel** — Core terms installed into `~/.claude/CLAUDE.md`. Always loaded in every AI session. The irreducible foundation: Existence, Entity, Abstraction, Scope, Context, Resolution, Pattern, System, Domain, Focus, Perspective, Consciousness, Evolution, Story.
 - **Layer 1: Full Ontology** — All 152 nodes in `src/`. Referenced on demand when deeper definitions are needed. Each node follows the Ontology/Axiology/Epistemology structure defined in `SPEC.md`.
 - **Layer 2: Domain Overlays** — Other repos extend this base ontology in their own `CLAUDE.md` with a `## Domain Ontology` section. Overlay terms reference base concepts they extend.
 
@@ -77,7 +77,7 @@ This philosophy can be installed as a persistent context for AI agents (e.g., Cl
 ```
 
 This creates:
-- `~/.claude/CLAUDE.md` — Philosophy kernel (12 core terms with definitions)
+- `~/.claude/CLAUDE.md` — Philosophy kernel (14 core terms with definitions)
 - `~/.claude/philosophy` — Symlink to this repo for on-demand full ontology access
 
 The install is idempotent — re-run after updating the repo to refresh the kernel.
