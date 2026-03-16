@@ -1,3 +1,4 @@
 .idea
 tmp/*
-.agent-doc/*.iml
+.agent-doc/
+*.iml
