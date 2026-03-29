@@ -31,6 +31,24 @@ Terms are interconnected via markdown links (`[term](./term.md)`). Follow links 
 
 Each `src/*.md` file follows the template defined in `SPEC.md`. The three core sections (Ontology, Axiology, Epistemology) map to: what IS it, why does it MATTER, and how do we KNOW it.
 
+## Universal Applicability Principle
+
+Every ontology term applies to **every entity at every scope**. Terms are universal descriptors, not fixed labels for architecture roles.
+
+**Correct:** "The FFI library is a System. The editor plugin is also a System. Both have Perspectives. Both expose Abstractions."
+
+**Incorrect:** "The FFI library IS the System; the plugin IS the Perspective; the C ABI IS the Abstraction." (This maps terms 1:1 to roles, treating them as exclusive labels.)
+
+When applying ontology to a domain:
+- Each entity in the domain IS a System (a whole of relationships)
+- Each entity HAS a Perspective (its viewpoint)
+- Each entity HAS Abstractions (symbolic representations — "the map is not the territory")
+- Each entity exposes an Interface (the boundary through which it communicates with other Systems)
+- Scope bounds what's relevant at each level
+- Patterns emerge from how these universal properties interact across entities
+
+**Domain overlay convention:** When mapping ontology to architecture, describe how the term **applies to each entity**, not which entity "is" which term.
+
 ## Usage in Sessions
 
 Reference this ontology when:
@@ -38,3 +56,4 @@ Reference this ontology when:
 - Scoping tasks (apply `scope` + `context` + `resolution`)
 - Designing systems (entities, patterns, abstractions)
 - Aligning on meaning (canonical definitions prevent ambiguity)
+- Applying ontology to domains (follow the Universal Applicability Principle above)

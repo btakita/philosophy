@@ -2,15 +2,17 @@
 
 ## [Ontology](./ontology.md)
 
-An abstraction is a [concept](./concept.md) that [models](./model.md) something else, allowing expression of the concept without it's complexity & ambiguity. A word or phrase is an abstraction.
+An abstraction is a symbol that represents a real [entity](./entity.md). An abstraction is a member of a schema. A word, an icon, an utterance, or any other representation of a real entity is an abstraction.
 
-Abstractions allow [perspectives](./perspective.md) to be applied to a [system](./system.md).
+An abstraction is often a simplification of the real entity, but not always. When the real entity (E) is itself an abstraction in its own schema, the abstraction (A) representing E may carry more information than E itself.
+
+Abstractions allow [perspectives](./perspective.md) to be applied to a [system](./system.md). "The map is not the territory" — the abstraction is the map, the entity is the territory.
 
 Abstractions are useful in creating simplified (less [precise](./precision.md)) systems that can be related to other systems using [analogies](./analogy.md).
 
-Abstraction is a form of [illusion](./illusion.md), since it alters the perception of actual entity. The abstraction simplifies the abstracted entity.
+Abstraction is a form of [illusion](./illusion.md), since it alters the perception of the actual entity. The abstraction represents the abstracted entity, though it is not the entity itself.
 
-An [entity](./entity.md) has a limited ability to [focus](./focus.md) on complexity. Somehow, humans make sense of the world with [language](./language.md).
+An [entity](./entity.md) has a limited ability to [focus](./focus.md) on complexity. Somehow, humans make sense of the world with [language](./language.md) — a system of abstractions.
 
 ## [Ethics](./ethics.md)
 
