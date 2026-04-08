@@ -106,6 +106,6 @@ Press "t", then type in the word you want to navigate to.
 
 ## Blog Posts
 
-<a href="http://www.briantakita.com/posts/philosophy-existence-is-god-god-exists/" target="_blank">Philosophy - Existence is God & God Exists(briantakita.com)</a>
+<a href="http://www.briantakita.com/posts/philosophy-existence-is-god-god-exists/" target="_blank">Philosophy - Existence is God & God Exists (briantakita.com)</a>
 
 <a href="http://www.briantakita.com/posts/magic-connections-with-the-philosophy-of-language/" target="_blank">Magic Connections with the Philosophy of Language</a>
