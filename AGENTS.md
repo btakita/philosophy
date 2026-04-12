@@ -49,6 +49,23 @@ When applying ontology to a domain:
 
 **Domain overlay convention:** When mapping ontology to architecture, describe how the term **applies to each entity**, not which entity "is" which term.
 
+## Precision and Bounded / Unbounded Scope
+
+Ontology terms can be applied at any level of **precision**. See `src/precision.md` — precision is the amount of detail a statement carries about the reality it describes. Less precise terms cover broader [scopes](./src/scope.md); more precise terms narrow focus but lose reach.
+
+Every scope is either **bounded** or **unbounded**:
+
+- **Bounded scope** — has explicit limits (a file, a function, a release, a domain boundary, a bounded context in DDD). Statements inside a bounded scope can be precise because the boundary constrains what matters.
+- **Unbounded scope** — has no explicit limit (Existence itself, a universal pattern, a first-class principle). Statements at unbounded scope must be imprecise on purpose, so they remain true across all narrowings.
+
+### Guidance when applying ontology
+
+1. **Name the scope first, then choose precision.** "At scope X, entity Y is a System with perspective Z." Never use an ontology term without an implicit or explicit scope — the same term carries different load at different scopes.
+2. **Match precision to the scope's boundedness.** At an unbounded scope, prefer the least precise term that still distinguishes the entity. At a bounded scope, push precision as far as the boundary allows — precision only becomes dishonest when it claims detail the scope cannot support.
+3. **Precision is lost through abstraction, not gained.** When you abstract, you are trading precision for reach. That trade is valid; hiding it is not.
+4. **Bounded ≠ small, unbounded ≠ large.** A tiny function can be unbounded if it participates in a universal pattern; a galaxy-scale model can be bounded if its premises fix its limits. The question is whether limits are declared, not whether the entity is physically large.
+5. **When a statement feels wrong, check for a scope mismatch.** Most ontology confusion comes from mixing a bounded-scope claim with an unbounded-scope term (or vice versa). Re-state the claim with its scope attached.
+
 ## Usage in Sessions
 
 Reference this ontology when:
