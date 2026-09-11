@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Any [information](./information.md) in [Existence](./existence.md).
+Anything in [Existence](./existence.md) that can be distinguished from anything else.
 
 Entities can be a [abstraction](./abstraction.md), [concept](./concept.md), person, [system](./system.md), object, animal, [collective group of people](./collective.md), a planet, the Universe, Existence (or [God](./god.md)) itself.
 

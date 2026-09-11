@@ -53,8 +53,8 @@ Canonical ontology for modeling Existence across all contexts. Full definitions:
 | Term | Definition |
 |------|-----------|
 | **Existence** | Everything that 'is'; the universal set containing all entities. God = Existence. |
-| **Entity** | Any information in Existence — abstractions, persons, systems, objects |
-| **Abstraction** | A concept modeling something else without its complexity; enables perspective |
+| **Entity** | Anything in Existence that can be distinguished from anything else — abstractions, persons, systems, objects |
+| **Abstraction** | A symbol representing a real entity; member of a schema; often a simplification but not always |
 | **Scope** | Breadth/depth/reach of a perspective; bounds what's relevant |
 | **Context** | Scope applied to abstractions; limits information needed for coherent systems |
 | **Resolution** | Level of detail and granularity; zoom in/out to observe patterns |
@@ -68,6 +68,8 @@ Canonical ontology for modeling Existence across all contexts. Full definitions:
 | **Story** | A sequence of events holding state that creates context; how meaning is communicated |
 
 **Usage:** When these terms appear in conversation, apply the canonical definitions above. Definitions start broad (Existence scope) and narrow by context. For full node definitions (Ontology/Axiology/Epistemology), read `~/.claude/philosophy/src/{term}.md`. The philosophy repo is a living system — update nodes as understanding evolves.
+
+**Universal applicability:** Every term applies to **every entity at every scope**. All entities are Systems, have Perspectives, expose Abstractions. When mapping ontology to a domain, describe how each term applies to each entity — never assign terms as exclusive labels for architecture roles. See `~/.claude/philosophy/CLAUDE.md` § Universal Applicability Principle.
 
 **Domain overlays:** Repos extend this base ontology in their own `CLAUDE.md` with a `## Domain Ontology` section. Overlay terms reference base concepts they extend.
 <!-- philosophy:end -->
