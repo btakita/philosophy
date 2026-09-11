@@ -54,7 +54,7 @@ Canonical ontology for modeling Existence across all contexts. Full definitions:
 |------|-----------|
 | **Existence** | Everything that 'is'; the universal set containing all entities. God = Existence. |
 | **Entity** | Anything in Existence that can be distinguished from anything else — abstractions, persons, systems, objects |
-| **Abstraction** | A symbol representing a real entity; member of a schema; often a simplification but not always |
+| **Abstraction** | A symbol that models an entity, expressing it without its complexity and ambiguity; member of a schema; often a simplification but not always |
 | **Scope** | Breadth/depth/reach of a perspective; bounds what's relevant |
 | **Context** | Scope applied to abstractions; limits information needed for coherent systems |
 | **Resolution** | Level of detail and granularity; zoom in/out to observe patterns |

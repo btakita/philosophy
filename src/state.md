@@ -1,8 +1,12 @@
 # State
 
+## [Ontology](./ontology.md)
+
+The condition of the [Entity](./entity.md) and it's members. State captures the configuration of an entity's properties at a given moment — the snapshot of what IS, as opposed to what was or what will be.
+
 ## [Axiology](./axiology.md)
 
-The condition of the [Entity](./entity.md) and it's members.
+State matters because it is the basis for all observation, comparison, and [evolution](./evolution.md). Without tracking state, no [entity](./entity.md) can detect change, measure progress, or respond to its [environment](./environment.md). State is what makes [patterns](./pattern.md) visible across time.
 
 ## [Epistemology](./epistemology.md)
 
