@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Ethics are the code of conduct according to the [Entity's](./entity.md) [Belief System](./belief-system.md). Ethics is related to [Axiology](./axiology.md).
+Ethics are the code of conduct according to the [Entity's](./entity.md) [Belief System](./belief-system.md); the branch of [axiology](./axiology.md "broader") concerned with conduct.
 
 ## [Epistemology](./epistemology.md)
 

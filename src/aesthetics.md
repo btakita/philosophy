@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-The study or philosophy of beauty. Aesthetics is related to [Axiology](./axiology.md).
+The study or [philosophy](./philosophy.md) of beauty; the branch of [axiology](./axiology.md "broader") concerned with beauty.
 
 ## [Epistemology](./epistemology.md)
 

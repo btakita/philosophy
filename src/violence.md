@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-Violence is physical and/or [coercion](./coercion.md) action of one [entity](./entity.md) against another entity.
+Violence is forceful action of one [entity](./entity.md) against another entity, physical or otherwise.
 
 ## [Axiology](./axiology.md)
 

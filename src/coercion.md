@@ -2,7 +2,7 @@
 
 ## [Ontology](./ontology.md)
 
-To use [violence](./violence.md) in attempt to compel one to act against his will. This violence can be physical, emotional, spiritual, mental, social, intellectual, etc.
+To use [violence](./violence.md "broader") in attempt to compel one to act against his will. This violence can be physical, emotional, spiritual, mental, social, intellectual, etc.
 
 ## [Epistemology](./epistemology.md)
 

@@ -2,7 +2,9 @@
 
 ## [Ontology](./ontology.md)
 
-The study of the origin, nature, functions, types, and interrelations of values; value theory of a [Philosophy](./philosophy.md). Axiology includes [Ethics](./ethics.md) and [Aesthetics](./aesthetics.md).
+The study of the origin, nature, functions, types, and interrelations of values; value theory of a [Philosophy](./philosophy.md).
+
+Axiology includes [Ethics](./ethics.md "narrower") and [Aesthetics](./aesthetics.md "narrower").
 
 ## [Epistemology](./epistemology.md)
 
